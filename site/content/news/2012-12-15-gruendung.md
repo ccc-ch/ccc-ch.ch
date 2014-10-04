@@ -1,5 +1,4 @@
 Title: Chaos Computer Club Schweiz
-Date: 2012-12-15
 Lang: de
 
 ## „Chaos Computer Club Schweiz” auf dem Bundesplatz in Bern gegründet
@@ -54,26 +53,26 @@ präsentieren; auf dem Hacker-Kongress werden zwischen Weihnachten und Neujahr
 
 **Computer Club e.V. (Deutschland):**
 
-- http://ccc.de
-- https://de.wikipedia.org/wiki/Chaos_Computer_Club
+- <http://ccc.de>
+- <https://de.wikipedia.org/wiki/Chaos_Computer_Club>
 
 **Chaos Computer Club Zürich:**
 
-- http://www.ccczh.ch
-- https://de.wikipedia.org/wiki/CCCZH
+- <http://www.ccczh.ch>
+- <https://de.wikipedia.org/wiki/CCCZH>
 
 **Chaostreff Basel:**
 
-- http://wiki.chaostreff.ch/Chaostreff
+- <http://wiki.chaostreff.ch/Chaostreff>
 
 **Hackburg (Hackerspace Freiburg):**
 
-http://www.hackburg.ch/
+- <http://www.hackburg.ch/>
 
 **Hackerspace St. Gallen:**
 
-http://ruum42.ch/
+- <http://ruum42.ch/>
 
 **Chaostreff Bern:**
 
-http://www.eastermundigen.ch/
+- <http://www.eastermundigen.ch/>
