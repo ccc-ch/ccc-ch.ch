@@ -34,3 +34,6 @@ RELATIVE_URLS = True
 
 # Theme
 THEME = 'themes/ccczh'
+
+# Show pages in primary nav
+DISPLAY_PAGES_ON_MENU = True
