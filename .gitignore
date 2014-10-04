@@ -1,3 +1,4 @@
 *.pyc
 *.swp
 site/cache/
+site/output/
