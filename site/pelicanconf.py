@@ -20,6 +20,10 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
+# Disable tags
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
+
 # Blogroll
 LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Python.org', 'http://python.org/'),
