@@ -40,8 +40,17 @@ RELATIVE_URLS = True
 # Theme
 THEME = 'themes/ccczh'
 
-# Show pages in primary nav
-DISPLAY_PAGES_ON_MENU = True
+# Primary navigation
+DISPLAY_PAGES_ON_MENU = False
+MENUITEMS = (
+    ('Home', '/'),
+    #('News', '/pages/statuten.html'),
+    ('Statuten', '/pages/statuten.html'),
+    ('FAQ', '/pages/faq.html'),
+    ('Presse', '/pages/pressespiegel.html'),
+    #('Protokolle', '/pages/statuten.html'),
+    ('Impressum', '/pages/impressum.html'),
+)
 
 # Metadata configuration
 USE_FOLDER_AS_CATEGORY = False

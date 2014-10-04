@@ -1,4 +1,4 @@
-Title: FAQ
+Title: Frequently Asked Questions
 
 ## Was ist der „Chaos Computer Club Schweiz?“
 
