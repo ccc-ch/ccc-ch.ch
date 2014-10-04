@@ -6,7 +6,10 @@ AUTHOR = u'Chaos Computer Club Schweiz'
 SITENAME = u'Chaos Computer Club Schweiz'
 SITEURL = ''
 
+# Paths
 PATH = 'content'
+PAGE_PATHS = ['pages']
+ARTICLE_PATHS = ['news', 'protocols']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -23,7 +26,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('Jinja2', 'http://jinja.pocoo.org/'),
          ('You can modify those links in your config file', '#'),)
 
-MD_EXTENSIONS = ['def_list', 'smarty', 'sane_lists', 'tables']
+MD_EXTENSIONS = ['def_list', 'sane_lists', 'tables']
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
@@ -40,8 +43,9 @@ THEME = 'themes/ccczh'
 # Show pages in primary nav
 DISPLAY_PAGES_ON_MENU = True
 
-# Use directories as categories
-USE_FOLDER_AS_CATEGORY = True
+# Metadata configuration
+USE_FOLDER_AS_CATEGORY = False
+PATH_METADATA = '(?P<slug>(?P<category>[a-zA-Z]+)/(?P<date>\d{4}-\d{2}-\d{2})_[^/]+)/(?P<lang>[a-z].*).md'
 
 # Date formats
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
@@ -51,3 +55,6 @@ DATE_FORMATS = {
     'it': '%d.%m.%Y',
     'en': '%Y-%m-%d',
 }
+
+# Typography
+TYPOGRIFY = True

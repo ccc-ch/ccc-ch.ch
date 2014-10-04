@@ -1,6 +1,21 @@
 Title: Pressespiegel
 Lang: de
 
+## 2014
+
+### 3. September
+
+- [Netzpolitik.org: Vorratsdatenspeicherung in der Schweiz: Digitale Gesellschaft gelangt mit Beschwerde an Bundesverwaltungsgericht](https://netzpolitik.org/2014/vorratsdatenspeicherung-in-der-schweiz-digitale-gesellschaft-gelangt-mit-beschwerde-an-bundesverwaltungsgericht/)
+
+### 2. September
+
+- [Blick: «Es wirkt wie ein Bubenstreich»](http://www.blick.ch/news/ausland/hacker-experte-ueber-sex-alarm-in-hollywood-es-wirkt-wie-ein-bubenstreich-id3099586.html)
+
+### 30. März
+
+- [20 Minuten: Datenklau bei Firmen ist keine Herausforderung](http://www.20min.ch/finance/news/story/-Datenklau-bei-Firmen-ist-keine-Herausforderung--28612039)
+
+
 ## 2013
 
 ### 19. November
