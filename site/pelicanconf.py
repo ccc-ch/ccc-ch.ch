@@ -9,7 +9,7 @@ SITEURL = ''
 # Paths
 PATH = 'content'
 PAGE_PATHS = ['pages']
-ARTICLE_PATHS = ['news', 'protocols']
+ARTICLE_PATHS = ['news', 'protocols', 'pressinfo']
 
 TIMEZONE = 'Europe/Paris'
 
@@ -50,6 +50,7 @@ MENUITEMS = (
     ('FAQ', '/pages/faq.html'),
     ('Presse', '/pages/pressespiegel.html'),
     ('Protokolle', '/category/protocols.html'),
+    ('Pressemitteilungen', '/category/pressinfo'),
     ('Impressum', '/pages/impressum.html'),
 )
 
