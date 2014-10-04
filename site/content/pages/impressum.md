@@ -4,8 +4,8 @@ Verantwortlich für den Inhalt dieser Seiten ist der CCC CH. Bei Fragen wenden S
 
 Postalisch erreichen Sie uns unter der folgenden Anschrift:
 
-Chaos Computer Club Schweiz
-Birsfelderstrasse 6
+Chaos Computer Club Schweiz<br/>
+Birsfelderstrasse 6<br/>
 4132 Muttenz
 
 # Konto-Daten
