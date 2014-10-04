@@ -1,4 +1,6 @@
 Title: Chaos Computer Club Schweiz
+Date: 2012-12-15
+Lang: de
 
 ## „Chaos Computer Club Schweiz” auf dem Bundesplatz in Bern gegründet
 

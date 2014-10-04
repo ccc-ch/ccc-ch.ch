@@ -37,3 +37,15 @@ THEME = 'themes/ccczh'
 
 # Show pages in primary nav
 DISPLAY_PAGES_ON_MENU = True
+
+# Use directories as categories
+USE_FOLDER_AS_CATEGORY = True
+
+# Date formats
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
+DATE_FORMATS = {
+    'de': '%d.%m.%Y',
+    'fr': '%d.%m.%Y',
+    'it': '%d.%m.%Y',
+    'en': '%Y-%m-%d',
+}
