@@ -56,6 +56,7 @@ MENUITEMS = (
 
 # Metadata configuration
 USE_FOLDER_AS_CATEGORY = False
+SLUGIFY_SOURCE = 'basename'
 PATH_METADATA = '(?P<slug>(?P<category>[a-zA-Z]+)/(?P<date>\d{4}-\d{2}-\d{2})_[^/]+)/(?P<lang>[a-z].*).md'
 
 # Date formats
