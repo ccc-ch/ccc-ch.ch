@@ -42,13 +42,14 @@ THEME = 'themes/ccczh'
 
 # Primary navigation
 DISPLAY_PAGES_ON_MENU = False
+DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
     ('Home', '/'),
-    #('News', '/pages/statuten.html'),
+    ('News', '/category/news.html'),
     ('Statuten', '/pages/statuten.html'),
     ('FAQ', '/pages/faq.html'),
     ('Presse', '/pages/pressespiegel.html'),
-    #('Protokolle', '/pages/statuten.html'),
+    ('Protokolle', '/category/protocols.html'),
     ('Impressum', '/pages/impressum.html'),
 )
 
