@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=ccc-ch.ch
+SSH_HOST=dbrgn.ch
 SSH_PORT=22
 SSH_USER=danilo
-SSH_TARGET_DIR=/var/www/users/swiss-chaos.ch/htdocs/new/
+SSH_TARGET_DIR=/var/www/ccc-ch/
 
 S3_BUCKET=my_s3_bucket
 
