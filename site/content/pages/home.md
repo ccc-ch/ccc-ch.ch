@@ -1,7 +1,5 @@
 Title: Chaos Computer Club Schweiz
 
-# Chaos Computer Club Schweiz
-
 ## „Chaos Computer Club Schweiz” auf dem Bundesplatz in Bern gegründet
 
 Mit einem symbolischen Akt auf dem Bundespatz in Bern haben rund 40 Delegierte
