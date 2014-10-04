@@ -1,5 +1,4 @@
 Title: Chaos Computer Club Schweiz
-Lang: de
 
 ## „Chaos Computer Club Schweiz” auf dem Bundesplatz in Bern gegründet
 
