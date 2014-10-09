@@ -1,0 +1,7 @@
+{% macro rss_for(article) %}
+{% if article.lang %}
+                                <a href="{{ article.lang }}/feeds/rss_{{ article.lang }}.xml" >
+                                    <img height="19px" width="19px" alt="rss" src="/theme/rss-icon.png" />
+                                </a>
+{% endif %}
+{% endmacro %}

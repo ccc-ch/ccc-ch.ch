@@ -1,0 +1,31 @@
+{% if (PIWIK_URL or PIWIK_SSL_URL) and PIWIK_SITE_ID %}
+    <noscript>
+        <div style="display: none;">
+{% if PIWIK_SSL_URL %}
+            <img src="https://{{ PIWIK_SSL_URL }}/tracker.php?idsite={{ PIWIK_SITE_ID }}&amp;rec=1" style="border:0" alt="" />
+{% else %}
+            <img src="http://{{ PIWIK_URL }}/tracker.php?idsite={{ PIWIK_SITE_ID }}&amp;rec=1" style="border:0" alt="" />
+{% endif %}
+        </div>
+    </noscript>
+
+    <script type="text/javascript">
+    {% if PIWIK_SSL_URL %}
+    var pkBaseURL = "{{ PIWIK_SSL_URL }}";
+    {% else %}
+    var pkBaseURL = "{{ PIWIK_URL }}";
+    {% endif %}
+    (function() {
+        function async_load(){
+            var s = document.createElement('script');
+            var u=(("https:" == document.location.protocol) ? "https://"+pkBaseURL : "http://"+pkBaseURL);
+            s.type = 'text/javascript';
+            s.async = true;
+            s.src = u+'/tracker.js';
+            var x = document.getElementsByTagName('script')[0];
+            x.parentNode.insertBefore(s, x);
+        }
+        window.attachEvent ? window.attachEvent('onload', async_load) : window.addEventListener('load', async_load, false);
+        })();
+    </script>
+{% endif %}

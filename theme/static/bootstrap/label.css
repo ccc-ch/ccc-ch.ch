@@ -1,0 +1,4 @@
+.label a:active, .label a:hover, .label a:link, .label a:visited {
+  color: #ffffff;
+  text-decoration: none;
+}

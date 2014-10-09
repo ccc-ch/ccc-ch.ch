@@ -1,0 +1,14 @@
+TEXTAREA.error404 {
+  background-color: white;
+  color: black;
+  font-family: Verdana;
+  font-size: 10px;
+  border:0px;
+  scrollbar-3dlight-color: white;
+  scrollbar-arrow-color: white;
+  scrollbar-darkshadow-color: white;
+  scrollbar-face-color: white;
+  scrollbar-highlight-color: white;
+  scrollbar-shadow-color: white;
+  scrollbar-track-color: white;
+}

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="{{ DEFAULT_LANG }}">
+<head>
+    {% block head %}
+    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ SITENAME }}">
+    <meta name="author" content="{{ AUTHOR }}{% if EMAIL_ADDR %} <{{ EMAIL_ADDR }}>{% endif %}">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link rel="icon" href="/images/favicon.ico" type="image/ico">
+
+    <!-- Bootstrap core CSS -->
+    <link href="/theme/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/theme/bootstrap/navbar.css" rel="stylesheet">
+    <link href="/theme/bootstrap/font.css" rel="stylesheet">
+    <link href="/theme/bootstrap/margin.css" rel="stylesheet">
+    <link href="/theme/bootstrap/textarea.css" rel="stylesheet">
+
+    <link href="/theme/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    {% if FEED_ALL_ATOM or FEED_ALL_RSS or FEED_ATOM or FEED_RSS or CATEGORY_FEED_ATOM or CATEGORY_FEED_RSS or TAG_FEED_ATOM or TAG_FEED_RSS %}
+
+    {% if FEED_ALL_ATOM %}
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+    {% endif %}
+    {% if FEED_ATOM %}
+    <link href="{{ FEED_DOMAIN }}/{{ DEFAULT_LANG }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+    {% endif %}
+    {% if FEED_RSS %}
+    <link href="{{ FEED_DOMAIN }}/{{ DEFAULT_LANG}}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+    {% endif %}
+    {% if CATEGORY_FEED_ATOM and category %}
+    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+    {% endif %}
+    {% if CATEGORY_FEED_RSS and category %}
+    <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+    {% endif %}
+    {% if TAG_FEED_ATOM and tag %}
+    <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+    {% endif %}
+    {% if TAG_FEED_RSS and tag %}
+    <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+    {% endif %}
+    {% endif %}
+    {% endblock head %}
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- Static navbar -->
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="{{ SITEURL }}/">
+                        <b>{{ SITENAME }}</b>{% if SITESUBTITLE %} - {{ SITESUBTITLE }}{% endif %}
+                    </a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        {% block navigation %}
+                        {% for title, link, SUBMENU in MENUITEMS %}
+                        {% if link == "#" %}
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ title }}<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                {% for title, link in SUBMENU %}
+                                {% if title == "#" and link == "#" %}
+                                <li class="divider"></li>
+                                {% elif link == "#" %}
+                                <li class="dropdown-header">{{ title }}</li>
+                                {% else %}
+                                <li{% if link == output_file %} class="active"{% endif %}><a href="{{ link }}">{{ title }}</a></li>
+                                {% endif %}
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        {% else %}
+                        <li{% if link == output_file %} class="active"{% endif %}><a href="{{ link }}">{{ title }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                        {% if DISPLAY_PAGES_ON_MENU %}
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                {% for p in PAGES %}
+                                <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        {% endif %}
+                        {% if DISPLAY_CATEGORIES_ON_MENU %}
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categories<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                {% for cat, null in categories %}
+                                <li{% if cat == category %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        {% endif %}
+                        {% block translation %}{% endblock translation %}
+                        {% endblock navigation %}
+                    </ul>
+                </div><!--/.nav-collapse -->
+            </div><!--/.container-fluid -->
+        </div>
+
+        <section id="content" class="body">
+            <header>
+                {% block content_title %}
+                {% endblock %}
+            </header>
+
+            {% block content %}
+            {% endblock %}
+        </section>
+
+        <hr />
+        <footer>
+            <div class="row">
+                {% block footer %}
+                {% block footer_left %}
+                <div class="col-md-4"></div>
+                {% endblock footer_left %}
+                {% block footer_middle %}
+                <div class="col-md-4"></div>
+                {% endblock footer_middle %}
+                {% block footer_right %}
+                <div class="col-md-4">
+                    <p class="text-muted pull-right"><a class="text-muted" href="impressum.html">Impressum</a></p>
+                </div>
+                {% endblock footer_right %}
+                {% endblock footer %}
+            </div>
+        </footer><!-- /#contentinfo -->
+
+    </div> <!-- /container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/theme/jquery/jquery.min.js"></script>
+    <script src="/theme/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/theme/bootstrap/headings.js"></script>
+    <script src="/theme/bootstrap/table.js"></script>
+
+{% include 'piwik.html' %}
+</body>
+</html>
