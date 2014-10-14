@@ -20,4 +20,4 @@ pip install -r requirements.txt > /dev/null
 #a2ensite localhost
 #service apache2 reload
 
-#cd site/; ./develop_server.sh start 8080
+# cd /var/www/site/; ./develop_server.sh start 

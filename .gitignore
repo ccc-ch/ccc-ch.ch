@@ -3,3 +3,4 @@
 site/cache/
 site/output/
 *.pid
+.vagrant/machines/
