@@ -11,13 +11,13 @@ echo install project requirements
 cd /var/www
 pip install -r requirements.txt > /dev/null
 
-echo install apache2
+#echo install apache2
 
-apt-get install apache2 > /dev/null
+#apt-get install apache2 > /dev/null
 
-cp .vagrant/configs/localhost /etc/apache2/sites-available/
+#cp .vagrant/configs/localhost /etc/apache2/sites-available/
 
-a2ensite localhost
-service apache2 reload
+#a2ensite localhost
+#service apache2 reload
 
 #cd site/; ./develop_server.sh start 8080
