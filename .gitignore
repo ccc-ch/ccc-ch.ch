@@ -4,3 +4,6 @@ site/cache/
 site/output/
 *.pid
 .vagrant/machines/
+build
+node_modules
+.sass-cache
