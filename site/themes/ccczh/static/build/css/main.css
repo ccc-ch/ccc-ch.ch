@@ -1,0 +1,143 @@
+/* --- Imports --- 
+
+@import url('../../css/reset.css');
+@import url('../../css/pygment.css');
+@import url('../../css/typogrify.css');
+@import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
+*/
+/* --- colors --- */
+/* --- general ---*/
+body {
+  font-size: 87.5%;
+  font-family: 'Droid Sans', sans-serif;
+  line-height: 26px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Droid Sans',serif;
+  font-weight: 400; }
+
+h1, h2 {
+  margin: 50px 0 20px 0; }
+
+ul.nostyle {
+  list-style-type: none; }
+
+address {
+  padding: 8px;
+  border: 1px solid #ddd; }
+
+table {
+  width: 100%; }
+
+dl {
+  padding: 10px 0 0 10px; }
+dl dt {
+  font-size: 18px; }
+dl dd {
+  margin: 0 0 30px 10px; }
+
+/* --- off canvas - mobile navigation --- */
+.icon-burger {
+  position: absolute;
+  left: 0;
+  width: 1.625em;
+  height: .313em;
+  background: #0088D7;
+  margin: 1.5em;
+  transition: right 0.3s ease; }
+
+@media all and (max-width: 384px) {
+  .icon-burger {
+    margin: 1em 0.7em; } }
+.icon-burger::before, .icon-burger::after {
+  content: "";
+  position: absolute;
+  background: #0088D7;
+  width: 1.625em;
+  height: .313em; }
+
+.icon-burger::before {
+  top: -.625em; }
+
+.icon-burger::after {
+  bottom: -.625em; }
+
+.body-close {
+  position: absolute;
+  top: 0;
+  right: 17.5em;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 1; }
+
+.off-canvas {
+  position: fixed;
+  left: -18em;
+  width: 17.5em;
+  height: 100%;
+  background: #F5F5F5;
+  transition: left 0.3s ease;
+  box-shadow: 5px 0px 20px -3px #666;
+  z-index: 100;
+  border-right: 1px solid #ddd; }
+
+.wrapper {
+  position: relative;
+  right: 0;
+  transition: right .3s ease; }
+
+.off-canvas:target {
+  left: 0; }
+
+.off-canvas:target ~ .icon {
+  left: 17.5em; }
+
+.off-canvas:target ~ .body-close {
+  pointer-events: auto; }
+
+.off-canvas:target ~ .wrapper {
+  right: -17.5em; }
+
+#off-canvas nav ul {
+  margin: 0px; }
+#off-canvas nav ul li {
+  padding: 20px 0 30px 5px;
+  border-bottom: 1px solid #ddd;
+  margin: 0 0 0 30px;
+  list-style: none; }
+#off-canvas nav ul li a {
+  color: #0088D7;
+  font-size: 18px;
+  font-family: arial;
+  text-decoration: none; }
+@media all and (max-width: 384px) {
+  #off-canvas nav ul li {
+    padding: 12px; }
+  #off-canvas nav ul li:last-child {
+    border-bottom: 0; } }
+
+/* --- header --- */
+header .header-background {
+  background-image: url("../../images/ccczh-wiki_fade.png");
+  background-size: cover;
+  height: 60px;
+  width: 100%;
+  background-repeat: no-repeat;
+  border-width: 0 1px 1px 1px;
+  border-color: #0088D7;
+  border-style: solid; }
+@media all and (max-width: 580px) {
+  header .header-background {
+    background-image: url("../../images/ccczh-wiki_fade_small.png");
+    background-size: contain;
+    border: 0; } }
+
+article aside {
+  text-align: right; }
+article [role='contentinfo'] p {
+  text-align: right; }
+article h1 {
+  margin-top: 50px; }
+
+/*# sourceMappingURL=main.css.map */
