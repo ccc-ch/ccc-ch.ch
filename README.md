@@ -2,8 +2,8 @@ Website of CCC Swiss association based on [Pelican Static Site Generator](http:/
 
 |environment | URL|
 |---|---|
-|stage|[ccc-ch.ch](http://ccc-ch.ch/)|
-|live|[ccc.dbrgn.ch](http://ccc.dbrgn.ch/)|
+|stage|[ccc.dbrgn.ch](http://ccc.dbrgn.ch/)|
+|live|[ccc-ch.ch](http://ccc-ch.ch/)|
 
 # Depencies
 
