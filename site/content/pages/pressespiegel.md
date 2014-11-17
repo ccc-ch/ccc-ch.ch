@@ -3,6 +3,10 @@ Lang: de
 
 ## 2014
 
+### 17. November
+
+- [20 Minuten: Das NDB-Gesetz ist eine Gefahr für die Schweiz](http://www.20min.ch/schweiz/news/story/13020586)
+
 ### 3. September
 
 - [Netzpolitik.org: Vorratsdatenspeicherung in der Schweiz: Digitale Gesellschaft gelangt mit Beschwerde an Bundesverwaltungsgericht](https://netzpolitik.org/2014/vorratsdatenspeicherung-in-der-schweiz-digitale-gesellschaft-gelangt-mit-beschwerde-an-bundesverwaltungsgericht/)
