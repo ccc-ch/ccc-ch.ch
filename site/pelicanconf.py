@@ -36,6 +36,9 @@ RELATIVE_URLS = True
 # Theme
 THEME = 'themes/ccczh'
 
+# Static files
+STATIC_PATHS = ['files']
+
 # Primary navigation
 DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
