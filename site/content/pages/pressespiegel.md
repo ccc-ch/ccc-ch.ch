@@ -3,6 +3,11 @@ Lang: de
 
 ## 2014
 
+### 18. November
+
+- [Tagesanzeiger: Schweizer Telefonüberwacher schmücken Büro mit DDR-Fahne](http://www.tagesanzeiger.ch/schweiz/standard/Schweizer-Telefonueberwacher-schmuecken-Buero-mit-DDRFahne/story/13254940)
+- [20 Minuten: Was macht die DDR-Flagge im Überwachungs-Büro?](http://www.20min.ch/schweiz/news/story/Was-macht-die-DDR-Flagge-im--berwachungs-Buero--19988388)
+
 ### 17. November
 
 - [20 Minuten: Das NDB-Gesetz ist eine Gefahr für die Schweiz](http://www.20min.ch/schweiz/news/story/13020586)
