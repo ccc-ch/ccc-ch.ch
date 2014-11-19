@@ -3,6 +3,10 @@ Lang: de
 
 ## 2014
 
+### 19. November
+
+- [PC Tipp: Ist WhatsApp jetzt sicherer als Threema?](http://www.pctipp.ch/news/kommunikation/artikel/ist-whatsapp-jetzt-sicherer-als-threema-81331/)
+
 ### 18. November
 
 - [Tagesanzeiger: Schweizer Telefonüberwacher schmücken Büro mit DDR-Fahne](http://www.tagesanzeiger.ch/schweiz/standard/Schweizer-Telefonueberwacher-schmuecken-Buero-mit-DDRFahne/story/13254940)
