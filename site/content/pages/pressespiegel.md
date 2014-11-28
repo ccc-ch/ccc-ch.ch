@@ -3,6 +3,10 @@ Lang: de
 
 ## 2014
 
+### 23. November
+
+- [NZZ Campus: Der gute Hacker](http://campus.nzz.ch/leben/der-gute-hacker)
+
 ### 19. November
 
 - [PC Tipp: Ist WhatsApp jetzt sicherer als Threema?](http://www.pctipp.ch/news/kommunikation/artikel/ist-whatsapp-jetzt-sicherer-als-threema-81331/)
