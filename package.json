@@ -1,6 +1,10 @@
 {
-  "name": "SkillSet",
+  "name": "ccc-ch.ch",
   "version": "0.1.0",
+  "repository": {
+	  "type": "git",
+	  "url": "https://github.com/dbrgn/ccc-ch.ch.git"
+	},
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-contrib-csslint": "^0.3.1",
