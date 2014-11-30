@@ -6,6 +6,12 @@
 @import url(//fonts.googleapis.com/css?family=Yanone+Kaffeesatz&subset=latin);
 */
 
+/* headings */
+
+h1 {font-size: 30px;}
+h2 {font-size: 26px;}
+h3 {font-size: 22px;}
+
 
 /* --- colors --- */
 
@@ -60,6 +66,14 @@ dl
 		margin: 0 0 30px 10px;
 	}
 }
+
+.center
+{
+	display: block;
+	margin: 0 auto;
+}
+
+
 
 /* --- off canvas - mobile navigation --- */
 
@@ -177,6 +191,8 @@ dl
 
 header
 {
+	height: 50px;
+
 	.header-background
 	{
 		background-image: url('../../images/ccczh-wiki_fade.png');
@@ -197,6 +213,26 @@ header
 	  	}
 	}
 }
+.relative{position: relative;}
+.ccc
+ {
+	color: red;
+	text-transform: uppercase;
+	font-size: 30px;
+	line-height: 60px;
+	text-align: center;
+	margin-bottom: 43px;
+	font-weight: bold;
+	position: absolute;
+	top: 220px;
+	text-shadow: 1px 1px #aaa;
+	left: 10%;
+ }
+ h2.ccc
+ {
+ 	top:260px;
+	font-size: 25px;
+ }
 
 article
 {
@@ -221,3 +257,6 @@ article
 	}
 	
 }
+
+@media all and (max-width: 580px) {
+	}

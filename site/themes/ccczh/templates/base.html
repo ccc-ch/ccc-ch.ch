@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, user-scalable=no">
-  <title>{% block title %}{{ SITENAME }}{%endblock%}</title>
+  <title>Chaos Computer Club Schweiz</title>
   <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/foundation.min.css" />
   <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/build/css/{{ CSS_FILE }}" />
   
@@ -74,18 +74,25 @@
       -->
       
       <a href="{{ SITEURL }}/" class="large-11 columns small-11">
-        <div class="header-background"></div>
         
       </a>
     </header>
 
     <div class="row">
 
-      <main class="large-9 columns large-offset-1">
+      <div class="relative">        
+        <img alt="CCC CH" title="CCC CH" class=" center" src="http://www.ccc-ch.ch/img/ccc-ch.png">
+        
+        <h1 class="ccc">Chaos Computer Club Schweiz</h1>
+        <h2 class="ccc">Schweiz | Suisse | Svizzera | Svizra</h2>
+      </div>
+
+      <main class="large-12 columns ">
         {% block content %}
         {% endblock %}
       </main>
 
+      {#
       <section role="note" class="large-2 columns">
 
         {% if LINKS %}
@@ -121,6 +128,7 @@
         {% endif %}
 
       </section><!-- /#extras -->
+      #}
     </div>
   </section>
 
