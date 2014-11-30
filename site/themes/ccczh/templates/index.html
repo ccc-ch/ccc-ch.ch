@@ -6,56 +6,73 @@
 
         {# First item #}
         {% if loop.first and not articles_page.has_previous() %}
-            <aside id="featured" class="body">
+            <aside >
                 <article>
-                    <h1 class="entry-title"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h1>
+                    <h1>
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                    </h1>
+
                     {% include 'article_infos.html' %}{{ article.content }}{% include 'comments.html' %}
                 </article>
+
                 {% if loop.length == 1 %}
                     {% include 'pagination.html' %}
                 {% endif %}
-            </aside><!-- /#featured -->
+
+            </aside>
+
             {% if loop.length > 1 %}
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+            
+            <section >
+                <hr>
+                <h3>Other articles</h3>
+               
+                <ul class="nostyle">
+            
             {% endif %}
-        {# other items #}
+
+        {# ---- other items ---- #}
         {% else %}
             {% if loop.first and articles_page.has_previous %}
-                <section id="content" class="body">
-                    <ol id="posts-list" class="hfeed" start="{{ articles_paginator.per_page -1 }}">
+            <section >
+                <ul start="{{ articles_paginator.per_page -1 }}">
             {% endif %}
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
-                           title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h1>
-                </header>
+                    <li>
+                        <article >
+                            <header>
+                                <h1>
+                                    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+                                </h1>
+                            </header>
 
-                <div class="entry-content">
-                {% include 'article_infos.html' %}
-                {{ article.summary }}
-                <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">read more</a>
-                {% include 'comments.html' %}
-                </div><!-- /.entry-content -->
-            </article></li>
+                            <div>
+                                {% include 'article_infos.html' %}
+                                {{ article.summary }}
+                                <a class="readmore" href="{{ SITEURL }}/{{ article.url }}">read more</a>
+                                {% include 'comments.html' %}
+                            </div>
+                        </article>
+                    </li>
         {% endif %}
         {% if loop.last %}
-            </ol><!-- /#posts-list -->
-            {% if loop.last and (articles_page.has_previous()
-            or not articles_page.has_previous() and loop.length > 1) %}
+                </ul>
+            {%  if loop.last and (articles_page.has_previous()
+                or not articles_page.has_previous() and loop.length > 1) %}
                 {% include 'pagination.html' %}
             {% endif %}
-            </section><!-- /#content -->
+            </section>
         {% endif %}
     {% endfor %}
 {% else %}
-<section id="content" class="body">
-<h2>Pages</h2>
-    {% for page in PAGES %}
-        <li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
-</section>
+
+            <section>
+            <h2>Pages</h2>
+            {% for page in PAGES %}
+                <li>
+                    <a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a>
+                </li>
+            {% endfor %}
+            </section>
+
 {% endif %}
 {% endblock content %}
