@@ -1,6 +1,13 @@
 Title: Pressespiegel
 Lang: de
 
+## 2015
+
+### 13. Januar
+
+- [inside-it.ch: Cameron will verschlüsselte Kommunikation verbieten](http://www.inside-it.ch/articles/38866)
+
+
 ## 2014
 
 ### 23. November
