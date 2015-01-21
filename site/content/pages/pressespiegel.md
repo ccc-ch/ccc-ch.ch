@@ -3,6 +3,10 @@ Lang: de
 
 ## 2015
 
+### 21. Januar
+
+- [20 Minuten: Cyber-Dschihadisten hacken Schweizer Websites](http://www.20min.ch/schweiz/news/story/Cyber-Dschihadisten-hacken-Schweizer-Websites-31293708)
+
 ### 13. Januar
 
 - [inside-it.ch: Cameron will verschlüsselte Kommunikation verbieten](http://www.inside-it.ch/articles/38866)
