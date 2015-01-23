@@ -3,6 +3,10 @@ Lang: de
 
 ## 2015
 
+### 23. Januar
+
+- [SRF: Darknet – ein Verstärker der menschlichen Natur?](http://www.srf.ch/news/wirtschaft/wef-2015/darknet-ein-verstaerker-der-menschlichen-natur)
+
 ### 21. Januar
 
 - [20 Minuten: Cyber-Dschihadisten hacken Schweizer Websites](http://www.20min.ch/schweiz/news/story/Cyber-Dschihadisten-hacken-Schweizer-Websites-31293708)
