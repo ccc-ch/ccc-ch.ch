@@ -10,8 +10,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     # Virtualbox setup
 
     config.vm.provider "virtualbox" do |vb, override|
-        # Don't boot in headless mode
-        vb.gui = true
+        # Boot in headless mode
+        vb.gui = false
 
         # Use VBoxManage to customize the VM. For example to change memory:
         vb.customize ["modifyvm", :id, "--name", "ccc-ch.ch", "--memory", "512"]
