@@ -17,42 +17,42 @@ syntax and CSS is created using the [SASS][sass] preprocessor.
 
 ## Development Setup
 
-### Development VM using Vagrant + Virtualbox
+### Vagrant + Virtualbox
 
 With [Virtualbox][virtualbox] and [Vagrant][vagrant] you can easily set up and
 provision a complete development VM.
 
 To initialize the VM:
 
-  $ vagrant up --provider virtualbox
+    $ vagrant up --provider virtualbox
 
 To SSH into the VM:
 
-  $ vagrant ssh
+    $ vagrant ssh
 
 To start the development server:
 
-  $ cd /var/www/site/
-  $ ./develop_server.sh start
+    $ cd /var/www/site/
+    $ ./develop_server.sh start
 
 Then open `http://10.14.10.5:8000` on your local machine. You can edit the files
 directly on the local file system, the files are synced with the VM.
 
 To stop the VM:
 
-  $ vagrant halt
+    $ vagrant halt
 
 And to destroy it:
 
-  $ vagrant destroy
+    $ vagrant destroy
 
-### Development VM using Vagrant + Docker
+### Vagrant + Docker
 
 If you're all hip and bleeding edge, you can also use [Docker][docker] together
 with [Vagrant][vagrant]. It's actually really cool and simple to set up a dev
 system:
 
-  $ vagrant up --provider docker
+    $ vagrant up --provider docker
 
 Now you have a lightweight docker container running in the background serving
 the ccc-ch.ch site on `http://localhost:8000`!
@@ -61,11 +61,11 @@ You cannot SSH into it, but you can
 
 To stop the container:
 
-  $ vagrant halt
+    $ vagrant halt
 
 And to destroy it:
 
-  $ vagrant destroy
+    $ vagrant destroy
 
 ### Manual setup
 
@@ -77,17 +77,17 @@ following tools:
 
 First, create a virtualenv:
 
-  $ virtualenv -p $(which python2) VENV
-  $ . VENV/bin/activate
+    $ virtualenv -p $(which python2) VENV
+    $ . VENV/bin/activate
 
 Then install the dependencies:
 
-  $ pip install -U -r requirements.txt
+    $ pip install -U -r requirements.txt
 
 Now start the development server:
 
-  $ cd site
-  $ ./develop_server.sh start
+    $ cd site
+    $ ./develop_server.sh start
 
 The web server is now running on `http://localhost:8000`.
 
