@@ -6,19 +6,6 @@ VAGRANTFILE_API_VERSION = "2"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     
-    config.vm.post_up_message = "Virtual Machine for 'Denner - Winepromo Microsite' is ready
-      Website:
-          http://10.14.10.5/
-      Important commands:
-          vagrant ssh
-              - Enter VM
-          vagrant halt
-              - Stop VM
-          vagrant destroy
-              - Remove VM
-              (Your code is NOT affected, code is NOT stored on the VM)
-      "
-   
     config.vm.synced_folder "./", "/var/www"
   
     config.vm.provider "virtualbox" do |vb, override|
