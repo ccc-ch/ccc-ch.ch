@@ -7,7 +7,7 @@ ENV LANG            C.UTF-8
 RUN	sed -ri 's@http://http.debian.net/@ftp://ftp.ch.debian.org/@' \
 	/etc/apt/sources.list
 RUN     apt-get -qqy update && \
-	apt-get install -y sudo python-pip && \
+	apt-get install -y sudo python-dev python-pip && \
         apt-get -qqy clean
 
 ADD     requirements.txt /tmp/
