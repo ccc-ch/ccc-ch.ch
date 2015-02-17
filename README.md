@@ -1,37 +1,104 @@
-Website of CCC Swiss association based on [Pelican Static Site Generator](http://blog.getpelican.com/)
+Website of CCC Swiss association.
 
 |environment | URL|
 |---|---|
 |stage|[ccc.dbrgn.ch](http://ccc.dbrgn.ch/)|
 |live|[ccc-ch.ch](http://ccc-ch.ch/)|
 
-# Depencies
 
-* [Virtualbox](https://www.virtualbox.org/) is required to run with Vagrant
-* [Vagrant](http://www.vagrantup.com/) is requierd to initialize the development VM
+# Dependencies
 
-# Installation
+The CCC-CH website is implemented with the help of Python and the [Pelican
+Static Site Generator][pelican]. Content is written in [Markdown][markdown]
+syntax and CSS is created using the [SASS][sass] preprocessor.
 
-1. ``git clone https://github.com/peponi/ccc-ch.ch.git``
-2. ``cd ccc-ch.ch``
-3. ``vagrant up``
-4. ``vagrant ssh``
-5. ``cd /var/www/site/; ./develop_server.sh start``
-6. open http://10.14.10.5:8000
 
-for **scss compilation** change to a second terminal tab
+# Development Setup
 
-7. ``vagrant ssh``
-8. ``cd /var/www/site/``
-9. ``grunt watch``
+## Development VM using Vagrant + Virtualbox
+
+With [Virtualbox][virtualbox] and [Vagrant][vagrant] you can easily set up and
+provision a complete development VM.
+
+To initialize the VM:
+
+  $ vagrant up --provider virtualbox
+
+To SSH into the VM:
+
+  $ vagrant ssh
+
+To start the development server:
+
+  $ cd /var/www/site/
+  $ ./develop_server.sh start
+
+Then open `http://10.14.10.5:8000` on your local machine. You can edit the files
+directly on the local file system, the files are synced with the VM.
+
+To stop the VM:
+
+  $ vagrant halt
+
+And to destroy it:
+
+  $ vagrant destroy
+
+## Development VM using Vagrant + Docker
+
+If you're all hip and bleeding edge, you can also use [Docker][docker] together
+with [Vagrant][vagrant]. It's actually really cool and simple to set up a dev
+system:
+
+  $ vagrant up --provider docker
+
+Now you have a lightweight docker container running in the background serving
+the ccc-ch.ch site on `http://localhost:8000`!
+
+You cannot SSH into it, but you can 
+
+To stop the container:
+
+  $ vagrant halt
+
+And to destroy it:
+
+  $ vagrant destroy
+
+## Manual setup
+
+You can also set up the development environment locally. Then you need the
+following tools:
+
+* Python 2
+* Virtualenv
+
+First, create a virtualenv:
+
+  $ virtualenv -p $(which python2) VENV
+  $ . VENV/bin/activate
+
+Then install the dependencies:
+
+  $ pip install -U -r requirements.txt
+
+Now start the development server:
+
+  $ cd site
+  $ ./develop_server.sh start
+
+The web server is now running on `http://localhost:8000`.
+
 
 # Markdown use
 
-You can use the online [Markdown
-Editor](http://jbt.github.io/markdown-editor/#bVPLbtswELzzK7ZwANmtLfWcntqkaQMkQNHHKSgQWqQkWiJXIFdWkqL/3l0qcHoIYIIGOZzZ2VmtYP3F0ddpv7sa9BGjNRu41bE3OAf4bBxhVOqTTq6GKdlmGqCxmqZoYXCJzpWCt3BBcaguvIF38AMIIemjBeosNG6wAriMugUdDJiII+h8Di4wtLPMxPuA2oAjAV/JZY2BbKAEmu+Fj29D5vz1/QYSwiNOUOsAqROEECal1HXhISC0iAY0wRwdudAygR+ZtBLcYCOQfaCtsLSYMSyB3lInWCaOyQ5NqdQNYr/lcsXpm+y0QZRtr+OyPSn1kW2JiyJlEq7cWAbf398f9FGnOrqR1Nm6mUJNDsN680cBnK0L447FpuzID+viGrRnHT4qi80H9ZcXv1fqZ+cS8O8OAywp/V53RGM6r6rWUTftyxp9ddhT5Z8z29mc2UbcDZaAK+oDzuAauC44lv372EszKVc7S+XsVH3jYJIEcRtLuETc57hE/k4MwcK6qLO4j4YxWXyMeLA1pUpwz+rVZgtNRA9z5+pOSWwupNFFLS0QGe512maN3LSO/z2Ck5Q8x77AOA5iUK29lLhareAHTU0jc2iEw+veZqJlCu+kBda82qG6Oxw2nF58me1Rx8R555cXXPqti/E/h+LG56MyWKqWx2JEzzaXnB65zodd59pu4EVc02I+M56Oy0M6cSZsaOZx9To4XacSY5vPqhO6suFZaqGH042MJn8BONE4UR4y2A9Y9ynLHdLO2GbQZF+1b3TosdWuesEtKu2TG0ehxgaMJn1qK89Hw4sV+XtL6h8=)
-and the [Guidelines](#) to write articles and protocols.
+You can use the online [Markdown Editor][markdown-editor] and the
+[Guidelines](#) to write articles and protocols.
 
-# Todo Vagrant
+
+# TODO
+
+## Todo Vagrant
 
 * in der vagrant provision muss noch  ...
  * ein start script in die VM kopiert werden für den develop_server
@@ -39,7 +106,7 @@ and the [Guidelines](#) to write articles and protocols.
  * 'npm install' im /var/www/ccc-ch.ch order ausgeführt werden
  * ein startscript für 'grunt watch' in die VM kopiert werden
 
-# Todo CCC-CH Site
+## Todo CCC-CH Site
 
 * neues logo
 * farbschema gemeinsam auswählen
@@ -47,3 +114,12 @@ and the [Guidelines](#) to write articles and protocols.
  * |1 spalte|9 spalten|2 spalten|
  * der letzte 2 spalten block ist für das pelican include "extras" vorgesehen
  * wird das überhaupt verwendet werden? wenn nicht kommt die spalte weg, sähe besser aus
+
+
+[pelican]: http://blog.getpelican.com/
+[virtualbox]: https://www.virtualbox.org/
+[vagrant]: http://www.vagrantup.com/
+[docker]: https://www.docker.com/
+[sass]: http://sass-lang.com/
+[markdown]: https://daringfireball.net/projects/markdown/syntax
+[markdown-editor]: http://jbt.github.io/markdown-editor/
