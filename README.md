@@ -1,3 +1,5 @@
+# ccc-ch.ch
+
 Website of CCC Swiss association.
 
 |environment | URL|
@@ -6,16 +8,16 @@ Website of CCC Swiss association.
 |live|[ccc-ch.ch](http://ccc-ch.ch/)|
 
 
-# Dependencies
+## Dependencies
 
 The CCC-CH website is implemented with the help of Python and the [Pelican
 Static Site Generator][pelican]. Content is written in [Markdown][markdown]
 syntax and CSS is created using the [SASS][sass] preprocessor.
 
 
-# Development Setup
+## Development Setup
 
-## Development VM using Vagrant + Virtualbox
+### Development VM using Vagrant + Virtualbox
 
 With [Virtualbox][virtualbox] and [Vagrant][vagrant] you can easily set up and
 provision a complete development VM.
@@ -44,7 +46,7 @@ And to destroy it:
 
   $ vagrant destroy
 
-## Development VM using Vagrant + Docker
+### Development VM using Vagrant + Docker
 
 If you're all hip and bleeding edge, you can also use [Docker][docker] together
 with [Vagrant][vagrant]. It's actually really cool and simple to set up a dev
@@ -65,7 +67,7 @@ And to destroy it:
 
   $ vagrant destroy
 
-## Manual setup
+### Manual setup
 
 You can also set up the development environment locally. Then you need the
 following tools:
@@ -90,15 +92,15 @@ Now start the development server:
 The web server is now running on `http://localhost:8000`.
 
 
-# Markdown use
+## Markdown use
 
 You can use the online [Markdown Editor][markdown-editor] and the
 [Guidelines](#) to write articles and protocols.
 
 
-# TODO
+## TODO
 
-## Todo Vagrant
+### Todo Vagrant
 
 * in der vagrant provision muss noch  ...
  * ein start script in die VM kopiert werden für den develop_server
@@ -106,7 +108,7 @@ You can use the online [Markdown Editor][markdown-editor] and the
  * 'npm install' im /var/www/ccc-ch.ch order ausgeführt werden
  * ein startscript für 'grunt watch' in die VM kopiert werden
 
-## Todo CCC-CH Site
+### Todo CCC-CH Site
 
 * neues logo
 * farbschema gemeinsam auswählen
