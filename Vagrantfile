@@ -6,7 +6,7 @@ VAGRANTFILE_API_VERSION = "2"
 
 Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     
-    config.vm.box = "ubuntu/trusty64"    
+#    config.vm.box = "ubuntu/trusty64"    
     config.vm.network :private_network, ip: "10.14.10.5"
 
     config.vm.post_up_message = "Virtual Machine for 'Denner - Winepromo Microsite' is ready
@@ -35,6 +35,12 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   
     config.vm.provision "shell" do |s|
         s.path = ".vagrant/provision.sh"
+    end
+
+    config.vm.provider 'docker' do |d|
+	d.build_dir = "."
+        d.name   = 'ccc-ch.ch'
+        d.ports  = [ '8000:8000' ]
     end
 
 
