@@ -8,5 +8,5 @@ MYUSER=`getent passwd "$MYUID" | cut -d: -f1`
 
 sudo -u $MYUSER ./develop_server.sh start $@
 while true; do
-	sleep 1000
+       sleep 1000
 done

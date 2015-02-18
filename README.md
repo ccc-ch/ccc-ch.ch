@@ -52,12 +52,10 @@ If you're all hip and bleeding edge, you can also use [Docker][docker] together
 with [Vagrant][vagrant]. It's actually really cool and simple to set up a dev
 system:
 
-    $ vagrant up --provider docker
+    $ vagrant up --provider docker pelican
 
 Now you have a lightweight docker container running in the background serving
 the ccc-ch.ch site on `http://localhost:8000`!
-
-You cannot SSH into it, but you can 
 
 To stop the container:
 
