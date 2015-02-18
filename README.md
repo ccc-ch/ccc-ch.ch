@@ -24,7 +24,7 @@ provision a complete development VM.
 
 To initialize the VM:
 
-    $ vagrant up --provider virtualbox
+    $ vagrant up --provider virtualbox pelican
 
 To SSH into the VM:
 
