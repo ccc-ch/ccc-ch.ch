@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 # Theme
-THEME = 'themes/ccczh'
+THEME = 'themes/pelican-c4h'
 
 # Static files
 STATIC_PATHS = ['files']
