@@ -11,7 +11,7 @@ PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['news', 'protocols', 'pressinfo']
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = u'de'
 
