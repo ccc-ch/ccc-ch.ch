@@ -47,7 +47,7 @@ MENUITEMS = (
     ('Über uns', '/pages/about.html'),
     ('Reaktionen', '/pages/pressreview.html'),
     ('Presse', '/category/pressinfo.html'),
-    ('Impressum', '/pages/impressum.html'),
+    ('Impressum', '/pages/imprint.html'),
 )
 
 # Metadata configuration
