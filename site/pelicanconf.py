@@ -44,12 +44,9 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
     ('Home', '/'),
-    ('News', '/category/news.html'),
-    ('Statuten', '/pages/statuten.html'),
-    ('FAQ', '/pages/faq.html'),
-    ('Presse', '/pages/pressespiegel.html'),
-    ('Protokolle', '/category/protocols.html'),
-    ('Pressemitteilungen', '/category/pressinfo'),
+    ('Über uns', '/pages/about.html'),
+    ('Reaktionen', '/pages/pressreview.html'),
+    ('Presse', '/category/pressinfo.html'),
     ('Impressum', '/pages/impressum.html'),
 )
 
