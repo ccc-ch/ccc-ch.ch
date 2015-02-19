@@ -1,38 +1,49 @@
-Title: Frequently Asked Questions
+Title: Über uns
 
-## Was ist der „Chaos Computer Club Schweiz?“
+## Wer sind wir?
 
-Bisher wurde in den verschiedenen Chaostreffs (lokale Gruppen im Sinne des CCC) in der Schweiz wesentlich lokal beschränkt agiert; gemeinsame und schweizweite Anliegen wie Vernehmlassungen mit IT- und Netzbezug konnten nur ungenügend in Angriff genommen werden oder mussten vom Chaos Computer Club Zürich (CCCZH), der eigentlich für regionale Anliegen zuständig ist, bearbeitet werden.
+Der CCC Schweiz ist der Schweizer Ableger des
+[Chaos Computer Clubs aus Deutschland](http://wwww.ccc.de).
 
-Deshalb soll der Zusammenschluss zum Chaos Computer Club Schweiz die gemeinsamen Kräfte bündeln, um auch gesamtgesellschaftliche Probleme wie Vorratsdatenspeicherung, Zensur und Kontrolle im Netz oder andere wichtige Bürgerrechtsfragen im digitalen Raum anzugehen. Zudem sollen andere interessierte Personen, die Presse sowie weitere Gruppen der schweizerischen Zivilgesellschaft einen Ansprechpartner in der alternativen IT-Szene erhalten. So kann auch das positive Anliegen der Hacker in der Öffentlichkeit besser vertreten werden.
+Der CCC Schweiz setzt sich dafür ein, das noch immer weit verbreitete
+negative Vorurteil über »Hacker« in der Öffentlichkeit zu korrigieren.
+Nicht Rechner sabotieren und Schaden anrichten, sondern die intensive,
+spielerische Beschäftigung mit Technik stehen im Mittelpunkt.
+Eine vertiefte Diskussion findet sich im sog.
+[Jargon File](http://www.catb.org/jargon/html/H/hacker.html).
 
-Der CCC Schweiz soll aber die Arbeit in den lokalen Gruppen nicht ersetzen, sondern nur ergänzen. In den Chaostreffs soll auch weiterhin der kreativ-kritische Umgang mit Technologien direkt gelebt und diskutiert werden.
+    "Ein Hacker ist jemand, der versucht einen Weg zu finden, 
+    wie man mit einer Kaffeemaschine Toast zubereiten kann."
+    Wau Holland
 
-Die Bestrebungen, einen CCC-CH zu gründen, gibt es schon seit langem - in konkreter Form seit etwa 18 Monaten. In dieser Zeit wurden Statuten erarbeitet und die Grundlage für eine gemeinsame Arbeit geschaffen.
+Als »Digital Natives« sind Hacker besonders sensibel gegenüber
+staatlichen und privaten Eingriffen ins Internet, der Privatsphäre und
+der informationellen Selbstbestimmung - die aber letztlich alle betreffen.
+Zusammen mit Gruppen wie der Digitalen Gesellschaft Schweiz setzt sich
+der CCC Schweiz deshalb insbesondere für digitale Bürgerrechte ein.
 
-Gegen Ende der 1980er Jahren gab es bereits eine Gruppierung, die sich als CCC Schweiz verstanden hat, doch hat sich diese nie formal gegründet und war öffentlich nicht weiter aktiv. Der CCC Zürich als Verein besteht seit dem Jahr 2005, im Raum Basel treffen sich Interessierte im Chaostreff seit etwa dem Jahr 2000. In jüngerer Zeit sind auch Chaostreffs in Bern (Ostermundigen) oder St. Gallen entstanden.
+## Wer ist Mitglied?
 
-## Welches sind die wichtigsten politischen Projekte, für die sich der Chaos Computer Club Schweiz einsetzt (oder eingesetzt hat)?
+Der Chaos Computer Club Schweiz wirkt als Zusammenschluss der vielen
+lokal verankerten sog. »Chaostreffs« bzw. »Hackerspaces« der Schweiz.
+In diesen finden sich interessierte Menschen jeden Alters und aus
+verschiedensten Hintergründen um sich gemeinsam mit Technik zu beschäftigen
+und zu diskutieren.
 
-Die politische Arbeit des CCC Schweiz wird durch zwei Maximen geleitet werden: Informationsfreiheit und informationelle Selbstbestimmung - oder wie es Wau Holland der Hackerethik hinzufügte: „Öffentliche Daten nützen, private Daten schützen.“
+Für Interessierte die keine lokale Anlaufstelle haben wird ein virtueller
+Chaostreff unterhalten. 
+Wir unterstützen aber auch die Gründung neuer lokaler Chaostreffs.
 
-Unter diesen Punkten lassen sich die wichtigen Aufgaben der nächsten Zeit einordnen:
+## Hintergrund-Informationen / Links
 
-Im Bereich der Informationsfreiheit geht es zum Beispiel um die Forderung nach Transparenz der öffentlichen Verwaltung (im Sinne der „maschinenlesbaren Regierung“) und um Zensur und Kontrolle im Netz. Wir fordern grundsätzlich, dass das Internet ein von der Wirtschaft und dem Staat unbehelligter/unkontrollierter/unüberwachter Raum sein soll, in dem weder Überwachung noch Eigentumsansprüche (Patente, ACTA) den ungehinderten Zugang zu Informationen beschränken. Wir verlangen von den Netzbetreibern auch die Einhaltung der Netzneutralität, die ein gleiches Internet für alle garantiert und in der es keine Mehrklassengesellschaft der Benutzer gibt.
+### Definition von Hacker
 
-Im Sinne der informationellen Selbstbestimmung wehren wir uns dagegen, dass immer mehr Daten auf Vorrat gespeichert werden oder sogar aktiv zusätzliche Instrumente zur (inhaltlichen) Überwachung der Bevölkerung (ohne klaren Tatverdacht) zum Einsatz kommen - etwa in Form eines „Trojaner Federal“ (in Deutschland: Bundestrojaner) oder ähnlicher Spähsoftware. In praktischer Hinsicht fördern wir ebenfalls den Einsatz von Kryptographie als Mittel zur digitalen Selbstverteidigung und arbeiten dafür mit Organisationen, die ähnliche Ziele verfolgen, eng zusammen.
+* [Jargon File](http://www.catb.org/jargon/html/H/hacker.html)
+* [Wikipedia](http://de.wikipedia.org/wiki/Hacker)
+* [Hackerethik auf Wikipedia](http://de.wikipedia.org/wiki/Hackerethik)
 
-Zu den grösseren Projekten, in denen Personen der Schweizer Hackerszene zusammengearbeitet haben und die nach aussen auch bekannt geworden sind, gehören:
+### Chaos Computer Club e.V. (Deutschland)
 
-    * das Projekt [„Biometrische Ausweise“](http://biometrische-ausweise.ch/), in dem auf Gefahren in der Einführung biometrischer Ausweise hingewiesen wurde.
-    * das Projekt [„Postcard-Sicherheit“](http://www.postcard-sicherheit.ch/), wo auf damalige Sicherheitslücken der Schweizer Debitkarte „Postcard“ der PostFinance hingewiesen wurde.
-    * die Teilnahme an der [Vernehmlassung zur VÜPF](http://www.ccczh.ch/V%C3%9CPF-Stellungnahme-CCC%20und%20http://www.ejpd.admin.ch/content/dam/data/sicherheit/uepf/ve-organisationen.pdf), die der die Durchführung der Überwachung von Post- und Fernmeldeverkehr in der Schweiz neu gefasst wurde.
-
-Aktuell arbeiten wir zusammen mit der [Digitalen Gesellschaft Schweiz](http://www.digitale-gesellschaft.ch/) am Thema („Vorratsdatenspeicherung“)[http://www.digitale-gesellschaft.ch/2012/11/08/meine-vorratsdaten-jetzt/] und versuchen die Leute zu motivieren, bei ihren Handy- und Netzprovidern Einsicht in die über sie gespeicherten Daten zu verlangen.
-
-## Wer kann Mitglied im „Chaos Computer Club Schweiz“ werden?
-
-Mitglied kann jeder Chaostreff, Verein oder Gesellschaft in der Schweiz werden, die sich den Zielen und Idealen des Chaos Computer Clubs Schweiz verpflichtet fühlt und sich für digitale Bürgerrechte und Spass am Gerät einsetzen will. Es genügt ein einfacher Mitgliedsantrag an den Vorstand.
-
-Mitgliedschaften von einzelnen Personen sind nicht vorgesehen. Suche und finde Mitstreiter in deiner Umgebung und schliesst euch zu einem Chaostreff zusammen.
+* [http://ccc.de](http://ccc.de)
+* [Wikipedia](https://de.wikipedia.org/wiki/Chaos_Computer_Club)
 
