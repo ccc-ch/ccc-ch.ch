@@ -1,4 +1,4 @@
-Title: Pressespiegel
+Title: Pressereaktionen
 Lang: de
 
 ## 2015
