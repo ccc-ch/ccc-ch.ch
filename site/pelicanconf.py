@@ -11,7 +11,7 @@ PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['news', 'protocols', 'pressinfo']
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = u'de'
 
@@ -44,13 +44,10 @@ DISPLAY_PAGES_ON_MENU = False
 DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = (
     ('Home', '/'),
-    ('News', '/category/news.html'),
-    ('Statuten', '/pages/statuten.html'),
-    ('FAQ', '/pages/faq.html'),
-    ('Presse', '/pages/pressespiegel.html'),
-    ('Protokolle', '/category/protocols.html'),
-    ('Pressemitteilungen', '/category/pressinfo'),
-    ('Impressum', '/pages/impressum.html'),
+    ('Über uns', '/pages/about.html'),
+    ('Reaktionen', '/pages/pressreview.html'),
+    ('Presse', '/category/pressinfo.html'),
+    ('Impressum', '/pages/imprint.html'),
 )
 
 # Metadata configuration
