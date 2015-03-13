@@ -3,6 +3,10 @@ Lang: de
 
 ## 2015
 
+### 11. März
+
+- [20 Minuten: Mit Internet-Filtern Angestellte disziplinieren](http://www.20min.ch/schweiz/news/story/25181327)
+
 ### 23. Januar
 
 - [SRF: Darknet – ein Verstärker der menschlichen Natur?](http://www.srf.ch/news/wirtschaft/wef-2015/darknet-ein-verstaerker-der-menschlichen-natur)
