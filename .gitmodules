@@ -1,0 +1,3 @@
+[submodule "site/themes/pelican-c4h"]
+	path = site/themes/pelican-c4h
+	url = git@github.com:KampfCaspar/pelican-c4h.git
