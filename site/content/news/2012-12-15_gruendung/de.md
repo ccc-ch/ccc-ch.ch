@@ -74,4 +74,4 @@ präsentieren; auf dem Hacker-Kongress werden zwischen Weihnachten und Neujahr
 
 **Chaostreff Bern:**
 
-- <http://www.eastermundigen.ch/>
+- <http://www.chaosbern.ch/>
