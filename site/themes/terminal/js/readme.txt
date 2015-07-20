@@ -1,0 +1,1 @@
+Wenn sich jemand inspiriert fühlt, darf er gerne etwas schreiben.
