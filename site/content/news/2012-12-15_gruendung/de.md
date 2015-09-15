@@ -72,6 +72,10 @@ präsentieren; auf dem Hacker-Kongress werden zwischen Weihnachten und Neujahr
 
 - <http://ruum42.ch/>
 
+**Hackerspace Ostermundigen**
+
+- <http://www.eastermundigen.ch/>
+
 **Chaostreff Bern:**
 
-- <http://www.chaosbern.ch/>
+- <https://www.chaostreffbern.ch/>
