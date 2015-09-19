@@ -14,7 +14,6 @@ PAGE_PATHS = ['pages']
 
 # Menu
 MENUITEMS = (   ('Home', 'index.html', None),
-                ('About', 'about.html', None),
                 ('Statuten', 'statuten.html', None),
                 ('Presse', 'presse.html', None),
                 ('Protokolle', 'protokolle.html', None),
