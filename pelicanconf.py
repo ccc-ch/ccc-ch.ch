@@ -13,7 +13,7 @@ DEFAULT_DATE_FORMAT = '%a %d. %B %Y'
 PAGE_PATHS = ['pages']
 
 # Menu
-MENUITEMS = (   ('Home', 'home.html', None),
+MENUITEMS = (   ('Home', 'index.html', None),
                 ('About', 'about.html', None),
                 ('Statuten', 'statuten.html', None),
                 ('Presse', 'pressreview.html', None),
