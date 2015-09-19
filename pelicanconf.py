@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'webmaster'
-SITENAME = u'Website'
-SITEURL = u'https://www.example.net'
+AUTHOR = u'CCC CH'
+SITENAME = u'Chaos Computer Club Schweiz'
+SITEURL = u'https://ccc-ch.ch'
 TIMEZONE = u'Europe/Zurich'
 DEFAULT_LANG = u'en'
 DEFAULT_DATE_FORMAT = '%a %d. %B %Y'
@@ -13,12 +13,12 @@ DEFAULT_DATE_FORMAT = '%a %d. %B %Y'
 PAGE_PATHS = ['pages']
 
 # Menu
-MENUITEMS = (   ('Page1', 'page1.html', None),
-                ('Page2', '#', [
-                    ('Page2.1', 'page2-1.html'),
-                    ('Page2.2', 'page2-2.html'),
-                ]),
-                ('Page3', 'page3.html', None),)
+MENUITEMS = (   ('Home', 'home.html', None),
+                ('About', 'about.html', None),
+                ('Statuten', 'statuten.html', None),
+                ('Presse', 'pressreview.html', None),
+                ('Impressum', 'impressum.html', None),
+            )
 
 # Sole author and don't use categories ... disable these features
 #AUTHOR_SAVE_AS = ''
@@ -54,7 +54,7 @@ ARCHIVES_URL = 'archives.html'
 ARCHIVES_SAVE_AS = 'archives.html'
 
 # Contact
-EMAIL_ADDR = 'webmaster@example.net'
+EMAIL_ADDR = 'obri@chaostreff.ch'
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
