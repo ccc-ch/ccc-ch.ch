@@ -13,13 +13,15 @@ DEFAULT_DATE_FORMAT = '%a %d. %B %Y'
 PAGE_PATHS = ['pages']
 
 # Menu
-MENUITEMS = (   ('Home', 'index.html', None),
-                ('FAQ', 'faq.html', None),
-                ('Statuten', 'statuten.html', None),
-                ('Medienmitteilungen', 'medien.html', None),
-                ('Pressreview', 'pressreview.html', None),
-                ('Protokolle', 'protokolle.html', None),
-                ('Impressum', 'impressum.html', None),
+MENUITEMS = (
+              ('Home', 'index.html', None),
+              ('CCC', '#', [
+                ('FAQ', 'faq.html'),
+                ('Statuten', 'statuten.html'),
+                ('Protokolle', 'protokolle.html'),
+              ]),
+              ('Medienmitteilungen', 'medien.html', None),
+              ('Pressreview', 'pressreview.html', None),
             )
 
 # Sole author and don't use categories ... disable these features
