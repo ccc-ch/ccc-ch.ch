@@ -6,7 +6,7 @@ AUTHOR = u'CCC CH'
 SITENAME = u'Chaos Computer Club Schweiz'
 SITEURL = u'https://ccc-ch.ch'
 TIMEZONE = u'Europe/Zurich'
-DEFAULT_LANG = u'en'
+DEFAULT_LANG = u'de'
 DEFAULT_DATE_FORMAT = '%a %d. %B %Y'
 
 # Page path
@@ -16,7 +16,7 @@ PAGE_PATHS = ['pages']
 MENUITEMS = (   ('Home', 'index.html', None),
                 ('About', 'about.html', None),
                 ('Statuten', 'statuten.html', None),
-                ('Presse', 'pressreview.html', None),
+                ('Presse', 'presse.html', None),
                 ('Impressum', 'impressum.html', None),
             )
 
@@ -58,7 +58,17 @@ EMAIL_ADDR = 'obri@chaostreff.ch'
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = []
+PLUGINS = ['i18n_subsites']
+
+# Plugin configuration
+I18N_SUBSITES = {
+  'de': {
+    'LOCALE': "de_CH"
+  },
+  'en': {
+    'LOCALE': "en_US"
+  }
+}
 
 # Theme
 THEME = 'theme'
