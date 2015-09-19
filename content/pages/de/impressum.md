@@ -1,7 +1,8 @@
 Title: Impressum
+Slug: impressum
+Lang: de
 Date: 2015-02-19
 Modified: 2015-02-19
-Slug: impressum
 
 Verantwortlich für den Inhalt dieser Seiten ist der 
 [CCC CH](/). 
