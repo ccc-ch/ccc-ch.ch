@@ -1,5 +1,5 @@
 Title: Pressereaktionen
-Slug: presse
+Slug: pressreview
 Lang: de
 Date: 2015-02-19
 Modified: 2015-03-13
