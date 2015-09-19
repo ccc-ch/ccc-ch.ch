@@ -1,7 +1,8 @@
 Title: Statuten
+Slug: statuten
+Lang: de
 Date: 2012-10-27
 Modified: 2014-10-04
-Slug: statuten
 
 Statuten des CCC CH per 27.10.2012
 
