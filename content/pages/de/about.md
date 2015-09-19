@@ -1,7 +1,8 @@
 Title: About
+Slug: about
+Lang: de
 Date: 2015-02-19
 Modified: 2015-02-19
-Slug: about
 
 ## Wer sind wir?
 
