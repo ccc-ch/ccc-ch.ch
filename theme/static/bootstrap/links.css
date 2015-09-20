@@ -1,0 +1,9 @@
+a {
+  color: #CC3300;
+  outline: none
+}
+
+a:active, a:hover, a:link, a:visited {
+  color: #D65C33;
+  text-decoration: none;
+}
