@@ -83,15 +83,15 @@ der fünf Hackerspaces.
 
 Ari (CCCZH) erwähnt Vorstandsposten nach Funktion, die denkbar wären:
 
-- Interne Kommunkation
-- Schrift-/Protokollführung / Aktuariat
-- Presse- und Öffentlichkeitsarbeit
-- Externe Kommunikation / evtl. Öffentlichkeitsarbeit
-- Quästor / Finanzen
-- Technik
-- Archivierung
-- (Volks-)Bildung
-- Projekte
+  * Interne Kommunkation
+  * Schrift-/Protokollführung / Aktuariat
+  * Presse- und Öffentlichkeitsarbeit
+  * Externe Kommunikation / evtl. Öffentlichkeitsarbeit
+  * Quästor / Finanzen
+  * Technik
+  * Archivierung
+  * (Volks-)Bildung
+  * Projekte
 
 Klar ist allen, dass der Vorstand sich selber konsituiert und genaue Aufgaben
 noch definiert werden können und müssen, respektive sich (dynamisch) ohnehin
@@ -115,7 +115,7 @@ CCC-CH Presse- und Öffentlichkeitsarbeit übernehmen.
 Abstimmung: Erfolgreiche Wahl bei neun Ja-Stimmen, zu einer (eigenen)
 Enthaltung
 
-### hernani (CCCZH)
+### Hernani (CCCZH)
 
 hernani (CCCZH) könnte sich vorstellen die Protokollführung zu übernehmen, wie
 so manchenorts auch schon. Ausserdem kann er Vernetzungsarbeit in die Romandie
@@ -150,9 +150,9 @@ Veranstaltungsleitung und -organisation hat er einige Erfahrung vorzuweisen.
 
 Abstimmung: Erfolgreiche Wahl bei neun Ja-Stimmen, zu einer Enthaltung
 
-### nuess0r (Ruum42)
+### Nuess0r (Ruum42)
 
-nuess0r (Ruum42) ist persönlich nicht anwesend, erhält seine Kandidatur
+Nuess0r (Ruum42) ist persönlich nicht anwesend, erhält seine Kandidatur
 allerdings aufrecht. Er möchte inhaltlich im Bereich des freien Zuangs zu
 Kulturgütern aktiv sein und in dem Bereich auch vernetzend zu anderen Gruppen
 arbeiten. Bernd (CCCZH) schlägt vor, dass er seine Vernetzungsarbeit weniger
@@ -177,16 +177,16 @@ Piratenpartei Schweiz (PPS) besonders aktiv.
 
 Abstimmung: Erfolgreiche Wahl bei sieben Ja-Stimmen, zu drei Enthaltungen
 
-### draemmli (Hackerspace Eastermundigen)
+### Draemmli (Hackerspace Eastermundigen)
 
-draemmli hat seine Stärke in der Webentwicklung - er kann hier den CCC-CH
+Draemmli hat seine Stärke in der Webentwicklung - er kann hier den CCC-CH
 unterstützen.
 
 Abstimmung: Erfolgreiche Wahl bei neun Ja-Stimmen, zu einer Enthaltung
 
-### harlequinn (Chaostreff Basel)
+### Harlequinn (Chaostreff Basel)
 
-harlequinn (Chaostreff Basel) stellt sich (humoristisch) als „Quoten-Frau” zur
+Harlequinn (Chaostreff Basel) stellt sich (humoristisch) als „Quoten-Frau” zur
 Verfügung. Tatsächlich betont sie, dass sie organisatorische Aufgaben gerne
 übernehmen kann und auch ansonsten zur Verfügung steht, weitere Aufgaben
 anzupacken, die sonstigenfalls unerledigt blieben.
@@ -227,8 +227,8 @@ gewählt sind.
 Lorenz (Gast) entwickelt zusammen mit den Anwesenden Datumvorschläge für die
 nächste CoSin-Tagung im Jahr 2013:
 
-- 14. bis 16. Juni
-- 28. bis 30. Juni
+  * V: 14. bis 16. Juni
+  * V: 28. bis 30. Juni
 
 Über die swiss-chaos@ wird das populärere Datum noch ermittelt werden.
 
@@ -236,4 +236,4 @@ nächste CoSin-Tagung im Jahr 2013:
 
 Fürs Protokoll
 
-hernani
+Hernani
