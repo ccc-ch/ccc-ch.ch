@@ -23,10 +23,6 @@ Folgende Organisationen sind Mitglieder im CCC-CH
 
   * [https://ruum42.ch/](https://ruum42.ch/)
 
-### Chaostreff Bern
-
-  * [https://www.chaostreffbern.ch/](https://www.chaostreffbern.ch/)
-
 ### Hackerfunk
 
   * [http://hackerfunk.ch/](http://hackerfunk.ch/)
@@ -35,10 +31,18 @@ Folgende Organisationen sind Mitglieder im CCC-CH
 
   * [http://chaostreff.dingens.org/](http://chaostreff.dingens.org/)
 
+### Odenwilusenz (Hackerspace Beringen)
+
+  * [http://www.odenwilusenz.ch/](http://www.odenwilusenz.ch/)
+
 ### Coredump (Hackerspace Rapperswil)
 
   * [https://www.coredump.ch/](https://www.coredump.ch/)
 
-### Eastermundigen (Hackerspace Bern)
+### Chaostreff Bern
+
+  * [https://www.chaostreffbern.ch/](https://www.chaostreffbern.ch/)
+
+### Eastermundigen (Hackerspace Ostermundigen)
 
   * [http://www.eastermundigen.ch/](http://www.eastermundigen.ch/)
