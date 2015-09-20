@@ -5,6 +5,15 @@ save_as: index.html
 Date: 2014-10-04
 Modified: 2015-09-20
 
+<div class="jumbotron text-center"><div class="row">
+<div class="col-md-4">
+<img src="/images/ccc-ch.png" alt="Logo CCC-CH" width="263" height="183" />
+</div>
+<div class="col-md-8">
+<h1>Chaos Computer Club Schweiz</h1>
+</div>
+</div></div>
+
 ## „Chaos Computer Club Schweiz” auf dem Bundesplatz in Bern gegründet
 
 Mit einem symbolischen Akt auf dem Bundespatz in Bern haben rund 40 Delegierte verschiedener lokaler Chaostreffs der Schweiz den
