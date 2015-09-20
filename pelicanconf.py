@@ -19,6 +19,7 @@ MENUITEMS = (
                 ('FAQ', 'faq.html'),
                 ('Statuten', 'statuten.html'),
                 ('Protokolle', 'protokolle.html'),
+                ('Mitglieder', 'members.html'),
               ]),
               ('Medienmitteilungen', 'medien.html', None),
               ('Pressreview', 'pressreview.html', None),
