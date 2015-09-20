@@ -15,10 +15,11 @@ PAGE_PATHS = ['pages']
 # Menu
 MENUITEMS = (
               ('Home', 'index.html', None),
-              ('CCC', '#', [
+              ('CCC-CH', '#', [
                 ('FAQ', 'faq.html'),
                 ('Statuten', 'statuten.html'),
                 ('Protokolle', 'protokolle.html'),
+                ('Mitglieder', 'members.html'),
               ]),
               ('Medienmitteilungen', 'medien.html', None),
               ('Pressreview', 'pressreview.html', None),
