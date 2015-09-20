@@ -1,5 +1,5 @@
 Title: Gründungsprotokoll CCC-CH
-Slug: protokoll/2012-12-15
+Slug: protokoll_2012-12-15
 Lang: de
 Date: 2012-12-15
 
