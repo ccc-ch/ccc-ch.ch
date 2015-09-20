@@ -1,0 +1,14 @@
+cite {
+  display: block;
+  padding: 1em;
+  font-weight: 700;
+  color: #00CC66;
+}
+
+cite:before {
+  content: "« ";
+}
+
+cite:after {
+  content: " »";
+}
