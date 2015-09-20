@@ -2,6 +2,7 @@ Title: index
 Template: homepage
 URL:
 save_as: index.html
+Lang: de
 Date: 2014-10-04
 Modified: 2015-09-20
 
