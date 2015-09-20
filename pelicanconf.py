@@ -20,6 +20,7 @@ MENUITEMS = (
                 ('Statuten', 'statuten.html'),
                 ('Protokolle', 'protokolle.html'),
                 ('Mitglieder', 'members.html'),
+                ('(Intern) Merkblatt Mitgliederbeiträge', 'mitgliederbeitraege.html'),
               ]),
               ('Medienmitteilungen', 'medien.html', None),
               ('Pressreview', 'pressreview.html', None),
