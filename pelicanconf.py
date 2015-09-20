@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'CCC-CH'
-SITENAME = u'Chaos Computer Club Schweiz'
+SITENAME = u'CCC-CH'
 SITEURL = u'https://ccc-ch.ch'
 TIMEZONE = u'Europe/Zurich'
 DEFAULT_LANG = u'de'
@@ -17,12 +17,14 @@ MENUITEMS = (
               ('CCC-CH', '#', [
                 ('FAQ', 'faq.html'),
                 ('Statuten', 'statuten.html'),
-                ('Protokolle', 'protokolle.html'),
                 ('Mitglieder', 'members.html'),
-                ('(Intern) Merkblatt Mitgliederbeiträge', 'mitgliederbeitraege.html'),
               ]),
               ('Medienmitteilungen', 'medien.html', None),
               ('Pressreview', 'pressreview.html', None),
+              ('Intern', '#', [
+                ('Protokolle', 'protokolle.html'),
+                ('Mitgliederbeiträge', 'mitgliederbeitraege.html'),
+              ]),
             )
 
 # Sole author and don't use categories ... disable these features
