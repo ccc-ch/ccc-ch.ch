@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'CCC CH'
+AUTHOR = u'CCC-CH'
 SITENAME = u'Chaos Computer Club Schweiz'
 SITEURL = u'https://ccc-ch.ch'
 TIMEZONE = u'Europe/Zurich'
@@ -58,7 +58,7 @@ ARCHIVES_URL = 'archives.html'
 ARCHIVES_SAVE_AS = 'archives.html'
 
 # Contact
-EMAIL_ADDR = 'obri@chaostreff.ch'
+EMAIL_ADDR = 'webmaster@ccc-ch.ch'
 
 # Plugins
 PLUGIN_PATHS = ['plugins']
