@@ -4,7 +4,7 @@ Lang: de
 Date: 2015-09-20
 Modified: 2015-09-20
 
-## Was ist der „Chaos Computer Club Schweiz?“
+### Was ist der „Chaos Computer Club Schweiz?“
 
 Bisher wurde in den verschiedenen Chaostreffs (lokale Gruppen im Sinne des CCC) in der Schweiz wesentlich lokal beschränkt agiert; gemeinsame und schweizweite Anliegen wie Vernehmlassungen mit IT- und Netzbezug konnten nur ungenügend in Angriff genommen werden oder mussten vom Chaos Computer Club Zürich (CCCZH), der eigentlich für regionale Anliegen zuständig ist, bearbeitet werden.
 
@@ -16,7 +16,7 @@ Die Bestrebungen, einen CCC-CH zu gründen, gibt es schon seit langem - in konkr
 
 Gegen Ende der 1980er Jahren gab es bereits eine Gruppierung, die sich als CCC Schweiz verstanden hat, doch hat sich diese nie formal gegründet und war öffentlich nicht weiter aktiv. Der CCC Zürich als Verein besteht seit dem Jahr 2005, im Raum Basel treffen sich Interessierte im Chaostreff seit etwa dem Jahr 2000. In jüngerer Zeit sind auch Chaostreffs in Bern (Ostermundigen) oder St. Gallen entstanden.
 
-## Welches sind die wichtigsten politischen Projekte, für die sich der Chaos Computer Club Schweiz einsetzt (oder eingesetzt hat)?
+### Welches sind die wichtigsten politischen Projekte, für die sich der Chaos Computer Club Schweiz einsetzt (oder eingesetzt hat)?
 
 Die politische Arbeit des CCC Schweiz wird durch zwei Maximen geleitet werden: Informationsfreiheit und informationelle Selbstbestimmung - oder wie es Wau Holland der Hackerethik hinzufügte: „Öffentliche Daten nützen, private Daten schützen.“
 
@@ -29,13 +29,13 @@ Im Sinne der informationellen Selbstbestimmung wehren wir uns dagegen, dass imme
 Zu den grösseren Projekten, in denen Personen der Schweizer Hackerszene zusammengearbeitet haben und die nach aussen auch bekannt geworden sind, gehören
 
 
-* das Projekt [„Biometrische Ausweise“](http://biometrische-ausweise.ch/), in dem auf Gefahren in der Einführung biometrischer Ausweise hingewiesen wurde.
-* das Projekt [„Postcard-Sicherheit“](http://www.postcard-sicherheit.ch/), wo auf damalige Sicherheitslücken der Schweizer Debitkarte „Postcard“ der PostFinance hingewiesen wurde.
-* die Teilnahme an der [Vernehmlassung zur VÜPF](http://www.ccczh.ch/V%C3%9CPF-Stellungnahme-CCC%20und%20http://www.ejpd.admin.ch/content/dam/data/sicherheit/uepf/ve-organisationen.pdf), die der die Durchführung der Überwachung von Post- und Fernmeldeverkehr in der Schweiz neu gefasst wurde.
+  * das Projekt [„Biometrische Ausweise“](http://biometrische-ausweise.ch/), in dem auf Gefahren in der Einführung biometrischer Ausweise hingewiesen wurde.
+  * das Projekt [„Postcard-Sicherheit“](http://www.postcard-sicherheit.ch/), wo auf damalige Sicherheitslücken der Schweizer Debitkarte „Postcard“ der PostFinance hingewiesen wurde.
+  * die Teilnahme an der [Vernehmlassung zur VÜPF](http://www.ccczh.ch/V%C3%9CPF-Stellungnahme-CCC%20und%20http://www.ejpd.admin.ch/content/dam/data/sicherheit/uepf/ve-organisationen.pdf), die der die Durchführung der Überwachung von Post- und Fernmeldeverkehr in der Schweiz neu gefasst wurde.
 
 Aktuell arbeiten wir zusammen mit der [Digitalen Gesellschaft Schweiz](http://www.digitale-gesellschaft.ch/) am Thema [„Vorratsdatenspeicherung“](http://www.digitale-gesellschaft.ch/2012/11/08/meine-vorratsdaten-jetzt/) und versuchen die Leute zu motivieren, bei ihren Handy- und Netzprovidern Einsicht in die über sie gespeicherten Daten zu verlangen.
 
-## Wer kann Mitglied im „Chaos Computer Club Schweiz“ werden?
+### Wer kann Mitglied im „Chaos Computer Club Schweiz“ werden?
 
 Mitglied kann jeder Chaostreff, Verein oder Gesellschaft in der Schweiz werden, die sich den Zielen und Idealen des Chaos Computer Clubs Schweiz verpflichtet fühlt und sich für digitale Bürgerrechte und Spass am Gerät einsetzen will. Es genügt ein einfacher Mitgliedsantrag an den Vorstand.
 
