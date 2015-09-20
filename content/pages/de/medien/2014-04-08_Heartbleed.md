@@ -24,10 +24,10 @@ Verständnisfragen seitens der Medienschaffenden können an das Presseteam des C
 
 Links:
 
-* [http://www.golem.de/news/sicherheitsluecke-keys-auslesen-mit-openssl-1404-105685.html](golem-Artikel mit Update)<br/>
-* [http://www.heise.de/newsticker/meldung/Der-GAU-fuer-Verschluesselung-im-Web-Horror-Bug-in-OpenSSL-2165517.html](heise-Artikel)<br/>
-* [http://heartbleed.com/](Announcement und dedizierte Webseite zur Lücke)
-* [http://filippo.io/Heartbleed/](http-server-check)<br/>
-* [https://www.openssl.org/news/secadv_20140407.txt](openssl-Announcement)<br/>
-* [http://is.gd/Qg0QnE](Twitter-Livefeed "Heartbleed" zur Sache)<br/>
-* [http://is.gd/YVCPDz](Twitter-Livefeed "OpenSSL" zur Sache)<br/>
+  * [http://www.golem.de/news/sicherheitsluecke-keys-auslesen-mit-openssl-1404-105685.html](golem-Artikel mit Update)<br/>
+  * [http://www.heise.de/newsticker/meldung/Der-GAU-fuer-Verschluesselung-im-Web-Horror-Bug-in-OpenSSL-2165517.html](heise-Artikel)<br/>
+  * [http://heartbleed.com/](Announcement und dedizierte Webseite zur Lücke)
+  * [http://filippo.io/Heartbleed/](http-server-check)<br/>
+  * [https://www.openssl.org/news/secadv_20140407.txt](openssl-Announcement)<br/>
+  * [http://is.gd/Qg0QnE](Twitter-Livefeed "Heartbleed" zur Sache)<br/>
+  * [http://is.gd/YVCPDz](Twitter-Livefeed "OpenSSL" zur Sache)<br/>
