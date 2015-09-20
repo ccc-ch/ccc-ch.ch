@@ -20,6 +20,13 @@ Es gibt also pro Mitglied und Jahr eine Einzahlung. Die von einem Mitglied vertr
 ## Wie viel ist zu bezahlen?
 Pro vertretene Person sind CHF 5.- pro Jahr zu bezahlen, gemäss [\[0\]][0].
 
+### Was ist mit 'Doppelmitgliedern'?
+Mit einem Doppelmitglied ist hier eine Person gemeint, die gegenüber dem CCC-CH durch mehrere Organisationen vertreten wird. Anders formuliert: eine Person die Mitglied ist bei mehreren Mitgliedern des CCC-CH ist.
+
+Die CCC-CH Mitglieder sollen für jede durch sie vertretene Person den Betrag bezahlen. Ob die Person auch von anderen Mitgliedern vertreten wird soll dabei keine Rolle spielen.
+
+Für ein Doppelmitglied wird also zweimal bezahlt. Um das zu verhindern (und um einige weitere Probleme zu vermeiden), haben einige CCC-CH Mitglieder einen 'Unterverein' gegründet, dem nur diejenigen Personen angehören, die gegenüber dem CCC-CH vertreten sein wollen.
+
 ## Wohin hat die Ueberweisung zu erfolgen?
 Zur Überweisung der Mitgliederbeiträge sind folgende Kontoinformationen zu verwenden:
 
@@ -29,6 +36,12 @@ Chaos Computer Club Schweiz
 Birsfelderstrasse 6
 CH-4132 Muttenz
 IBAN: CH54 0900 0000 6060 5459 2
+```
+
+Als Zahlungszweck ist der String `Mitgliederbeitrag: `, gefolgt vom Namen des Mitgliedes anzugeben. In der Form:
+
+```
+Mitgliederbeitrag: $MITGLIEDSNAME
 ```
 
 ## Bis wann ist zu bezahlen?
