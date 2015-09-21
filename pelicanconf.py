@@ -24,6 +24,7 @@ MENUITEMS = (
               ('Intern', '#', [
                 ('Protokolle', 'protokolle.html'),
                 ('Mitgliederbeiträge', 'mitgliederbeitraege.html'),
+                ('Gettogether', 'gettogether.html'),
               ]),
             )
 
