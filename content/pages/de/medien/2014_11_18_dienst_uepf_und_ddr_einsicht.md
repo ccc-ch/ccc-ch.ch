@@ -7,7 +7,7 @@ Liebe Medienschaffende
 
 Mit Wohlwollen begrüsst der Chaos Computer Club Schweiz CCC-CH die Haltung der Mitarbeitenden des Überwachungsdienstleisters des Bundes "ÜPF". Die Dienst ÜPF-Mitarbeitenden selbst haben in ihren Büroräumen nicht nur die Schweizer Flagge gehisst, sondern zudem die eines für seine totale Überwachung bekannten pseudo-demokratischen ehemaligen ostdeutschen Staates – die der DDR nämlich. Hier gibt es ein Foto davon: 
 
-![](images/schweiz_und_ddr.jpg)
+![Flagge der Schweiz und der DDR hängen nebeneinander](images/schweiz_und_ddr.jpg)
 
 Das zeigt uns, dass wir mit unserer kritischen Sicht der Volksfichierung in der Schweiz nicht alleine sind. Ja, ganz offensichtlich benutzen Mitarbeitende des Dienst ÜPF diese Form der Satire, um ebenfalls die Fragwürdigkeit der ganzen Rechtskonstruktion für jeden Besucher gleich in den Vordergrund zu stellen. (vgl. [http://www.steigerlegal.ch/2014/11/17/ddr-vorbild-fuer-staatliche-ueberwacher-in-der-schweiz/](http://www.steigerlegal.ch/2014/11/17/ddr-vorbild-fuer-staatliche-ueberwacher-in-der-schweiz/)) 
 
