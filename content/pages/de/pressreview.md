@@ -6,6 +6,18 @@ Modified: 2015-03-13
 
 ## 2015
 
+### 3. September
+
+- [Einstein: Cybercrime: Wie sicher ist das Know-how der Schweiz?](http://www.srf.ch/sendungen/einstein/cybercrime-wie-sicher-ist-das-know-how-der-schweiz)
+
+### 12. Juni
+
+- [SRF: Und täglich attackiert der Hacker](http://www.srf.ch/news/schweiz/und-taeglich-attackiert-der-hacker)
+
+### 12. April
+
+- [20 Minuten: Cyber-Kriminelle sind eine Gefahr für Öltanker](http://www.20min.ch/finance/news/story/21718462)
+
 ### 11. März
 
 - [20 Minuten: Mit Internet-Filtern Angestellte disziplinieren](http://www.20min.ch/schweiz/news/story/25181327)
@@ -42,6 +54,10 @@ Modified: 2015-03-13
 
 - [20 Minuten: Das NDB-Gesetz ist eine Gefahr für die Schweiz](http://www.20min.ch/schweiz/news/story/13020586)
 
+### 7. November
+
+- [Watson: Swisscom und Co. wollen die Netzneutralität freiwillig gewährleisten](http://www.watson.ch/!526739659)
+
 ### 3. September
 
 - [Netzpolitik.org: Vorratsdatenspeicherung in der Schweiz: Digitale Gesellschaft gelangt mit Beschwerde an Bundesverwaltungsgericht](https://netzpolitik.org/2014/vorratsdatenspeicherung-in-der-schweiz-digitale-gesellschaft-gelangt-mit-beschwerde-an-bundesverwaltungsgericht/)
@@ -50,9 +66,17 @@ Modified: 2015-03-13
 
 - [Blick: «Es wirkt wie ein Bubenstreich»](http://www.blick.ch/news/ausland/hacker-experte-ueber-sex-alarm-in-hollywood-es-wirkt-wie-ein-bubenstreich-id3099586.html)
 
+### 11. Juni
+
+- [SRF: Crypto-Partys: Hier gibt es Schlüssel zum Verschlüsseln](http://www.srf.ch/wissen/digital/crypto-partys-hier-gibt-es-schluessel-zum-verschluesseln)
+
 ### 30. März
 
 - [20 Minuten: Datenklau bei Firmen ist keine Herausforderung](http://www.20min.ch/finance/news/story/-Datenklau-bei-Firmen-ist-keine-Herausforderung--28612039)
+
+### 19. März
+
+- [Watson: Universität Zürich schaltet Pornofilter aus](http://www.watson.ch/!956151091)
 
 
 ## 2013
