@@ -21,7 +21,7 @@
 {% for article in dates %}
       <li>
         <article class="hentry">
-            {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+            {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a><br />
         </article>
       </li>
 {% endfor %}
