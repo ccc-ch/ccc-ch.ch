@@ -1,7 +1,17 @@
 {% extends "index.html" %}
 
-{% block title %}{{ SITENAME }} - Articles in the {{ category }} category{% endblock %}
+{% block title %}
+{% if category == "medien" %}
+{{ SITENAME }} - Medienmitteilungen
+{% else %}
+{{ SITENAME }} - Articles in the {{ category }} category
+{% endif %}
+{% endblock %}
 
 {% block content_title %}
+{% if category == "medien" %}
+                <h1>Medienmitteilungen</h1>
+{% else %}
                 <h1>Articles in the {{ category }} category</h1>
+{% endif %}
 {% endblock content_title %}
