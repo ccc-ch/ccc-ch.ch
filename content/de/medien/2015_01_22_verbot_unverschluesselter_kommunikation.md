@@ -7,7 +7,7 @@ Liebe Medienschaffende
 
 Der Chaos Computer Club Schweiz CCC-CH schliesst sich uneingeschränkt den Forderungen des Chaos Computer Club CCC an, wonach unverschlüsselte und unsichere Kommunikation strikte zu verbieten ist: 
 
-[http://www.ccc.de/de/updates/2015/ccc-fordert-ausstieg-aus-unverschlusselter-kommunikation](http://www.ccc.de/de/updates/2015/ccc-fordert-ausstieg-aus-unverschlusselter-kommunikation)
+[https://www.ccc.de/de/updates/2015/ccc-fordert-ausstieg-aus-unverschlusselter-kommunikation](https://www.ccc.de/de/updates/2015/ccc-fordert-ausstieg-aus-unverschlusselter-kommunikation)
 
 Wir kommen hiermit präventiv möglichen bildungsfernen Forderungen hiesiger Politiker zuvor, wonach verschlüsselte und sichere Kommunikation für alle zu verbieten sei, weil auch Terroristen und andere Kriminelle Computer zu bedienen lernen. 
 
