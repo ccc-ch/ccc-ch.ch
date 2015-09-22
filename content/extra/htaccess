@@ -15,4 +15,8 @@ RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 </IfModule>
 
+# Disable directory listing
 Options -Indexes
+
+# Set HSTS headers to enforce TLS
+Header set Strict-Transport-Security "max-age=31536000" env=HTTPS
