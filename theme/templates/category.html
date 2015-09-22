@@ -4,31 +4,49 @@
   {% if category == "medien" %}
     {{ SITENAME }} - Medienmitteilungen
   {% else %}
-    {{ SITENAME }} - Articles in the {{ category }} category
+    {% if category == "pressreview" %}
+      {{ SITENAME }} - Pressereaktionen
+    {% else %}
+      {{ SITENAME }} - Articles in the {{ category }} category
+    {% endif %}
   {% endif %}
 {% endblock %}
 
 {% block content_title %}
-{% if category == "medien" %}
+  {% if category == "medien" %}
     <h1>Medienmitteilungen</h1>
   {% else %}
-    <h1>Articles in the {{ category }} category</h1>
+    {% if category == "pressreview" %}
+      <h1>Pressereaktionen</h1>
+    {% else %}
+      <h1>Articles in the {{ category }} category</h1>
+    {% endif %}
   {% endif %}
-{% endblock content_title %}
+{% endblock %}
 
 {% block content %}
+  {% if category == "pressreview" %}
     <ul>
-{% for article in dates %}
+    {% for article in dates %}
       <li>
-        <article class="hentry">
-            {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a><br />
-        </article>
+        {{article.url}}
       </li>
-{% endfor %}
+    {% endfor %}
     </ul>
-  <h2>Abonniere diesen Kanal</h2>
-  <ul>
-    <li><a href="feeds/rss_{{category}}.xml">RSS Feed</a> </li>
-    <li><a href="feeds/atom_{{category}}.xml">ATOM Feed</a> </li>
-  </ul>
+  {% else %}
+    <ul>
+    {% for article in dates %}
+          <li>
+            <article class="hentry">
+                {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a><br />
+            </article>
+          </li>
+    {% endfor %}
+    </ul>
+    <h2>Abonniere diesen Kanal</h2>
+    <ul>
+      <li><a href="feeds/rss_{{category}}.xml">RSS Feed</a> </li>
+      <li><a href="feeds/atom_{{category}}.xml">ATOM Feed</a> </li>
+    </ul>
+  {% endif %}
 {% endblock %}
