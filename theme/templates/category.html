@@ -3,32 +3,65 @@
 {% block title %}
   {% if category == "medien" %}
     {{ SITENAME }} - Medienmitteilungen
+  {% elif category == "pressreview" %}
+    {{ SITENAME }} - Pressereaktionen
   {% else %}
     {{ SITENAME }} - Articles in the {{ category }} category
   {% endif %}
 {% endblock %}
 
 {% block content_title %}
-{% if category == "medien" %}
+  {% if category == "medien" %}
     <h1>Medienmitteilungen</h1>
+  {% elif category == "pressreview" %}
+    <h1>Pressereaktionen</h1>
   {% else %}
     <h1>Articles in the {{ category }} category</h1>
   {% endif %}
-{% endblock content_title %}
+{% endblock %}
 
 {% block content %}
+  {% if category == "pressreview" %}
+
+    {% for article in dates %}
+
+      {% if (dates[loop.index-1].date.strftime("%Y")) != ((dates[loop.index-2]).date.strftime("%Y")) %}
+        <h2> {{article.date.strftime("%Y")}} </h2>
+      {% endif %}
+
+      {% if (dates[loop.index-1].date.strftime("%Y%m%d")) != ((dates[loop.index-2]).date.strftime("%Y%m%d")) %}
+        <h3> {{article.date.strftime("%-d. %B")}} </h3>
+        <ul>
+      {% endif %}
+
+        <li>
+          {{article.publisher}}: <a href="{{article.ext_url}}">{{article.title}}</a>
+        </li>
+
+      {% if dates[loop.index] %}
+      {% if (dates[loop.index-1].date.strftime("%Y%m%d")) != ((dates[loop.index]).date.strftime("%Y%m%d")) %}
+        </ul>
+      {% endif %}
+      {% else %}
+        </ul>
+      {% endif %}
+
+    {% endfor %}
+
+  {% else %}
     <ul>
-{% for article in dates %}
-      <li>
-        <article class="hentry">
-            {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a><br />
-        </article>
-      </li>
-{% endfor %}
+    {% for article in dates %}
+          <li>
+            <article class="hentry">
+                {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a><br />
+            </article>
+          </li>
+    {% endfor %}
     </ul>
-  <h2>Abonniere diesen Kanal</h2>
-  <ul>
-    <li><a href="feeds/rss_{{category}}.xml">RSS Feed</a> </li>
-    <li><a href="feeds/atom_{{category}}.xml">ATOM Feed</a> </li>
-  </ul>
+  {% endif %}
+    <h2>Abonniere diesen Kanal</h2>
+    <ul>
+      <li><a href="feeds/rss_{{category}}.xml">RSS Feed</a> </li>
+      <li><a href="feeds/atom_{{category}}.xml">ATOM Feed</a> </li>
+    </ul>
 {% endblock %}
