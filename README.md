@@ -2,10 +2,12 @@
 
 Website of CCC Swiss association.
 
+
 ## Dependencies
 
 The CCC-CH website is implemented with the help of Python and the [Pelican
 Static Site Generator][pelican]. Content is written in [Markdown][markdown].
+
 
 ## Development setup
 
@@ -37,6 +39,13 @@ The web server is now running on `http://localhost:8000`.
 
 You can use the online [Markdown Editor][markdown-editor] to write articles and
 protocols.
+
+
+## Deployment
+
+If you have a user account on the ccc-ch.ch Server, you can deploy the website via rsync:
+
+    $ make rsync_upload
 
 
 [pelican]: http://blog.getpelican.com/
