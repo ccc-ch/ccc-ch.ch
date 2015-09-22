@@ -21,7 +21,19 @@
 {% endblock %}
 
 {% block content %}
-{{ article.content }}
+
+{% if category == "pressreview" %}
+    <dl>
+        <dt>Publiziert von:</dt>
+        <dd>{{ article.publisher }}</dd>
+        <dt>Publiziert am:</dt>
+        <dd>{{ article.date.strftime('%-d. %B %Y') }}</dd>
+        <dt>URL:</dt>
+        <dd>{{ article.ext_url|urlize(128, true) }}</dd>
+    </dl>
+{% else %}
+    {{ article.content }}
+{% endif %}
 
 <hr />
 <div class="shariff" data-url="{{ SITEURL }}/{{ article.url }}" data-theme="grey"></div>
