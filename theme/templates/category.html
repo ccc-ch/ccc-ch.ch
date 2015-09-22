@@ -29,7 +29,7 @@
     <ul>
     {% for article in dates %}
       <li>
-        {{article.url}}
+        {{article.publisher}}: <a href="{{article.url}}">{{article.title}}</a>
       </li>
     {% endfor %}
     </ul>
@@ -44,9 +44,9 @@
     {% endfor %}
     </ul>
     <h2>Abonniere diesen Kanal</h2>
+  {% endif %}
     <ul>
       <li><a href="feeds/rss_{{category}}.xml">RSS Feed</a> </li>
       <li><a href="feeds/atom_{{category}}.xml">ATOM Feed</a> </li>
     </ul>
-  {% endif %}
 {% endblock %}
