@@ -1,17 +1,29 @@
 {% extends "index.html" %}
 
 {% block title %}
-{% if category == "medien" %}
-{{ SITENAME }} - Medienmitteilungen
-{% else %}
-{{ SITENAME }} - Articles in the {{ category }} category
-{% endif %}
+  {% if category == "medien" %}
+    {{ SITENAME }} - Medienmitteilungen
+  {% else %}
+    {{ SITENAME }} - Articles in the {{ category }} category
+  {% endif %}
 {% endblock %}
 
 {% block content_title %}
 {% if category == "medien" %}
-                <h1>Medienmitteilungen</h1>
-{% else %}
-                <h1>Articles in the {{ category }} category</h1>
-{% endif %}
+    <h1>Medienmitteilungen</h1>
+  {% else %}
+    <h1>Articles in the {{ category }} category</h1>
+  {% endif %}
 {% endblock content_title %}
+
+{% block content %}
+{% for article in dates %}
+    <ul>
+      <li>
+        <article class="hentry">
+            {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+        </article>
+      </li>
+    </ul>
+{% endfor %}
+{% endblock %}
