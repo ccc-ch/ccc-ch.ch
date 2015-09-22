@@ -2,6 +2,7 @@
 
 import argparse
 import io
+import os
 import re
 import sys
 import unicodedata
@@ -31,6 +32,10 @@ class PressReview:
                 result.append(word)
         slug = '%s_%s' % (self.date, '-'.join(result))
         return slug.encode('ascii', 'ignore').decode('ascii')
+
+    @property
+    def filename(self):
+        return '%s.md' % self.slug
 
     def get_text(self):
         text = io.StringIO()
@@ -103,7 +108,22 @@ if __name__ == '__main__':
     pr = PressReview(args.date, args.publisher, args.title, args.url)
     text = pr.get_text()
 
+    # Dry run
     if args.dry_run:
         print(text)
-    else:
-        print('Generating %s...' % 'NOT YET IMPLEMENTED')
+        sys.exit(0)
+
+    # Calculate target filepath
+    module_path = os.path.dirname(os.path.abspath(__file__))
+    target_dir = os.path.join(module_path, 'content/de/pressreview/')
+    target_file = os.path.join(target_dir, pr.filename)
+    print('Writing %s...' % target_file)
+
+    # Verify that file does not yet exist
+    if os.path.isfile(target_file):
+        print('Target file already exists! Aborting.')
+        sys.exit(1)
+
+    # Write file
+    with open(target_file, 'w', encoding='utf-8') as f:
+        f.write(text)
