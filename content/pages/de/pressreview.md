@@ -6,9 +6,13 @@ Modified: 2015-03-13
 
 ## 2015
 
+### 21. September
+
+- [NZZ: Nach grossangelegtem Angriff auf Apples App Store: Trügerische Sicherheit](http://www.nzz.ch/digital/xcodeghost-app-store-apple-sicherheit-ld.2085)
+
 ### 3. September
 
-- [Einstein: Cybercrime: Wie sicher ist das Know-how der Schweiz?](http://www.srf.ch/sendungen/einstein/cybercrime-wie-sicher-ist-das-know-how-der-schweiz)
+- [SRF Einstein: Cybercrime: Wie sicher ist das Know-how der Schweiz?](http://www.srf.ch/sendungen/einstein/cybercrime-wie-sicher-ist-das-know-how-der-schweiz)
 
 ### 12. Juni
 
@@ -37,6 +41,10 @@ Modified: 2015-03-13
 
 ## 2014
 
+### 2. Dezember
+
+- [VICE: Zu Besuch im sichersten Datenbunker der Schweiz](http://motherboard.vice.com/de/read/datenbunker-in-den-schweizer-bergen-271)
+
 ### 23. November
 
 - [NZZ Campus: Der gute Hacker](http://campus.nzz.ch/leben/der-gute-hacker)
@@ -44,6 +52,7 @@ Modified: 2015-03-13
 ### 19. November
 
 - [PC Tipp: Ist WhatsApp jetzt sicherer als Threema?](http://www.pctipp.ch/news/kommunikation/artikel/ist-whatsapp-jetzt-sicherer-als-threema-81331/)
+- [NZZ: Warum WhatsApp trotz Verschlüsselung unsicher bleibt](http://www.nzz.ch/digital/whatsapp-verschluesselung-1.18427868)
 
 ### 18. November
 
@@ -66,9 +75,25 @@ Modified: 2015-03-13
 
 - [Blick: «Es wirkt wie ein Bubenstreich»](http://www.blick.ch/news/ausland/hacker-experte-ueber-sex-alarm-in-hollywood-es-wirkt-wie-ein-bubenstreich-id3099586.html)
 
+### 10. Juli
+
+- [WOZ: Wenn die Kaffeemaschine zur Einbruchsgehilfin wird](https://www.woz.ch/1428/vernetzte-dinge-und-datenschutz/wenn-die-kaffeemaschine-zur-einbruchsgehilfin-wird)
+
 ### 11. Juni
 
 - [SRF: Crypto-Partys: Hier gibt es Schlüssel zum Verschlüsseln](http://www.srf.ch/wissen/digital/crypto-partys-hier-gibt-es-schluessel-zum-verschluesseln)
+
+### 17. April
+
+- [WOZ: Niemand weiss, was der Computer mit Ihrer Stimme macht](https://www.woz.ch/1416/e-counting/niemand-weiss-was-der-computer-mit-ihrer-stimme-macht)
+
+### 15. April
+
+- [NZZ: Wie hätte Heartbleed früher entdeckt werden können?](http://www.nzz.ch/digital/heartbleed-open-ssl-projekt-spenden-1.18284534)
+
+### 11. April
+
+- [Radio RaBe: Der GAU der Verschlüsselung ist eingetroffen (ab 09:25)](http://www.rabe.ch/sendungen/info-sendung-nachrichten/rabe-info/d/archive/2014/4/11/art/fr-11-april-2014.html)
 
 ### 30. März
 
@@ -77,6 +102,18 @@ Modified: 2015-03-13
 ### 19. März
 
 - [Watson: Universität Zürich schaltet Pornofilter aus](http://www.watson.ch/!956151091)
+
+### 23. Februar
+
+- [20 Minuten: Das Entschlüsseln kann Millionen Jahre dauern](http://www.20min.ch/schweiz/news/story/-Das-Entschluesseln-kann-Millionen-Jahre-dauern--12546537)
+
+### 21. Februar
+
+- [Zürcher Studierendenzeitung: Die Lücken im Uni-Netzwerk](http://zs-online.ch/home/uni/die-luecken-im-uni-netzwerk/)
+
+### 1. Februar
+
+- [20 Minuten: Sicherheitslücken beim Einchecken per Handy?](http://www.20min.ch/finance/news/story/Sicherheitsluecken-beim-Einchecken-per-Handy--13812534)
 
 
 ## 2013
@@ -105,6 +142,10 @@ Modified: 2015-03-13
 ### 4. August
 
 - [Sonntagszeitung: Das sollte sich der Bund mit Steuergeldern nicht erlauben](http://www.sonntagszeitung.ch/suche/artikel-detailseite/?newsid=258482)
+
+### 21. Juli
+
+- [Hackerfunk: Offener Politkanal, 21.07.2013 - Büpf/Vüpf](http://www.hackerfunk.ch/index.php?id=141)
 
 ### 29. Juni
 
@@ -175,6 +216,7 @@ Modified: 2015-03-13
 - <http://www.golem.de/news/wir-sind-die-guten-chaos-computer-club-schweiz-gegruendet-1212-96384.html>
 - <http://www.gulli.com/news/20487-chaos-computer-club-schweiz-offiziell-gegruendet-2012-12-16>
 - <http://www.virato.de/article/1243910-chaos-computer-club-schweiz-offiziell-gegrundet/>
+- <http://www.hackerfunk.ch/index.php?id=122>
 
 ### 10. Dezember
 

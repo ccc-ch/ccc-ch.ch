@@ -19,7 +19,7 @@ MENUITEMS = (
                 ('Statuten', 'statuten.html'),
                 ('Mitglieder', 'members.html'),
               ]),
-              ('Medienmitteilungen', 'medien.html', None),
+              ('Medienmitteilungen', 'category_medien.html', None),
               ('Pressreview', 'pressreview.html', None),
               ('Intern', '#', [
                 ('Protokolle', 'protokolle.html'),
@@ -43,7 +43,8 @@ FEED_ALL_RSS = None
 FEED_ALL_ATOM = None
 FEED_RSS = 'feeds/rss.xml'
 FEED_ATOM = 'feeds/atom.xml'
-CATEGORY_FEED_ATOM = None
+CATEGORY_FEED_ATOM = 'feeds/atom_%s.xml'
+CATEGORY_FEED_RSS = 'feeds/rss_%s.xml'
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
@@ -60,6 +61,8 @@ TAGS_URL = 'tags.html'
 TAGS_SAVE_AS = 'tags.html'
 ARCHIVES_URL = 'archives.html'
 ARCHIVES_SAVE_AS = 'archives.html'
+CATEGORY_URL = 'category_{slug}.html'
+CATEGORY_SAVE_AS = 'category_{slug}.html'
 
 # Contact
 EMAIL_ADDR = 'webmaster@ccc-ch.ch'
