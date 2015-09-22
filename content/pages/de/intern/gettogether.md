@@ -29,6 +29,6 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
     * **Traktanden:** [Pad](https://pads.ccc.de/2015-04-swisschaos)
  * Februar 2015, St. Gallen
     * **Wann:** Samstag, 2015-02-14 ab 13:00 Uhr
-    * **8Wo:** Ruum42, Andreasstrasse 5, St.Gallen 
+    * **Wo:** Ruum42, Andreasstrasse 5, St.Gallen 
     * **Traktanden:** [pad](https://pads.ccc.de/uL3MlRqsFb)
 
