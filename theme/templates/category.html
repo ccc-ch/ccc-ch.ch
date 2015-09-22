@@ -1,7 +1,34 @@
 {% extends "index.html" %}
 
-{% block title %}{{ SITENAME }} - Articles in the {{ category }} category{% endblock %}
+{% block title %}
+  {% if category == "medien" %}
+    {{ SITENAME }} - Medienmitteilungen
+  {% else %}
+    {{ SITENAME }} - Articles in the {{ category }} category
+  {% endif %}
+{% endblock %}
 
 {% block content_title %}
-                <h1>Articles in the {{ category }} category</h1>
+{% if category == "medien" %}
+    <h1>Medienmitteilungen</h1>
+  {% else %}
+    <h1>Articles in the {{ category }} category</h1>
+  {% endif %}
 {% endblock content_title %}
+
+{% block content %}
+    <ul>
+{% for article in dates %}
+      <li>
+        <article class="hentry">
+            {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+        </article>
+      </li>
+{% endfor %}
+    </ul>
+  <h2>Abonniere diesen Kanal</h2>
+  <ul>
+    <li><a href="feeds/rss_{{category}}.xml">RSS Feed</a> </li>
+    <li><a href="feeds/atom_{{category}}.xml">ATOM Feed</a> </li>
+  </ul>
+{% endblock %}
