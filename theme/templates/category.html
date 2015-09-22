@@ -17,15 +17,15 @@
 {% endblock content_title %}
 
 {% block content %}
-{% for article in dates %}
     <ul>
+{% for article in dates %}
       <li>
         <article class="hentry">
             {{article.date.strftime("%A, %b %-d, %Y")}} - <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
         </article>
       </li>
-    </ul>
 {% endfor %}
+    </ul>
   <h2>Abonniere diesen Kanal</h2>
   <ul>
     <li><a href="feeds/rss_{{category}}.xml">RSS Feed</a> </li>
