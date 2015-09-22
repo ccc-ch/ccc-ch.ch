@@ -19,7 +19,7 @@ MENUITEMS = (
                 ('Statuten', 'statuten.html'),
                 ('Mitglieder', 'members.html'),
               ]),
-              ('Medienmitteilungen', 'medien.html', None),
+              ('Medienmitteilungen', 'category_medien.html', None),
               ('Pressreview', 'pressreview.html', None),
               ('Intern', '#', [
                 ('Protokolle', 'protokolle.html'),
@@ -60,6 +60,8 @@ TAGS_URL = 'tags.html'
 TAGS_SAVE_AS = 'tags.html'
 ARCHIVES_URL = 'archives.html'
 ARCHIVES_SAVE_AS = 'archives.html'
+CATEGORY_URL = 'category_{slug}.html'
+CATEGORY_SAVE_AS = 'category_{slug}.html'
 
 # Contact
 EMAIL_ADDR = 'webmaster@ccc-ch.ch'
