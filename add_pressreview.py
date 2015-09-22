@@ -1,10 +1,46 @@
 #!/usr/bin/env python3
 
+import argparse
+import io
 import re
 import sys
-import argparse
-import urllib.request
+import unicodedata
 import urllib.error
+import urllib.request
+
+
+class PressReview:
+    """
+    Model for a press review entry.
+    """
+    _punct_re = re.compile(r'[\t !"#$%&\'()*\-/<=>?@\[\\\]^_`{|},.]+')
+
+    def __init__(self, date, publisher, title, url):
+        self.date = date
+        self.publisher = publisher
+        self.title = title
+        self.url = url
+        self.lang = 'de'
+
+    @property
+    def slug(self):
+        result = []
+        for word in self._punct_re.split(self.publisher.lower()):
+            word = unicodedata.normalize('NFKD', word)
+            if word:
+                result.append(word)
+        slug = '%s_%s' % (self.date, '-'.join(result))
+        return slug.encode('ascii', 'ignore').decode('ascii')
+
+    def get_text(self):
+        text = io.StringIO()
+        text.write('Title: %s\n' % self.title)
+        text.write('Slug: %s\n' % self.slug)
+        text.write('Date: %s\n' % self.date)
+        text.write('Lang: %s\n' % self.lang)
+        text.write('Publisher: %s\n' % self.publisher)
+        text.write('Ext_url: %s' % self.url)
+        return text.getvalue()
 
 
 def get_parser():
@@ -62,3 +98,12 @@ if __name__ == '__main__':
     if not args.force:
         v = Validator(args)
         v.validate()
+
+    # Create press review entry
+    pr = PressReview(args.date, args.publisher, args.title, args.url)
+    text = pr.get_text()
+
+    if args.dry_run:
+        print(text)
+    else:
+        print('Generating %s...' % 'NOT YET IMPLEMENTED')
