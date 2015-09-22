@@ -1,0 +1,22 @@
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteCond %{HTTPS} off
+
+# First rewrite to HTTPS:
+# Don't put www. here. If it is already there it will be included, if not
+# the subsequent rule will catch it.
+RewriteRule .* https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Now, rewrite any request to the wrong domain to use www.
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+</IfModule>
+
+# Disable directory listing
+Options -Indexes
+
+# Set HSTS headers to enforce TLS
+Header set Strict-Transport-Security "max-age=31536000; preload" env=HTTPS

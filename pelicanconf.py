@@ -3,7 +3,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'CCC-CH'
 SITENAME = u'CCC-CH'
-SITEURL = u'https://ccc-ch.ch'
+SITEURL = u'https://www.ccc-ch.ch'
 TIMEZONE = u'Europe/Zurich'
 DEFAULT_LANG = u'de'
 DEFAULT_DATE_FORMAT = '%a %d. %B %Y'
@@ -74,20 +74,21 @@ PLUGINS = ['i18n_subsites']
 # Plugin configuration
 I18N_SUBSITES = {
   'de': {
-    'LOCALE': "de_CH"
+    'LOCALE': 'de_CH'
   },
   'en': {
-    'LOCALE': "en_US"
+    'LOCALE': 'en_US'
   }
 }
 
 # Theme
 THEME = 'theme'
-STATIC_PATHS = ['images', 'docs', 'extra/robots.txt', 'extra/favicon.ico']
+STATIC_PATHS = ['images', 'docs', 'extra/robots.txt', 'extra/favicon.ico', 'extra/htaccess']
 PATH_METADATA = 'pages/(?P<path>.*)\..*'
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/favicon.ico': {'path': 'favicon.ico'}
+    'extra/favicon.ico': {'path': 'favicon.ico'},
+    'extra/htaccess': {'path': '.htaccess'},
 }
 
 # Licence
