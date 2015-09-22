@@ -1,0 +1,11 @@
+sudo: no
+language: python
+python: 2.7
+
+install:
+    - pip install -rrequirements.txt
+
+script:
+    - 'make html 2>&1 | tee pelican_output'
+    - '! grep -v "WARNING: LOCALE" pelican_output | grep -q WARNING'
+    - '! grep -q "0 pages" pelican_output'
