@@ -3,24 +3,20 @@
 {% block title %}
   {% if category == "medien" %}
     {{ SITENAME }} - Medienmitteilungen
+  {% elif category == "pressreview" %}
+    {{ SITENAME }} - Pressereaktionen
   {% else %}
-    {% if category == "pressreview" %}
-      {{ SITENAME }} - Pressereaktionen
-    {% else %}
-      {{ SITENAME }} - Articles in the {{ category }} category
-    {% endif %}
+    {{ SITENAME }} - Articles in the {{ category }} category
   {% endif %}
 {% endblock %}
 
 {% block content_title %}
   {% if category == "medien" %}
     <h1>Medienmitteilungen</h1>
+  {% elif category == "pressreview" %}
+    <h1>Pressereaktionen</h1>
   {% else %}
-    {% if category == "pressreview" %}
-      <h1>Pressereaktionen</h1>
-    {% else %}
-      <h1>Articles in the {{ category }} category</h1>
-    {% endif %}
+    <h1>Articles in the {{ category }} category</h1>
   {% endif %}
 {% endblock %}
 
