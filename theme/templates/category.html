@@ -26,13 +26,32 @@
 
 {% block content %}
   {% if category == "pressreview" %}
-    <ul>
+
     {% for article in dates %}
-      <li>
-        {{article.publisher}}: <a href="{{article.url}}">{{article.title}}</a>
-      </li>
+
+      {% if (dates[loop.index-1].date.strftime("%Y")) != ((dates[loop.index-2]).date.strftime("%Y")) %}
+        <h2> {{article.date.strftime("%Y")}} </h2>
+      {% endif %}
+
+      {% if (dates[loop.index-1].date.strftime("%Y%m%d")) != ((dates[loop.index-2]).date.strftime("%Y%m%d")) %}
+        <h3> {{article.date.strftime("%-d. %B")}} </h3>
+        <ul>
+      {% endif %}
+
+        <li>
+          {{article.publisher}}: <a href="{{article.url}}">{{article.title}}</a>
+        </li>
+
+      {% if dates[loop.index] %}
+      {% if (dates[loop.index-1].date.strftime("%Y%m%d")) != ((dates[loop.index]).date.strftime("%Y%m%d")) %}
+        </ul>
+      {% endif %}
+      {% else %}
+        </ul>
+      {% endif %}
+
     {% endfor %}
-    </ul>
+
   {% else %}
     <ul>
     {% for article in dates %}
@@ -43,8 +62,8 @@
           </li>
     {% endfor %}
     </ul>
-    <h2>Abonniere diesen Kanal</h2>
   {% endif %}
+    <h2>Abonniere diesen Kanal</h2>
     <ul>
       <li><a href="feeds/rss_{{category}}.xml">RSS Feed</a> </li>
       <li><a href="feeds/atom_{{category}}.xml">ATOM Feed</a> </li>
