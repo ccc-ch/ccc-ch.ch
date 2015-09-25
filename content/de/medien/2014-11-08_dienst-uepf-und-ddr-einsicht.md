@@ -1,7 +1,5 @@
 Title: Dienst ÜPF und DDR: Einsicht ist der erste Schritt zur Besserung!
-Slug: 2014_11_18_dienst_uepf_und_ddr_einsicht
 Lang: de
-Date: 2014-11-18
 
 Liebe Medienschaffende 
 

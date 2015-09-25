@@ -1,7 +1,5 @@
 Title: CCC-CH leakt Mail und Depesche eines transnationalen Infiltrationsversuchs vom vereinigten Geheimdienstsumpf
-Slug: 2015-01_16_mail_und_depesche_leaked
 Lang: de
-Date: 2015-01-16
 
 CIA-Mail (PDF): [https://www.ccczh.ch/Datei:Stopbuepf_cia_mail.pdf](https://www.ccczh.ch/Datei:Stopbuepf_cia_mail.pdf)<br />
 STOP-BÜPF-Depesche (PDF): [https://www.ccczh.ch/Datei:Stopbuepf_cable.pdf](https://www.ccczh.ch/Datei:Stopbuepf_cable.pdf)

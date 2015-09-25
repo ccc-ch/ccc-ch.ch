@@ -1,7 +1,5 @@
 Title: Referendum gen das Massenüberwachungsgesetz NDG in der Mache!
-Slug: 2015-09-09_referendum_gegen_ndg
 Lang: de
-Date: 2015-09-09
 
 Liebe Medienschaffende,<br />
 liebe Chaosliebhabende,<br />
