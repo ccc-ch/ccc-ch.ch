@@ -1,7 +1,5 @@
 Title: CCC-CH begrüsst Schritte zur Befragung von Edward Snowden in der Schweiz
-Slug: 2014-09-09_snowden
 Lang: de
-Date: 2014-09-09
 
 Wie die [SonntagsZeitung berichtete](http://webapp.sonntagszeitung.ch/read/sz_07_09_2014/nachrichten/Bundesanwaltschaft-ebnet-Weg-fuer-Anhoerung-von-Edward-Snowden-14366), hat die Bundesanwaltschaft BA überprüft, ob es möglich wäre, Edward Snowden bei einem Aufenthalt in der Schweiz vor rechtlichen Übergriffen durch die USA zu schützen, um ihn hinsichtlich der Spionagetätigkeiten von US-Geheimdiensten zu befragen.
 

@@ -1,7 +1,5 @@
 Title: CCC-CH fordert sofortige Aussetzung des E-Counting in Bern und St. Gallen [Update]
-Slug: 2014-05-23_stop_ecounting
 Lang: de
-Date: 2014-05-23
 
 Liebe Medienschaffende,<br/>
 Liebe Demokratie,

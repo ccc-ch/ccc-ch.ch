@@ -1,7 +1,5 @@
 Title: Widerstand nach vorne – CCC-CH fordert Verbot unverschlüsselter Kommunikation!
-Slug: 2015-01_22 verbot_unverschluesselter_kommunikation
 Lang: de
-Date: 2015-01-22
 
 Liebe Medienschaffende 
 
