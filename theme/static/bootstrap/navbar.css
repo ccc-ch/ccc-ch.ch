@@ -7,6 +7,49 @@ body {
   margin-bottom: 20px;
 }
 
+/*
+ * Open dropdowns on hover instead of click.
+ */
+@media (min-width: 768px) {
+  .dropdown:hover {
+    color: #e0e0e0;
+    background-color: #444444;
+  }
+  .dropdown:hover > .dropdown-menu {
+    display: block;
+  }
+}
+
+/*
+ * The following is needed since the dropdowns are <div>
+ * elements instead of <a> elements
+ */
+.nav > li > div {
+  position: relative;
+  display: block;
+  padding: 10px 15px;
+  cursor: default;
+}
+.navbar-nav > li > div {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  line-height: 20px;
+}
+.navbar-default .navbar-nav > li > div {
+  color: #e0e0e0;
+  background-color: #444444;
+}
+.navbar-collapse.collapse {
+  display: none;
+}
+.dropdown-open {
+  color: #e0e0e0;
+  background-color: #444444;
+}
+
+/*
+ * Set colors of navbar
+ */
 .navbar-default {
   background-color: #333333;
   border-color: #444444;
