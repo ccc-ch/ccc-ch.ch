@@ -10,41 +10,42 @@ body {
 /*
  * Open dropdowns on hover instead of click.
  */
-@media (min-width: 768px) {
-  .dropdown:hover {
-    color: #e0e0e0;
-    background-color: #444444;
-  }
-  .dropdown:hover > .dropdown-menu {
-    display: block;
-  }
+.dropdown-menu .sub-menu {
+  left: 100%;
+  position: absolute;
+  top: 0;
+  visibility: hidden;
+  margin-top: -1px;
 }
 
-/*
- * The following is needed since the dropdowns are <div>
- * elements instead of <a> elements
- */
-.nav > li > div {
-  position: relative;
+.dropdown-menu li:hover .sub-menu {
+  visibility: visible;
+}
+
+.dropdown:hover .dropdown-menu {
   display: block;
-  padding: 10px 15px;
-  cursor: default;
 }
-.navbar-nav > li > div {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  line-height: 20px;
+
+.nav-tabs .dropdown-menu, .nav-pills .dropdown-menu, .navbar .dropdown-menu {
+  margin-top: 0;
 }
-.navbar-default .navbar-nav > li > div {
-  color: #e0e0e0;
-  background-color: #444444;
+
+.navbar .sub-menu:before {
+  border-bottom: 7px solid transparent;
+  border-left: none;
+  border-right: 7px solid rgba(0, 0, 0, 0.2);
+  border-top: 7px solid transparent;
+  left: -7px;
+  top: 10px;
 }
-.navbar-collapse.collapse {
-  display: none;
-}
-.dropdown-open {
-  color: #e0e0e0;
-  background-color: #444444;
+.navbar .sub-menu:after {
+  border-top: 6px solid transparent;
+  border-left: none;
+  border-right: 6px solid #fff;
+  border-bottom: 6px solid transparent;
+  left: 10px;
+  top: 11px;
+  left: -6px;
 }
 
 /*
