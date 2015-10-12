@@ -17,7 +17,7 @@ Modified: 2015-09-20
 
 ## „Chaos Computer Club Schweiz” auf dem Bundesplatz in Bern gegründet
 
-Mit einem symbolischen Akt auf dem Bundespatz in Bern haben rund 40 Delegierte verschiedener lokaler Chaostreffs der Schweiz den
+Mit einem symbolischen Akt auf dem Bundesplatz in Bern haben rund 40 Delegierte verschiedener lokaler Chaostreffs der Schweiz den
 Dachverband „Chaos Computer Club Schweiz” gegründet. Neben den Chaostreffs Zürich, Basel, Bern und St.Gallen gehört auch der Hackerspace Freiburg
 zu den Gründungsmitgliedern des neuen Verbandes.<br /><br />
 
@@ -48,7 +48,7 @@ einem eigenen Stand präsentieren; auf dem Hacker-Kongress werden zwischen Weihn
 
 ### Unsere Mitglieder
 
-  Konsultiere auch die Webseiten unserer [Migliedsorgnisationen](members.html) für weitere Informationen.
+  Konsultiere auch die Webseiten unserer [Mitgliedsorganisationen](members.html) für weitere Informationen.
 
 ### Chaos Computer Club e.V. (Deutschland)
 
