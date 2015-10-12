@@ -41,8 +41,8 @@ Damit die Öffentlichkeit verstärkt auf das positive Anliegen der Hacker aufmer
 Zivilgesellschaft - zu fördern, schliessen sich die Hacker-Vereine und -Gruppierungen der Schweiz jetzt zu einem gemeinsamen Dachverband zusammen. Zu den Gründungsmitgliedern gehören der Chaos Computer
 Club Zürich sowie die Chaostreffs Basel, St. Gallen und Bern (Ostermundingen).<br /><br />
 
-Die Gründung des Verbandes findet am 15. Dezember 2012 um 14 Uhr auf dem Bundesplatz in Bern statt. Nach seiner Gründung wird sich der Verband erstmalig auf dem "29. Chaos Communication Congress" in Hamburg mit
-einem eigenen Stand präsentieren; auf dem Hacker-Kongress werden zwischen Weihnachten und Neujahr über 5000 Besucher aus der ganzen Welt erwartet.
+Die Gründung des Verbandes fand am 15. Dezember 2012 um 14 Uhr auf dem Bundesplatz in Bern statt. Nach seiner Gründung hat sich der Verband erstmalig auf dem "29. Chaos Communication Congress" in Hamburg mit
+einem eigenen Stand präsentiert; auf dem Hacker-Kongress waren zwischen Weihnachten und Neujahr über 5000 Besucher aus der ganzen Welt anwesend.
 
 ## Hintergrund-Informationen / Links
 
