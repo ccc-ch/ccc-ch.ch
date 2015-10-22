@@ -20,7 +20,7 @@ MENUITEMS = (
                 ('Mitglieder', 'members.html'),
               ]),
               ('Medienmitteilungen', 'category_medien.html', None),
-              ('Pressreview', 'category_pressreview.html', None),
+              ('Pressereaktionen', 'category_pressreview.html', None),
               ('Intern', '#', [
                 ('Protokolle', 'protokolle.html'),
                 ('Mitgliederbeiträge', 'mitgliederbeitraege.html'),
