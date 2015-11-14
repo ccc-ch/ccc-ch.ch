@@ -8,13 +8,17 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
- * November 2015, Basel
-    * **Wann:** Samstag, 2015-11-14
-    * **Wo:** Chaoten und R.A.I.F. Basis, Birsfelderstrasse 6, 4132 Muttenz
+ * Dezember 2015, Hamburg
+    * **Wann:** Irgendwann am 32c3, genaue Zeit TBA
+    * **Wo:** 32c3, CCH Congress Center Hamburg, Deutschland, Raum TBA
     * **Traktanden:**
 
 ## Vergangene Gettogether
 
+ * November 2015, Basel
+    * **Wann:** Samstag, 2015-11-14 ab 13:37 Uhr
+    * **Wo:** Chaoten und R.A.I.F. Basis, Birsfelderstrasse 6, 4132 Muttenz
+    * **Traktanden:** [Pad](https://pads.ccc.de/Gettogether-Basel-11-2015)
  * September 2015, Bern
     * **Wann:** Samstag, 2015-09-19 ab 14:00 Uhr
     * **Wo:** Autonome Schule denk:mal, Lagerweg 12, 3013 Bern
