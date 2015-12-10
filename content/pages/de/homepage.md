@@ -39,7 +39,7 @@ Mehr Infos:<br/>
 [Digitale Gesellschaft][4]<br/>
 [Plädoyer-Artikel][5]<br/>
 
-Unterstützung benötigt, um das Referendum zu unterstützen? Email an den CCCZH: ndg [auf] ccczh [punkt] ch
+Unterstützung benötigt, um das Referendum zu unterstützen? Email an: ndg [auf] ccc-ch [punkt] ch
 
 [1]: https://www.nachrichtendienstgesetz.ch/wp-content/uploads/NDG-10.pdf "Unterschriftenbogen 10"
 [2]: https://www.nachrichtendienstgesetz.ch/wp-content/uploads/NDG-3.pdf
