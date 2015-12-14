@@ -17,7 +17,7 @@ Die CCCZH Members Liste ist entstanden um schnell und relativ niederschwellig Me
 ## Scope
 verschlüsselte Mailingliste für alle zum CCC-CH gehörenden Menschen, also alle indirekten Mitglieder. Es sollten drauf: 
 
-  * Diskussionen, die den ganzen Verein angehen, aber (nicht) nicht öffentlich sind
+  * Diskussionen, die den ganzen Verein angehen, aber (noch) nicht öffentlich sind
   * Unterhaltungen zu nicht öffentlichen Angelegenheiten
   * Konsensfindung mittels einfachen Abstimmungen/Umfragen.
 
