@@ -3,14 +3,14 @@ Slug: schleuder
 Lang: de
 Date: 2015-12-14
 
-## Preamble
-Bei der Schleuder handelt es sich um eine PGP-verschlüsselte Mailing Liste. Die erste Schleuder im Umfeld des Schweizer Chaos war die Schleuder der digitalen Gesellschaft. Später hat der CCCZH eigene Schleuder Instanzen in Betrieb genommen: 'intern', 'agserver' und 'members'. 
+## Präambel
+Bei der [Schleuder](http://schleuder2.nadir.org/) handelt es sich um eine PGP-verschlüsselte Mailing Liste. Die erste Schleuder im Umfeld des Schweizer Chaos war die Schleuder der digitalen Gesellschaft. Später hat der CCCZH eigene Schleuder Instanzen in Betrieb genommen: 'intern', 'agserver' und 'members'. 
 
  * intern - Eine Liste für 'vertrauenswürdige' Personen
  * agserver - Eine Liste für die AGServer-Leute
  * members - Eine Liste für die Mitglieder des CCCZH
 
-Im Unterschied zur Swisschaos Liste sind dabei die Policies direkt ersichtlich. Im Rahmen der Eiführung der Schleuder hat der CCCZH den PGP-Fingerprint auf dem Mitgliederformular zur notwendigen Angabe heraufgestuft, eine Regel die allerdings nicht strikt durchgesetzt wird.
+Im Unterschied zur Swisschaos Liste sind dabei die Policies direkt ersichtlich. Im Rahmen der Einführung der Schleuder hat der CCCZH den PGP-Fingerprint auf dem Mitgliederformular zur notwendigen Angabe heraufgestuft, eine Regel die allerdings nicht strikt durchgesetzt wird.
 
 Die CCCZH Members Liste ist entstanden um schnell und relativ niederschwellig Meinungen und anderen Vereinsfoo kundig zu machen - z.B. um zu einer Erfa-Meinung zu kommen, wenn uns der CCC fragt, quasi Vereinsentscheide Light. So ähnlich hat sich das Ari auch für die CCC-CH-members-Schleuder gedacht.
 
@@ -18,10 +18,10 @@ Die CCCZH Members Liste ist entstanden um schnell und relativ niederschwellig Me
 verschlüsselte Mailingliste für alle zum CCC-CH gehörenden Menschen, also alle indirekten Mitglieder. Es sollten drauf: 
 
   * Diskussionen, die den ganzen Verein angehen, aber (nicht) nicht öffentlich sind
-  * talk über nicht öffentliche Angelegenheiten
+  * Unterhaltungen zu nicht öffentlichen Angelegenheiten
   * Konsensfindung mittels einfachen Abstimmungen/Umfragen.
 
-Alle Mitglieder der Liste sind mitverantwortlich für die nicht-öffentlichkeit der Inhalte. Falls das vom Autor nicht explizit gewünscht wird, so sind Emails nicht forzuwarden und Inhalte nicht zu veröffentlichen.
+Alle Mitglieder der Liste sind mitverantwortlich für die nicht-öffentlichkeit der Inhalte. Falls das vom Autor nicht explizit gewünscht wird, so sind Emails nicht weiterzuleiten und Inhalte nicht zu veröffentlichen!
 
 Für öffentliche Dinge ist nach wie vor die Swisschaos ML zu verwenden. 
 
@@ -49,7 +49,5 @@ List-Admins sind dafür verantwortlich, Mitglieder ihrer Organisation auf die Li
 ## Betrieb/Server
 Aus Gründen der Transparenz sei hier folgendes vermerkt: Die CCC-CH Schleuder läuft auf den Servern des CCCZH. Aus diesem Grund verfügen alle CCCZH AGServer-Admins über administrativen Zugriff auf die Liste.
 
-## Moar Schleuders
-ihr wollt für $topic eine Schleuder, aber betreibt keinen eigenen Mailserver? Shame on you! Aber fragt Ari, der richtet euch das schon ein.
-
-* die Steigerung wäre die Policy des CCCZH: Alle müssen.
+## Mehr Schleudern
+Falls ihr für bestimmte Topics eine dedizierte Schleuder möchtet, selbst aber keinen Mail Server betreibt, so solltet ihr einen eigenen Mail Server in Betrieb nehmen. Falls das nicht in Frage kommt, so kontaktiert Ari damit er euch eine Schleuder einrichtet.
