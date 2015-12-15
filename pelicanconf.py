@@ -83,7 +83,7 @@ I18N_SUBSITES = {
 
 # Theme
 THEME = 'theme'
-STATIC_PATHS = ['images', 'docs', 'extra/robots.txt', 'extra/favicon.ico', 'extra/htaccess']
+STATIC_PATHS = ['images', 'articles', 'docs', 'extra/robots.txt', 'extra/favicon.ico', 'extra/htaccess']
 PATH_METADATA = 'pages/(?P<path>.*)\..*'
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
