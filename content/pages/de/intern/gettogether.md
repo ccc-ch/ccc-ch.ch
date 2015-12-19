@@ -9,9 +9,9 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 ## Kommende Gettogether
 
  * Dezember 2015, Hamburg
-    * **Wann:** Irgendwann am 32c3, genaue Zeit TBA
-    * **Wo:** 32c3, CCH Congress Center Hamburg, Deutschland, Raum TBA
-    * **Traktanden:**
+    * **Wann:** Dienstag, 2015-12-29 ab 15:15 Uhr (Tag 3 des 32c3)
+    * **Wo:** [Hall A.2](https://events.ccc.de/congress/2015/wiki/Room:Hall_A.2), 32c3, CCH Congress Center Hamburg, Deutschland
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/32c3-gettogether)
 
 ## Vergangene Gettogether
 
