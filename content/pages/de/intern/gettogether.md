@@ -8,13 +8,17 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
- * Februar 2016, St. Gallen
-    * **Wann:** Samstag, 2016-02-20 ab 13:00 Uhr
-    * **Wo:** Ruum42, Andreasstrasse 5, St.Gallen 
+ *  April 2016, Bern
+    * **Wann:** Samstag, 2016-04-23 ab TBD
+    * **Wo:** [Güterstrasse 8](https://www.chaostreffbern.ch/treff.html#gueterstrasse), Bern, 2. Stock
     * **Traktanden:** TBD
 
 ## Vergangene Gettogether
 
+ * Februar 2016, St. Gallen
+    * **Wann:** Samstag, 2016-02-20 ab 13:00 Uhr
+    * **Wo:** Ruum42, Andreasstrasse 5, St.Gallen 
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/2016-02-Gettogether-Ruum42)
  * Dezember 2015, Hamburg
     * **Wann:** Dienstag, 2015-12-29 ab 15:15 Uhr (Tag 3 des 32c3)
     * **Wo:** [Hall A.2](https://events.ccc.de/congress/2015/wiki/Room:Hall_A.2), 32c3, CCH Congress Center Hamburg, Deutschland
