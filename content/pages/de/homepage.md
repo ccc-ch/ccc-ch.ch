@@ -15,6 +15,14 @@ Modified: 2015-09-20
 </div>
 </div></div>
 
+## Sammelzusagen fürs BÜPF-Referendum: Deine Unterstützung benötigt
+
+Am Freitag hat das Parlament der Revision des BÜPF zugestimmt. Neu mit Staatstrojanern und Mitwirkungspflicht zu Überwachungsmassnahmen für alle - auch Private, zusätzlich zur allgemeinen sechsmonatigen Vorratsdatenspeicherung und Mitwirkungspflicht der Zugangsprovider.
+
+Dagegen wollen wir natürlich das Referendum ergreifen - zur Planung des Vorgehens brauchen wir Zusagen von Unterstützern Unterschriften zu sammeln.
+
+Wir bitten euch daher auf [buepf.ch](https://www.buepf.ch/) anzugeben, wie viel ihr beitragen könntet. Vielen Dank!
+
 ## Nachrichtendienstgesetz: Referendum jetzt unterstützen
 
 Das Referendum zum Nachrichtendienstgesetz geht in die letzten Sammelwochen: Es sind noch nicht genügend Stimmen beisammen. **[Unterschreibt jetzt][1]**, fragt eure Kollegen und eure Familie, wenn es euch irgend möglich ist: Sammelt auf der Strasse, auf den Plätzen eurer Gemeinde, auf dem nächsten Weihnachtsmarkt, auf Partys, überall, wo Menschen sind: Alle sind betroffen.
