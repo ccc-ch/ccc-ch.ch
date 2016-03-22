@@ -9,9 +9,9 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 ## Kommende Gettogether
 
  *  April 2016, Bern
-    * **Wann:** Samstag, 2016-04-23 ab TBD
+    * **Wann:** Samstag, 2016-04-23 ab 13:30 Uhr
     * **Wo:** [Güterstrasse 8](https://www.chaostreffbern.ch/treff.html#gueterstrasse), Bern, 2. Stock
-    * **Traktanden:** TBD
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april16_gettogether)
 
 ## Vergangene Gettogether
 
