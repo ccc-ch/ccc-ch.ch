@@ -65,4 +65,4 @@ sich nicht auf Misstrauen auf!
 ## Kontakt
 
 * presse@ccc-ch.ch
-* +41 79 191 23 70)
+* +41 79 191 23 70
