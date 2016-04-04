@@ -15,7 +15,19 @@ Modified: 2015-09-20
 </div>
 </div></div>
 
+##  Referendum gegen die Totalrevision des BÜPF lanciert
 
+Das Referendum gegen das totalevidierte Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs, besser bekannt als [BÜPF](https://www.admin.ch/opc/de/federal-gazette/2016/1991.pdf), ist lanciert: ein [breites Bündnis](https://stopbuepf.ch) aus (Jung-)Parteien, NGOs und Unternehmen kämpft gegen die Ausweitung der Überwachung. Das Gesetz würde neu:
+
+- Staatstrojaner einführen
+- Diensteanbieter, zusätzlich zu den Zugangsprovidern, verpflichten Vorratsdaten zu speichern
+- Zugangsprovider verpflichten, Verschlüsselung zu entfernen
+- IMSI-Catcher für Strafverfolger legalisieren
+- LAN-Betreiber zwingen, Überwachungsmassnahmen in ihren Netzen zu dulden und daran mitzuwirken
+
+Als Chaos Computer Club Schweiz, zusammen mit unseren Mitstreitern, ergreifen wir daher das Referendum: StopBÜPF!
+
+[Ganzer Artikel](2016-03-29_referendum-gegen-buepf-lanciert.html)
 
 ## „Chaos Computer Club Schweiz” auf dem Bundesplatz in Bern gegründet
 
