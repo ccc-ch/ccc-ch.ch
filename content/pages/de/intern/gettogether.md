@@ -8,13 +8,17 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
- *  April 2016, Bern
-    * **Wann:** Samstag, 2016-04-23 ab 13:30 Uhr
-    * **Wo:** [Güterstrasse 8](https://www.chaostreffbern.ch/treff.html#gueterstrasse), Bern, 2. Stock
-    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april16_gettogether)
+ * Juni 2016, Biel/Bienne (GV)
+    * **Wann:** Sonntag, 2015-06-12 ab 13:00 Uhr im Ramen der [Cosin](https://www.cosin.ch/)
+    * **Wo:** Villa Ritter in Biel/Bienne
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv16)
 
 ## Vergangene Gettogether
 
+ *  April 2016, Bern
+    * **Wann:** Samstag, 2016-04-23 ab 13:42 Uhr
+    * **Wo:** [Güterstrasse 8](https://www.chaostreffbern.ch/treff.html#gueterstrasse), Bern, 2. Stock
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april16_gettogether)
  * Februar 2016, St. Gallen
     * **Wann:** Samstag, 2016-02-20 ab 13:00 Uhr
     * **Wo:** Ruum42, Andreasstrasse 5, St.Gallen 
