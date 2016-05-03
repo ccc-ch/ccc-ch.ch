@@ -43,7 +43,12 @@ protocols.
 
 ## Deployment
 
-If you have a user account on the ccc-ch.ch Server, you can deploy the website via rsync:
+If you have a user account on the ccc-ch.ch Server, first make sure that the
+correct umask is set in your `~/.profile` file:
+
+    umask 022
+
+Then you can deploy the website via rsync:
 
     $ make rsync_upload
 
