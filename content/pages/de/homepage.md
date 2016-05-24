@@ -34,11 +34,31 @@ einem beliebigen Videoplayer anschauen!
 
 ## BÜPF-Referendum braucht Unterschriften
 
-Im BÜPF-Office sind bis zum 24. Mai erst 10'000 Unterschriften eingegangen: Bitte mach bei [Sammelaktionen](https://www.buepf.ch/koordination-sammelevents/) mit, frage Freunde und Familie und unterschreibe selbst. Leite Ausserdem die Unterschriften zügig ans Office weiter:
+Im BÜPF-Office sind bis zum 24. Mai erst 10'000 von 50'000 Unterschriften eingegangen: Bitte mach bei [Sammelaktionen](https://www.buepf.ch/koordination-sammelevents/) mit, frage Freunde und Familie und unterschreibe selbst. Leite Ausserdem die Unterschriften zügig ans Office weiter:
 ```
 Referendum Stop BÜPF
 8037 Zürich
 ```
+
+### Von Rechtsstaat, Demokratie und Privatsphäre
+
+Vor wenigen Jahren wusste kaum ein Mensch, was die BÜPF-Revision bedeutet.
+
+Heute, ist nicht nur dank den Enthüllungen von Edward Snowden bekannt,
+dass eine nicht direkt-demokratisch beschlossene Massnahme, rund um den
+Globus, zum alltäglichen Staatstenor geworden ist: Die Massenüberwachung.
+
+Die Bevölkerung der Schweiz ist davon betroffen, erkennt diesen
+staatlichen, nicht direkt-demokratisch beschlossenen Tenor, als die
+BÜPF-Revision und hat das Recht auf einen öffentlichen Diskurs. Dieser
+geplante Eingriff in unsere Bürger- und Menschenrechte, ist nichts bei
+dem man beide Augen zudrückt und den Papiertigern im Parlament, ihre
+unverbindlichen Versprechen mit einem konfromen Kopfschütteln einräumt.
+
+Es ist auch kein feierlicher Akt, wenn wir als Direkte Demokratie für
+die BÜPF-Revision auf unsere Rechtstaatlichkeit verzichten.
+Wir müssen uns jetzt ein Herz fassen und dieses Referendum schaffen.
+
 Zum eigentlichen Sammeln bleiben nur noch rund 30 Tage: Unterschriften mussen nach Eingang im Office von den Gemeinden beglaubigt werden. Es ist spät, aber wir schaffen das - wenn wir jetzt durchstarten.
 StopBÜPF!
 
