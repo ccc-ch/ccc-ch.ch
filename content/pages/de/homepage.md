@@ -62,6 +62,10 @@ Wir müssen uns jetzt ein Herz fassen und dieses Referendum schaffen.
 Zum eigentlichen Sammeln bleiben nur noch rund 30 Tage: Unterschriften mussen nach Eingang im Office von den Gemeinden beglaubigt werden. Es ist spät, aber wir schaffen das - wenn wir jetzt durchstarten.
 StopBÜPF!
 
+<hr>
+
+Ältere News:
+
 ##  Referendum gegen die Totalrevision des BÜPF lanciert
 
 Das Referendum gegen das totalevidierte Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs, besser bekannt als [BÜPF](https://www.admin.ch/opc/de/federal-gazette/2016/1991.pdf), ist lanciert: ein [breites Bündnis](https://stopbuepf.ch) aus (Jung-)Parteien, NGOs und Unternehmen kämpft gegen die Ausweitung der Überwachung. Das Gesetz würde neu:
