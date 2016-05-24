@@ -5,7 +5,7 @@ save_as: index.html
 Lang: de
 Date: 2014-10-04
 Modified: 2015-09-20
-
+<!--
 <div class="jumbotron text-center"><div class="row">
 <div class="col-md-4">
 <img src="/images/ccc-ch.png" alt="Logo CCC-CH" width="263" height="183" />
@@ -14,6 +14,58 @@ Modified: 2015-09-20
 <h1>Chaos Computer Club Schweiz</h1>
 </div>
 </div></div>
+-->
+
+<video src="/media/buepf/Buepf_CC_V01_5s.mp4" width=100% preload="metadata" controls>
+  <track kind="subtitles" srclang="fr" label="Français" src="/media/buepf/fr.srt"/>
+  <track kind="subtitles" srclang="it" label="Italiano" src="/media/buepf/it.srt"/>
+  <track kind="subtitles" srclang="en" label="English" src="/media/buepf/en.srt"/>
+  <track kind="subtitles" srclang="de" label="Deutsch" src="/media/buepf/de.srt"/>
+  <track kind="subtitles" srclang="de-ch" label="Schwiizerdüütsch" src="/media/buepf/de-ch.srt">
+Sorry, Dein Browser unterstützt die Wiedergabe von Videos noch nicht.
+Du kannst es jedoch auch <a href="/media/buepf/Buepf_CC_V01_5s.mp4">herunterladen</a> und mit
+einem beliebigen Videoplayer anschauen!
+</video>
+
+**Unterschreibe jetzt das BÜPF-Referendum:**
+
+-  [Unterschriftenbogen (10 Unterschriften)](https://www.buepf.ch/wp-content/uploads/BUEPF-10.pdf)
+-  [Unterschriftenbogen (3 Unterschriften)](https://www.buepf.ch/wp-content/uploads/BUEPF-3.pdf)
+
+## BÜPF-Referendum braucht Unterschriften
+
+Im BÜPF-Office sind bis zum 24. Mai erst 10'000 von 50'000 Unterschriften eingegangen: Bitte mach bei [Sammelaktionen](https://www.buepf.ch/koordination-sammelevents/) mit, frage Freunde und Familie und unterschreibe selbst. Leite Ausserdem die Unterschriften zügig ans Office weiter:
+```
+Referendum Stop BÜPF
+8037 Zürich
+```
+
+### Von Rechtsstaat, Demokratie und Privatsphäre
+
+Vor wenigen Jahren wusste kaum ein Mensch, was die BÜPF-Revision bedeutet.
+
+Heute ist nicht nur dank den Enthüllungen von Edward Snowden bekannt, dass eine
+nicht direkt-demokratisch beschlossene Massnahme, rund um den Globus, zum
+alltäglichen Staatstenor geworden ist: Die Massenüberwachung.
+
+Die Bevölkerung der Schweiz ist davon ebenfalls betroffen. Sie erkennt die
+BÜPF-Revision als Teil der ausgebauten Massenüberwachung
+und hat das Recht auf einen öffentlichen Diskurs. Dieser
+geplante Eingriff in unsere Bürger- und Menschenrechte ist nichts, bei
+dem man beide Augen zudrückt und den Papiertigern im Parlament ihre
+unverbindlichen Versprechen mit einem konformen Kopfschütteln akzeptiert.
+
+Es ist auch kein feierlicher Akt, wenn wir als Direkte Demokratie für
+die BÜPF-Revision auf unsere Rechtstaatlichkeit verzichten.
+Wir müssen uns jetzt ein Herz fassen und dieses Referendum schaffen.
+
+Zum eigentlichen Sammeln bleiben nur noch rund 30 Tage: Unterschriften müssen
+nach Eingang im Office von den Gemeinden beglaubigt werden. Es ist spät, aber
+wir schaffen das – **wenn** wir jetzt durchstarten. Stop BÜPF!
+
+<hr>
+
+Ältere News:
 
 ##  Referendum gegen die Totalrevision des BÜPF lanciert
 
