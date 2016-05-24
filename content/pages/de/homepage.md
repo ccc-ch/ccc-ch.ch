@@ -44,23 +44,24 @@ Referendum Stop BÜPF
 
 Vor wenigen Jahren wusste kaum ein Mensch, was die BÜPF-Revision bedeutet.
 
-Heute, ist nicht nur dank den Enthüllungen von Edward Snowden bekannt,
-dass eine nicht direkt-demokratisch beschlossene Massnahme, rund um den
-Globus, zum alltäglichen Staatstenor geworden ist: Die Massenüberwachung.
+Heute ist nicht nur dank den Enthüllungen von Edward Snowden bekannt, dass eine
+nicht direkt-demokratisch beschlossene Massnahme, rund um den Globus, zum
+alltäglichen Staatstenor geworden ist: Die Massenüberwachung.
 
-Die Bevölkerung der Schweiz ist davon betroffen, erkennt diesen
-staatlichen, nicht direkt-demokratisch beschlossenen Tenor, als die
-BÜPF-Revision und hat das Recht auf einen öffentlichen Diskurs. Dieser
-geplante Eingriff in unsere Bürger- und Menschenrechte, ist nichts bei
-dem man beide Augen zudrückt und den Papiertigern im Parlament, ihre
-unverbindlichen Versprechen mit einem konfromen Kopfschütteln einräumt.
+Die Bevölkerung der Schweiz ist davon ebenfalls betroffen. Sie erkennt die
+BÜPF-Revision als Teil der ausgebauten Massenüberwachung
+und hat das Recht auf einen öffentlichen Diskurs. Dieser
+geplante Eingriff in unsere Bürger- und Menschenrechte ist nichts, bei
+dem man beide Augen zudrückt und den Papiertigern im Parlament ihre
+unverbindlichen Versprechen mit einem konformen Kopfschütteln akzeptiert.
 
 Es ist auch kein feierlicher Akt, wenn wir als Direkte Demokratie für
 die BÜPF-Revision auf unsere Rechtstaatlichkeit verzichten.
 Wir müssen uns jetzt ein Herz fassen und dieses Referendum schaffen.
 
-Zum eigentlichen Sammeln bleiben nur noch rund 30 Tage: Unterschriften mussen nach Eingang im Office von den Gemeinden beglaubigt werden. Es ist spät, aber wir schaffen das - wenn wir jetzt durchstarten.
-StopBÜPF!
+Zum eigentlichen Sammeln bleiben nur noch rund 30 Tage: Unterschriften müssen
+nach Eingang im Office von den Gemeinden beglaubigt werden. Es ist spät, aber
+wir schaffen das – **wenn** wir jetzt durchstarten. Stop BÜPF!
 
 <hr>
 
