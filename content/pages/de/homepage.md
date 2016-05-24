@@ -16,14 +16,14 @@ Modified: 2015-09-20
 </div></div>
 -->
 
-<video src="/images/test.mp4" width=100% preload="metadata" controls>
+<video src="/media/buepf/Buepf_CC_V01_5s.mp4" width=100% preload="metadata" controls>
   <track kind="subtitles" srclang="fr" label="Français" src="/media/buepf/fr.srt"/>
   <track kind="subtitles" srclang="it" label="Italiano" src="/media/buepf/it.srt"/>
   <track kind="subtitles" srclang="en" label="English" src="/media/buepf/en.srt"/>
   <track kind="subtitles" srclang="de" label="Deutsch" src="/media/buepf/de.srt"/>
   <track kind="subtitles" srclang="de-ch" label="Schwiizerdüütsch" src="/media/buepf/de-ch.srt">
 Sorry, Dein Browser unterstützt die Wiedergabe von Videos noch nicht.
-Du kannst es jedoch auch <a href="/images/test.mp4">herunterladen</a> und mit
+Du kannst es jedoch auch <a href="/media/buepf/Buepf_CC_V01_5s.mp4">herunterladen</a> und mit
 einem beliebigen Videoplayer anschauen!
 </video>
 
