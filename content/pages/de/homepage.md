@@ -27,17 +27,19 @@ Du kannst es jedoch auch <a href="/images/test.mp4">herunterladen</a> und mit
 einem beliebigen Videoplayer anschauen!
 </video>
 
-Unterschreibe jetzt:
-[Unterschriftenbogen (10 Unterschriften)](https://www.buepf.ch/wp-content/uploads/BUEPF-10.pdf)
-[Unterschriftenbogen (3 Unterschriften)](https://www.buepf.ch/wp-content/uploads/BUEPF-3.pdf)
+**Unterschreibe jetzt das BÜPF-Referendum:**
+
+-  [Unterschriftenbogen (10 Unterschriften)](https://www.buepf.ch/wp-content/uploads/BUEPF-10.pdf)
+-  [Unterschriftenbogen (3 Unterschriften)](https://www.buepf.ch/wp-content/uploads/BUEPF-3.pdf)
 
 ## BÜPF-Referendum braucht Unterschriften
 
-Im BÜPF-Office sind bis zum 24. Mai erst 10'000 Unterschriften eingegangen: Bitte macht [Sammelaktionen](https://www.buepf.ch/koordination-sammelevents/), fragt Freunde und Familie und unterschreibt selbst. Leite Ausserdem die Unterschriften zügig ans Office weiter:
+Im BÜPF-Office sind bis zum 24. Mai erst 10'000 Unterschriften eingegangen: Bitte mach bei [Sammelaktionen](https://www.buepf.ch/koordination-sammelevents/) mit, frage Freunde und Familie und unterschreibe selbst. Leite Ausserdem die Unterschriften zügig ans Office weiter:
 ```
 Referendum Stop BÜPF
 8037 Zürich
 ```
+Zum eigentlichen Sammeln bleiben nur noch rund 30 Tage: Unterschriften mussen nach Eingang im Office von den Gemeinden beglaubigt werden. Es ist spät, aber wir schaffen das - wenn wir jetzt durchstarten.
 StopBÜPF!
 
 ##  Referendum gegen die Totalrevision des BÜPF lanciert
