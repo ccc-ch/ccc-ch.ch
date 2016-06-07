@@ -9,9 +9,10 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 ## Kommende Gettogether
 
  * Juni 2016, Biel/Bienne (GV)
-    * **Wann:** Sonntag, 2015-06-12 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
+    * **Wann:** Samstag, 2015-06-11 ab 16:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
     * **Wo:** Villa Ritter in Biel/Bienne
     * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv16)
+    * **Link:** [Fahrplan](https://www.cosin.ch/fahrplan/2016/events/7618.html)
 
 ## Vergangene Gettogether
 
