@@ -8,14 +8,16 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
- * Juni 2016, Biel/Bienne (GV)
-    * **Wann:** Samstag, 2015-06-11 ab 16:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
-    * **Wo:** Villa Ritter in Biel/Bienne
-    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv16)
-    * **Link:** [Fahrplan](https://www.cosin.ch/fahrplan/2016/events/7618.html)
+ Ausstehend
 
 ## Vergangene Gettogether
 
+
+ * Juni 2016, Biel/Bienne (GV)
+    * **Wann:** Samstag, 2015-06-11 ab 19:30 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
+    * **Wo:** Villa Ritter in Biel/Bienne
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv16)
+    * **Link:** [Fahrplan](https://www.cosin.ch/fahrplan/2016/events/7618.html)
  *  April 2016, Bern
     * **Wann:** Samstag, 2016-04-23 ab 13:42 Uhr
     * **Wo:** [Güterstrasse 8](https://www.chaostreffbern.ch/treff.html#gueterstrasse), Bern, 2. Stock
