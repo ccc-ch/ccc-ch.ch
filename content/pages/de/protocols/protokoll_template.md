@@ -49,7 +49,7 @@ Stimmenzahl: *&lt;Nummer&gt;* Stimmen
 
 
 <!-- der folgende Abschnitt kann durch eine andere Formulierung ersetzt werden oder auch ganz weggelassen -->
-Ausserdem sind weitere Einzelmitglieder der CCC-CH Mitgliedsorganisationen sowie externe Gäste anwesend, deren Namen hier aus Datenschutzgründen nicht aufgeführt werden. Diese Einzelmitglieder und Gäste sind nicht stimm- und wahlberechtigt
+Ausserdem sind weitere Einzelmitglieder der CCC-CH Mitgliedsorganisationen sowie externe Gäste anwesend, deren Namen hier aus Datenschutzgründen nicht aufgeführt werden. Diese Einzelmitglieder und Gäste sind nicht stimm- und wahlberechtigt.
 
 ## Protokollführung
 
@@ -129,10 +129,13 @@ Der Kassier berichtet über das Budget seit der letzten GV:
 ## 6. Traktandum #5
 ...
 
-## ...
+## ... Traktandum #*&lt;Zahl&gt;*
+
+## *&lt;Zahl&gt;*. Varia
+*&lt;Traktanden welche anlässlich der fristgerechten  Einladung zur GV nicht bekannt waren, können hier dokumentiert werden&gt;*
 
 <hr />
-*&lt;Ab hier folgen Blöcke für Dinge welche nicht zwingend Teil der GV sein müssen, es aber erfahrungsgemäss häufig sind&gt;*
+*&lt;Ab hier folgen Blöcke für Dinge welche nicht zwingend Teil der GV sein müssen, es aber erfahrungsgemäss häufig sind. Sollten diese Punkte tatsächlich ablaufen und im Protokoll aufgeführt werden, so müssen sie natürlich vorher traktandiert und oben in diesem Dokument in den Traktanden aufgeführt werden.&gt;*
 
 ## Aufnahme eines neuen Mitgliedes
 
