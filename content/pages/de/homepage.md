@@ -4,73 +4,13 @@ URL:
 save_as: index.html
 Lang: de
 Date: 2014-10-04
-Modified: 2015-09-20
-<!--
-<div class="jumbotron text-center"><div class="row">
-<div class="col-md-4">
-<img src="/images/ccc-ch.png" alt="Logo CCC-CH" width="263" height="183" />
-</div>
-<div class="col-md-8">
-<h1>Chaos Computer Club Schweiz</h1>
-</div>
-</div></div>
--->
+Modified: 2016-09-03
 
-<video src="/media/buepf/buepf-720p.mp4" width=100% preload="metadata" controls>
-  <track kind="subtitles" srclang="fr" label="Français" src="/media/buepf/fr.srt"/>
-  <track kind="subtitles" srclang="it" label="Italiano" src="/media/buepf/it.srt"/>
-  <track kind="subtitles" srclang="en" label="English" src="/media/buepf/en.srt"/>
-  <track kind="subtitles" srclang="de" label="Deutsch" src="/media/buepf/de.srt"/>
-  <track kind="subtitles" srclang="de-ch" label="Schwiizerdüütsch" src="/media/buepf/de-ch.srt">
-Sorry, Dein Browser unterstützt die Wiedergabe von Videos noch nicht.
-Du kannst es jedoch auch <a href="/media/buepf/buepf-720p.mp4">herunterladen</a> und mit
-einem beliebigen Videoplayer anschauen!
-</video>
-
-<small>*(Bei Problemen mit der Wiedergabe kannst du dir das Video alternativ auch auf [Vimeo](https://vimeo.com/167485885) anschauen.)*</small>
-
-**Unterschreibe jetzt das BÜPF-Referendum:**
-
--  [Unterschriftenbogen (10 Unterschriften)](https://www.buepf.ch/wp-content/uploads/BUEPF-10.pdf)
--  [Unterschriftenbogen (3 Unterschriften)](https://www.buepf.ch/wp-content/uploads/BUEPF-3.pdf)
-
-## BÜPF-Referendum braucht Unterschriften
-
-Im BÜPF-Office sind bis zum 24. Mai erst 10'000 von 50'000 Unterschriften eingegangen: Bitte mach bei [Sammelaktionen](https://www.buepf.ch/koordination-sammelevents/) mit, frage Freunde und Familie und unterschreibe selbst. Leite Ausserdem die Unterschriften zügig ans Office weiter:
-```
-Referendum Stop BÜPF
-Röschibachstr. 26
-8037 Zürich
-```
-
-### Von Rechtsstaat, Demokratie und Privatsphäre
-
-Vor wenigen Jahren wusste kaum ein Mensch, was die BÜPF-Revision bedeutet.
-
-Heute ist nicht nur dank den Enthüllungen von Edward Snowden bekannt, dass eine
-nicht direkt-demokratisch beschlossene Massnahme, rund um den Globus, zum
-alltäglichen Staatstenor geworden ist: Die Massenüberwachung.
-
-Die Bevölkerung der Schweiz ist davon ebenfalls betroffen. Sie erkennt die
-BÜPF-Revision als Teil der ausgebauten Massenüberwachung
-und hat das Recht auf einen öffentlichen Diskurs. Dieser
-geplante Eingriff in unsere Bürger- und Menschenrechte ist nichts, bei
-dem man beide Augen zudrückt und den Papiertigern im Parlament ihre
-unverbindlichen Versprechen mit einem konformen Kopfschütteln akzeptiert.
-
-Es ist auch kein feierlicher Akt, wenn wir als Direkte Demokratie für
-die BÜPF-Revision auf unsere Rechtstaatlichkeit verzichten.
-Wir müssen uns jetzt ein Herz fassen und dieses Referendum schaffen.
-
-Zum eigentlichen Sammeln bleiben nur noch rund 30 Tage: Unterschriften müssen
-nach Eingang im Office von den Gemeinden beglaubigt werden. Es ist spät, aber
-wir schaffen das – **wenn** wir jetzt durchstarten. Stop BÜPF!
-
-<hr>
-
-Ältere News:
+# Chaos Computer Club Schweiz
 
 ##  Referendum gegen die Totalrevision des BÜPF lanciert
+
+*29. März 2016*
 
 Das Referendum gegen das totalevidierte Bundesgesetz betreffend die Überwachung des Post- und Fernmeldeverkehrs, besser bekannt als [BÜPF](https://www.admin.ch/opc/de/federal-gazette/2016/1991.pdf), ist lanciert: ein [breites Bündnis](https://stopbuepf.ch) aus (Jung-)Parteien, NGOs und Unternehmen kämpft gegen die Ausweitung der Überwachung. Das Gesetz würde neu:
 
@@ -86,6 +26,8 @@ Als Chaos Computer Club Schweiz, zusammen mit unseren Mitstreitern, ergreifen wi
 
 ## „Chaos Computer Club Schweiz” auf dem Bundesplatz in Bern gegründet
 
+*16. Dezember 2012*
+
 Mit einem symbolischen Akt auf dem Bundesplatz in Bern haben rund 40 Delegierte verschiedener lokaler Chaostreffs der Schweiz den
 Dachverband „Chaos Computer Club Schweiz” gegründet. Neben den Chaostreffs Zürich, Basel, Bern und St.Gallen gehört auch der Hackerspace Freiburg
 zu den Gründungsmitgliedern des neuen Verbandes.<br /><br />
@@ -99,6 +41,8 @@ beteiligen. Als „Einheimische des Internet” seien Hacker besonders sensibel 
 im Netz, die aber letztlich alle Bürger und Bürgerinnen in gleicher Weise betrifft.
 
 ## Schweizer Hacker organisieren sich im „Chaos Computer Club Schweiz” (CCC-CH)
+
+*15. Dezember 2012*
 
 Seit vielen Jahren finden überall in der Schweiz Menschen jeden Alters und Herkunft in sogenannten Chaostreffs und Hackerspaces zusammen, um gemeinsam über die sozialen Auswirkungen von Computern und des
 Internets sowie den Gefahren und Möglichkeiten dieser Technik zu diskutieren.<br /><br />
