@@ -41,7 +41,7 @@ Weise illustriert und parodiert.
 ## Massenüberwachung ist keine Lösung
 
 China, Frankreich, Grossbritannien, Russland und die USA sind Staaten der
-Massenüberwachung: Anschläge verhindern können sie damit nicht.  Weder
+Massenüberwachung: Anschläge verhindern können sie damit nicht. Weder
 Amokläufe von Schülern noch feige Attentate mit terroristischem Hintergrund an
 öffentlichen Orten können durch den Generalverdacht und die Massenüberwachung
 aller verhindert werden.
@@ -73,11 +73,11 @@ keine Möglichkeiten sich zu wehren.»*
 
 Personenprofile, die über einen Menschen umfassend Auskunft geben, machen
 Betroffene erpressbar und angreifbar. Die jüngere Geschichte ist voll von
-Beispielen, wo sich Schülerdas Leben nehmen, Politiker und Unternehmer ihre
+Beispielen, wo sich Schüler das Leben nehmen, Politiker und Unternehmer ihre
 Ämter und Firmen verlieren oder auch gewöhnliche Bürger in ihrer Existenz
 ruiniert wurden – weil sie systematisch entblösst oder jahrelang und unschuldig
 verdächtigt wurden kriminell zu sein. Menschen, die Überwachung ausgesetzt
-sind, verhalten sich angepasst und konform.  Damit wird die freie Entfaltung
+sind, verhalten sich angepasst und konform. Damit wird die freie Entfaltung
 eines jeden Menschen unterdrückt.
 
 ## Globale Massenüberwachung gefährdet die Freiheit
