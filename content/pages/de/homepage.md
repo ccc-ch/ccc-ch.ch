@@ -8,6 +8,21 @@ Modified: 2016-09-03
 
 # Chaos Computer Club Schweiz
 
+## Mit Musik und Humor gegen das neue NDG
+
+*5. September 2016*
+
+Vor rund einem Jahr hat das eidgenössische Parlament das neue
+Nachrichtendienstgesetz (NDG) beschlossen. Dagegen wurde erfolgreich das
+Referendum ergriffen – am 25. September findet die Volksabstimmung statt. Im
+Rahmen eines Gemeinschaftsprojekts setzen sich Künstler, Aktivisten und
+Datenschützer mit einem Musikvideo für ein klares „Nein zum neuen NDG“ ein. Das
+Video „Die Datensauger“ wird heute auf YouTube veröffentlicht und soll die
+Wählerinnen und Wähler auf die grossen Probleme aufmerksam machen, wenn das
+neue Nachrichtendienstgesetz angenommen würde.
+
+[Ganzer Artikel](2016-09-05_mit_musik_und_humor_gegen_das_neue_ndg.html)
+
 ##  Referendum gegen die Totalrevision des BÜPF lanciert
 
 *29. März 2016*
