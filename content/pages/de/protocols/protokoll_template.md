@@ -14,7 +14,7 @@ Zeit: *&lt;Datum&gt;* *&lt;Uhrzeit von&gt;* bis *&lt;Uhrzeit bis&gt;*
 ## Anwesend
 
 ### Anwesende Delegierte
-<!-- Gemäss Statuten wird jedes Mitglied des CCC-CH durch jeweils zwei gesandte vertreten. Hier werden die zur GV anwesenden Gesandten aufgeführt. -->
+<!-- Gemäss Statuten wird jedes Mitglied des CCC-CH durch jeweils zwei Gesandte vertreten. Hier werden die zur GV anwesenden Gesandten aufgeführt. -->
 
 * **CCCZH**: *&lt;Name 1&gt;*, *&lt;Name 2&gt;*
 * **Chaostreff Basel**: *&lt;Name 1&gt;*, *&lt;Name 2&gt;*
