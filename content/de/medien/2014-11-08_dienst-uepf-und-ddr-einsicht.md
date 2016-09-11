@@ -7,7 +7,7 @@ Mit Wohlwollen begrüsst der Chaos Computer Club Schweiz CCC-CH die Haltung der 
 
 ![Flagge der Schweiz und der DDR hängen nebeneinander](images/schweiz_und_ddr.jpg)
 
-Das zeigt uns, dass wir mit unserer kritischen Sicht der Volksfichierung in der Schweiz nicht alleine sind. Ja, ganz offensichtlich benutzen Mitarbeitende des Dienst ÜPF diese Form der Satire, um ebenfalls die Fragwürdigkeit der ganzen Rechtskonstruktion für jeden Besucher gleich in den Vordergrund zu stellen. (vgl. [http://www.steigerlegal.ch/2014/11/17/ddr-vorbild-fuer-staatliche-ueberwacher-in-der-schweiz/](http://www.steigerlegal.ch/2014/11/17/ddr-vorbild-fuer-staatliche-ueberwacher-in-der-schweiz/)) 
+Das zeigt uns, dass wir mit unserer kritischen Sicht der Volksfichierung in der Schweiz nicht alleine sind. Ja, ganz offensichtlich benutzen Mitarbeitende des Dienst ÜPF diese Form der Satire, um ebenfalls die Fragwürdigkeit der ganzen Rechtskonstruktion für jeden Besucher gleich in den Vordergrund zu stellen. (vgl. [https://www.steigerlegal.ch/2014/11/17/ddr-vorbild-fuer-staatliche-ueberwacher-in-der-schweiz/](https://www.steigerlegal.ch/2014/11/17/ddr-vorbild-fuer-staatliche-ueberwacher-in-der-schweiz/)) 
 
 Begeistert von so viel unerwarteter Unterstützung in Sachen Grundrechte, hat der CCCZH sofort erste Ermittlungsschritte eingeleitet, welche darauf abzielen, alle im Zusammenhang mit der Anschaffung der DDR-Flagge bestehenden amtlichen Dokumente einsehen zu können. 
 
@@ -23,7 +23,7 @@ In jedem Falle erhält das Thema so die Aufmerksamkeit, die es verdient. Denn wi
 
 Insofern gilt: werden IMSI-Catcher, Staatstrojaner, Vorratsdatenspeicherung und Überwachung endlich als so krachend gescheitert erkannt werden, wie sie es mangels Erfolgsquote ja auch tatsächlich sind, so können wir schliesslich alle einstimmen: "Auferstanden aus Ruinen – Und der Zukunft zugewandt!". 
 
-[http://is.gd/RDBZ19](http://is.gd/RDBZ19) (YouTube-Musikfilm) 
+[https://is.gd/RDBZ19](https://is.gd/RDBZ19) (YouTube-Musikfilm) 
 
 Chaotische Grüsse 
 

@@ -31,9 +31,9 @@ Zu den grösseren Projekten, in denen Personen der Schweizer Hackerszene zusamme
 
   * das Projekt [„Biometrische Ausweise“](http://biometrische-ausweise.ch/), in dem auf Gefahren in der Einführung biometrischer Ausweise hingewiesen wurde.
   * das Projekt [„Postcard-Sicherheit“](http://www.postcard-sicherheit.ch/), wo auf damalige Sicherheitslücken der Schweizer Debitkarte „Postcard“ der PostFinance hingewiesen wurde.
-  * die Teilnahme an der [Vernehmlassung zur VÜPF](http://www.ccczh.ch/V%C3%9CPF-Stellungnahme-CCC%20und%20http://www.ejpd.admin.ch/content/dam/data/sicherheit/uepf/ve-organisationen.pdf), die der die Durchführung der Überwachung von Post- und Fernmeldeverkehr in der Schweiz neu gefasst wurde.
+  * die Teilnahme an der [Vernehmlassung zur VÜPF](https://www.ccczh.ch/V%C3%9CPF-Stellungnahme-CCC%20und%20http://www.ejpd.admin.ch/content/dam/data/sicherheit/uepf/ve-organisationen.pdf), die der die Durchführung der Überwachung von Post- und Fernmeldeverkehr in der Schweiz neu gefasst wurde.
 
-Aktuell arbeiten wir zusammen mit der [Digitalen Gesellschaft Schweiz](http://www.digitale-gesellschaft.ch/) am Thema [„Vorratsdatenspeicherung“](http://www.digitale-gesellschaft.ch/2012/11/08/meine-vorratsdaten-jetzt/) und versuchen die Leute zu motivieren, bei ihren Handy- und Netzprovidern Einsicht in die über sie gespeicherten Daten zu verlangen.
+Aktuell arbeiten wir zusammen mit der [Digitalen Gesellschaft Schweiz](https://www.digitale-gesellschaft.ch/) am Thema [„Vorratsdatenspeicherung“](https://www.digitale-gesellschaft.ch/2012/11/08/meine-vorratsdaten-jetzt/) und versuchen die Leute zu motivieren, bei ihren Handy- und Netzprovidern Einsicht in die über sie gespeicherten Daten zu verlangen.
 
 ### Wer kann Mitglied im „Chaos Computer Club Schweiz“ werden?
 

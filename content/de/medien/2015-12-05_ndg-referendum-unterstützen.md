@@ -30,7 +30,7 @@ Unterstützung benötigt, um das Referendum zu unterstützen? Email an den CCCZH
 [3]: https://www.nachrichtendienstgesetz.ch/
 [4]: https://www.digitale-gesellschaft.ch/tag/nachrichtendienstgesetz/
 [5]: http://grundrechte.ch/CMS//allmaechtiger-staat-rechtlose-buerger.html
-[6]: http://www.admin.ch/opc/de/federal-gazette/2014/2237.pdf
+[6]: https://www.admin.ch/opc/de/federal-gazette/2014/2237.pdf
 [7]: https://www.nachrichtendienstgesetz.ch/wp-content/uploads/Strassensammeln.pdf
-[8]: http://stopbuepf.ch/buepf/
+[8]: https://stopbuepf.ch/buepf/
 
