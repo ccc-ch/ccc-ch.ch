@@ -23,7 +23,7 @@ Freiburg/Fribourg
 : Hackburg (Ianfas, rubba). URL: <https://www.hackburg.ch/>
 
 St. Gallen
-: Ruum42 (Wene, Leandra). URL: <http://www.ruum42.ch/>
+: Ruum42 (Wene, Leandra). URL: <https://www.ruum42.ch/>
 
 Zürich
 : CCCZH (Bernd, hernani). URL: <https://www.ccczh.ch/>

@@ -18,7 +18,7 @@ Eine manuelle Überprüfung der abgegebenen Stimmen findet gemäss dem Betriebsk
 
 ### Nachzählung adé
 
-Eine Nachzählung existiert nur noch theoretisch, denn die Argumentation der Fans solcher Systeme lautet, dass diese "genauer" als Menschen auszählen könnten. Folglich wird sich der Bedarf nach einer Nachzählung schwerlich manifestieren können. Der Chaos Computer Club Schweiz CCC-CH ist entsprechend gegenteiliger Ansicht, wonach sich die Wählerinnen und Wähler nicht mehr sicher sein können, ob ihr Willen auch wirklich zum Ausdruck kommt. Das schwächt das Vertrauen in unser Abstimmungssystem erheblich. Abstimmungen sollten für Wählerinnen und Wähler in jedem Fall "ohne besondere Sachkenntnis" nachvollziehbar sein, [wie auch das deutsche Bundesverfassungsgericht befunden hat.](http://www.bverfg.de/entscheidungen/cs20090303_2bvc000307.html)
+Eine Nachzählung existiert nur noch theoretisch, denn die Argumentation der Fans solcher Systeme lautet, dass diese "genauer" als Menschen auszählen könnten. Folglich wird sich der Bedarf nach einer Nachzählung schwerlich manifestieren können. Der Chaos Computer Club Schweiz CCC-CH ist entsprechend gegenteiliger Ansicht, wonach sich die Wählerinnen und Wähler nicht mehr sicher sein können, ob ihr Willen auch wirklich zum Ausdruck kommt. Das schwächt das Vertrauen in unser Abstimmungssystem erheblich. Abstimmungen sollten für Wählerinnen und Wähler in jedem Fall "ohne besondere Sachkenntnis" nachvollziehbar sein, [wie auch das deutsche Bundesverfassungsgericht befunden hat.](https://www.bverfg.de/entscheidungen/cs20090303_2bvc000307.html)
 
 ### Aussetzung als Ausweg
 

@@ -120,4 +120,4 @@ Telefon: [+41 79 191 23 70](tel:+41791912370)
 
 Musikvideo: [die-datensauger-720p.mp4](https://stopndb.ch/material/videos/die-datensauger-720p.mp4)<br>
 YouTube: [https://www.youtube.com/watch?v=HnxMVnuS-dk](https://www.youtube.com/watch?v=HnxMVnuS-dk)<br>
-Twitter: [@vecirex](http://twitter.com/vecirex), [@stopndb](http://twitter.com/stopndb), [@digiges\_ch](http://twitter.com/digiges_ch)
+Twitter: [@vecirex](https://twitter.com/vecirex), [@stopndb](https://twitter.com/stopndb), [@digiges\_ch](https://twitter.com/digiges_ch)

@@ -128,4 +128,4 @@ Téléphone: [+41 79 191 23 70](tel:+41791912370)
 
 Video-clip: [les-pompeurs-de-donnees-720p.mp4](https://stopndb.ch/material/videos/les-pompeurs-de-donnees-720p.mp4)<br>
 YouTube: [https://www.youtube.com/watch?v=J8j8pvPKQP8](https://www.youtube.com/watch?v=J8j8pvPKQP8)<br>
-Twitter: [@vecirex](http://twitter.com/vecirex), [@stopndb](http://twitter.com/stopndb), [@digiges\_ch](http://twitter.com/digiges_ch)
+Twitter: [@vecirex](https://twitter.com/vecirex), [@stopndb](https://twitter.com/stopndb), [@digiges\_ch](https://twitter.com/digiges_ch)

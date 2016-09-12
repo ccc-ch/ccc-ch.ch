@@ -25,7 +25,7 @@ Folgende Organisationen sind Mitglieder im CCC-CH
 
 ### Hackerfunk
 
-  * [http://hackerfunk.ch/](http://hackerfunk.ch/)
+  * [https://hackerfunk.ch/](https://hackerfunk.ch/)
 
 ### Chaostreff Winterthur
 
