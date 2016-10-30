@@ -8,15 +8,18 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
+
+ *  Dezember 2016, Rapperswil-Jona
+    * **Wann:** Samstag, 2016-12-03 ab 14:30 Uhr
+    * **Wo:** [Coredump](https://www.coredump.ch/kontakt/#kontakt_adresse), Zürcherstrasse 6 (4. Stock), 8640 Rapperswil-Jona
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/dezember16_gettogether)
+
+## Vergangene Gettogether
+
  *  September 2016, Cudrefin
     * **Wann:** Samstag, 2016-09-17 ab 15 Uhr im Rahmen der LugBE [Turrican Days](http://www.lugbe.ch/turrican-days/turricandays16.phtml)
     * **Wo:** [Le Moulin](https://www.scout.ch/de/3/pfadiheimstiftung/le-moulin-vd/lageplan) in [Cudrefin](https://www.openstreetmap.org/?mlat=46.9498&mlon=7.0199#map=15/46.9498/7.0199)
     * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/september16_gettogether)
-	* **Link:** [Anmeldung](http://du7f.koalatux.ch/aeilmTeznYe-uBBRWifAYQ)
-
-## Vergangene Gettogether
-
-
  * Juni 2016, Biel/Bienne (GV)
     * **Wann:** Samstag, 2015-06-11 ab 19:30 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
     * **Wo:** Villa Ritter in Biel/Bienne
