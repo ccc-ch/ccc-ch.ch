@@ -9,6 +9,11 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 ## Kommende Gettogether
 
 
+ *  Dezember 2016, Rapperswil-Jona
+    * **Wann:** Samstag, 2016-12-03 ab 14:30 Uhr
+    * **Wo:** [Coredump](https://www.coredump.ch/kontakt/#kontakt_adresse), Zürcherstrasse 6 (4. Stock), 8640 Rapperswil-Jona
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/dezember16_gettogether)
+
 ## Vergangene Gettogether
 
  *  September 2016, Cudrefin
