@@ -3,3 +3,4 @@
 *.swp
 cache/
 output/
+VIRTUAL/
