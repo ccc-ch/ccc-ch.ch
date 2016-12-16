@@ -6,7 +6,7 @@ Lang: de
 
 Dieses Urteil ziehen die betroffenen Beschwerdeführer mit Datum vom 15. Dezember 2016 nun vor das Schweizer Bundesgericht in Lausanne zur Neubeurteilung weiter:
 
-[Beschwerde VDS Bundesgericht (PDF)](20161215--vds-beschwerde-bundesgericht.pdf)
+[Beschwerde VDS Bundesgericht (PDF)](media/vds/20161215--vds-beschwerde-bundesgericht.pdf)
 
 Nach genauerer Prüfung des Urteils ist festzustellen, dass das St. Galler Gericht die fundamentalen Gefahren missachtet, die von der tatsächlichen Fichierung der gesamten in der Schweiz ansässigen Bevölkerung ausgeht.
 
