@@ -8,6 +8,11 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
+ * Dezember 2016, Hamburg
+    * **Wann:** Donnerstag, 2016-12-29 ab 16:00 Uhr (Tag 3 des 33c3)
+    * **Wo:** [Hall C.1](https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1), 33c3, CCH Congress Center Hamburg, Deutschland
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/33c3-gettogether)
+    * **Link:** [Congress wiki](https://events.ccc.de/congress/2016/wiki/Session:CCC-CH_Gettogether)
  * Juni 2017, Biel/Bienne (GV)
     * **Wann:** Sonntag, 2017-06-18 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
     * **Wo:** Villa Ritter in Biel/Bienne
