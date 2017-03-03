@@ -1,4 +1,4 @@
-Title: MM: CCC-CH bläst ins Horn zum Referendum gegen die Netzzensur im Geldspielgesetz
+Title: CCC-CH bläst ins Horn zum Referendum gegen die Netzzensur im Geldspielgesetz
 Slug: 2017-03-03_aufruf-zu-geldspielgesetz-referendum
 Lang: de
 
@@ -21,15 +21,17 @@ Wichtige Bedingungen, die dafür erfüllt sein müssen:
 * Es gelingt uns, eine ausreichende Finanzierung von Anfang zu sichern, um das Referendum nicht nur ehrenamtlich, sondern professionell zu ergreifen.
 * Es wird transparent und auf Tagesbasis öffentlich darüber Protokoll geführt, wie viele Unterschriften eingegangen sind und wie viele davon bereits bescheinigt wurden.
 
-Wir appellieren an alle freiheitliebende Akteure, der staatlichen Bevormundung einen Riegel zu schieben. Insbesondere ist die Schweizer Netzpolitik darauf angewiesen, dass von der Schweizer ICT-Industrie und entsprechenden Verbänden und Organisationen von Grundrechten und der Wirtschaft genügend Mittel zusammenkommen, um das Referendum mit grosser Wahrscheinlichkeit zum Erfolg zu führen.
+Wir appellieren an alle freiheitliebenden Akteure, der staatlichen Bevormundung einen Riegel zu schieben. Insbesondere ist die Schweizer Netzpolitik darauf angewiesen, dass von der Schweizer ICT-Industrie und entsprechenden Verbänden und Organisationen von Grundrechten und der Wirtschaft genügend Mittel zusammenkommen, um das Referendum mit grosser Wahrscheinlichkeit zum Erfolg zu führen.
 
 Wir haben aus der Schlappe zum BÜPF-Referendum gelernt und sind logistisch nach wie vor fähig, mehrere tausend Unterschriften pro Tag zur Bescheinigung zu versenden. Dafür müssen diese Unterschriften aber fristgerecht bei uns vorliegen.
 
 So gelingt das Referendum gegen die Netzzensur im Geldspielgesetz. Ja zur Freiheit!
+
+<hr>
 
 **Kontakt**
 
 Chaos Computer Club Schweiz<br>
 Hernâni Marques, Vorstand und Pressesprecher CCC-CH<br>
 E-Mail: [presse@ccc-ch.ch](mailto:presse@ccc-ch.ch) (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)<br>
-ebe Medienschaffende
+Telefon: [+41 79 191 23 70](tel:+41791912370)
