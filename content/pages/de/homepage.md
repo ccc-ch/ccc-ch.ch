@@ -8,6 +8,17 @@ Modified: 2016-09-03
 
 # Chaos Computer Club Schweiz
 
+## CCC-CH bläst ins Horn zum Referendum gegen die Netzzensur im Geldspielgesetz
+
+*3. März 2017*
+
+Aus den Dezentralen des Chaos Computer Club Schweiz (CCC-CH), der aus diversen
+schweizweit verteilen Hackerspaces besteht, ertönen die Rufe zum Referendum
+gegen das Geldspielgesetz, welches Netzzensur vorsieht um den Zugriff auf im
+Ausland betriebene Geldspielangebote vermeintlich zu erschweren.
+
+[Ganzer Artikel](2017-03-03_aufruf-zu-geldspielgesetz-referendum.html)
+
 ## Mit Musik und Humor gegen das neue NDG
 
 *5. September 2016*
