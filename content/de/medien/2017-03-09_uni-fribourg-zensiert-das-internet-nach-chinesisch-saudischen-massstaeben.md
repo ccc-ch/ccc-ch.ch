@@ -4,9 +4,9 @@ Lang: de
 
 **Wie uns Florian Dietschi, Student der [Universität Fribourg][0] und Co-Koordinator der [kritischen Jurist&ast;innen Fribourg/Bern][1], mitgeteilt hat, zensiert die zweisprachige Universität das Internet nach allen Regeln der Kunst, wie es andernfalls aus chinesischen oder saudischen Kontexten bekannt ist. In nachfolgenden Tests seitens des Chaos Computer Club Schweiz (CCC-CH) wurde eine Zensur sondergleichen festgestellt.**
 
-Bisher entdeckte Kategorien umfassen: (1) hacking; (2) proxy-avoiders-and-anonymizers; (3) adult, (4) copyright-infringement und (5) extremism. Somit werden an der Universität Fribourg selbst Seiten zur Umgehung von Zensur zensiert: Betroffen sind beispielsweise die Projekte I2P ([geti2p.net][2]) und Tor ([torproject.org][3]), welche weltweit auch von Journalisten und politisch Verfolgten in faschistischen oder diktatorischen Regimen wie z.B. der Türkei eingesetzt werden. Mindestens eine Seite, welche vor allem politischen Aktivist&ast;innen und Journalist&ast;innen unabhängige Infrastruktur zur Verfügung stellt – [riseup.net][4] – lässt sich nicht mehr laden. Ebenso war gestern Abend die Seite freespeech.com nicht abrufbar. Einziger Inhalt dieser Seite: Ein Video in welchem Ted Cruz über die Freiheit des Internets spricht. No joke!
+Bisher entdeckte Kategorien umfassen: (1) hacking; (2) proxy-avoiders-and-anonymizers; (3) adult, (4) copyright-infringement und (5) extremism. Somit werden an der Universität Fribourg selbst Seiten zur Umgehung von Zensur zensiert: Betroffen sind beispielsweise die Projekte I2P ([geti2p.net][2]) und Tor ([torproject.org][3]), welche weltweit auch von Journalisten und politisch Verfolgten in faschistischen oder diktatorischen Regimen wie z.B. der Türkei eingesetzt werden. Mindestens eine Seite, welche vor allem politischen Aktivist&ast;innen und Journalist&ast;innen unabhängige Infrastruktur zur Verfügung stellt – [riseup.net][4] – lässt sich nicht mehr laden. Ebenso war gestern Abend die Seite [freespeech.com][13] nicht abrufbar. Einziger Inhalt dieser Seite: Ein Video in welchem Ted Cruz über die Freiheit des Internets spricht. No joke!
 
-Betroffen sind alle Verbindungswege, einschliesslich beim Netzzugang via eduroam und über das VPN der Universität Fribourg. Somit verletzt die Uni Fribourg privatrechtlich die Nutzungsbedingungen von eduroam gemäss dem [Compliance Statement §B.8][5].
+Betroffen sind alle Verbindungswege, einschliesslich beim Netzzugang via [eduroam][14] und über das VPN der Universität Fribourg. Somit verletzt die Uni Fribourg privatrechtlich die Nutzungsbedingungen von eduroam gemäss dem [Compliance Statement §B.8][5].
 
 Öffentlichrechtlich sind verschdene Verletzungen des kantonalen Rechts und Verletzungen der Grundrechte anzunehmen, insbesondere die Verletzung des Schutzes der Privatssphäre (BV 13), die Verletzung der Meinungsäusserungs- und Informationsfreiheit (BV 16), die Verletzung der Medienfreiheit (BV 17) und die Verletzung der Wissenschaftsfreiheit (BV 20).
 
@@ -51,3 +51,5 @@ Hashtag: [#unifrzensur](https://twitter.com/hashtag/unifrzensur?f=tweets&vertica
 [10]: http://www.kripo.uzh.ch/2014/03/19/abschaffung-netzzensur/
 [11]: https://www.nzz.ch/digital/universitaet-zuerich-filter-internet-chaos-computer-club-1.18263242
 [12]: https://www.nzz.ch/digital/universitaet-zuerich-kann-keine-zahlen-zu-sexueller-belaestigung-vorlegen-1.18279848
+[13]: http://freespeech.com/
+[14]: https://de.wikipedia.org/wiki/Eduroam
