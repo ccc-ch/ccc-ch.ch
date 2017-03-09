@@ -8,7 +8,7 @@ Bisher entdeckte Kategorien umfassen: (1) hacking; (2) proxy-avoiders-and-anonym
 
 Betroffen sind alle Verbindungswege, einschliesslich beim Netzzugang via [eduroam][14] und über das VPN der Universität Fribourg. Somit verletzt die Uni Fribourg privatrechtlich die Nutzungsbedingungen von eduroam gemäss dem [Compliance Statement §B.8][5].
 
-Öffentlichrechtlich sind verschdene Verletzungen des kantonalen Rechts und Verletzungen der Grundrechte anzunehmen, insbesondere die Verletzung des Schutzes der Privatssphäre (BV 13), die Verletzung der Meinungsäusserungs- und Informationsfreiheit (BV 16), die Verletzung der Medienfreiheit (BV 17) und die Verletzung der Wissenschaftsfreiheit (BV 20).
+Öffentlichrechtlich sind verschdene Verletzungen des kantonalen Rechts und Verletzungen der Grundrechte anzunehmen, insbesondere die Verletzung des Schutzes der Privatssphäre ([BV 13][BV13]), die Verletzung der Meinungsäusserungs- und Informationsfreiheit ([BV 16][BV16]), die Verletzung der Medienfreiheit ([BV 17][BV17]) und die Verletzung der Wissenschaftsfreiheit ([BV 20][BV20]).
 
 2014 [zensierte][6] die Universität Zürich einzig die Kategorie "adult". Die UZH verwendete die Fortinet-Zensurinfrastruktur und setzte das Produkt "[FortiGuard][7]" ein. Alle anderen ([über 80!][8]) Zensurkategorien waren damals (noch) nicht aufgeschaltet: Aktivisten des [CCC Zürich][9], im Gespann mit Studentinnen der [politischen Gruppe kritische Politik (kriPo)][10] und dem offiziellen Verband der Studierenden der Universität Zürich (VSUZH), [sorgten dafür][11], dass die Netzzensur durch öffentlichen, medialen Druck damals innert Tagen weitestgehend abgeschafft wurde. Es war ja auch nur noch peinlich, u.a. den Mamablog des Tages-Anzeigers zu zensieren. Sodann [fiel das Kartenhaus in sich zusammen][12]. Das Prinzip der Netzneutralität verlangt, dass Daten gleichleichbehandelt, ungehindert und  diskriminierungsfrei übermittelt werden.Netzzensur ist vollständig und immer abzulehnen.
 
@@ -53,3 +53,7 @@ Hashtag: [#unifrzensur](https://twitter.com/hashtag/unifrzensur?f=tweets&vertica
 [12]: https://www.nzz.ch/digital/universitaet-zuerich-kann-keine-zahlen-zu-sexueller-belaestigung-vorlegen-1.18279848
 [13]: http://freespeech.com/
 [14]: https://de.wikipedia.org/wiki/Eduroam
+[BV13]: https://www.admin.ch/opc/de/classified-compilation/19995395/index.html#a13
+[BV16]: https://www.admin.ch/opc/de/classified-compilation/19995395/index.html#a16
+[BV17]: https://www.admin.ch/opc/de/classified-compilation/19995395/index.html#a17
+[BV20]: https://www.admin.ch/opc/de/classified-compilation/19995395/index.html#a20
