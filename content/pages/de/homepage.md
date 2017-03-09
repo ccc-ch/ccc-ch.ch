@@ -8,6 +8,23 @@ Modified: 2016-09-03
 
 # Chaos Computer Club Schweiz
 
+## Die Schweizer Universität Fribourg zensiert das Internet nach chinesisch-saudischen Massstäben
+
+*9. März 2017*
+
+Wie uns Florian Dietschi, Student der [Universität
+Fribourg](https://www.unifr.ch/) und Co-Koordinator der [kritischen
+Jurist&ast;innen Fribourg/Bern](https://www.facebook.com/kriJurFribourgBern),
+mitgeteilt hat, zensiert die zweisprachige Universität das Internet nach allen
+Regeln der Kunst, wie es andernfalls aus chinesischen oder saudischen Kontexten
+bekannt ist. In nachfolgenden Tests seitens des Chaos Computer Club Schweiz
+(CCC-CH) wurde eine Zensur sondergleichen festgestellt.
+
+Wir fordern die Universität Fribourg hiermit auf, per sofort jedwede
+Zensurmassnahme abzuschalten!
+
+[Ganzer Artikel](2017-03-09_uni-fribourg-zensiert-das-internet-nach-chinesisch-saudischen-massstaeben.html)
+
 ## CCC-CH bläst ins Horn zum Referendum gegen die Netzzensur im Geldspielgesetz
 
 *3. März 2017*
