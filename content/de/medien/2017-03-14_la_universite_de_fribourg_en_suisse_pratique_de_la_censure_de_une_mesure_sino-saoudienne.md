@@ -1,4 +1,4 @@
-iitle: Communiqué de presse: L'Université de Fribourg en Suisse pratique de la censure d'une mesure sino-saoudienne
+title: Communiqué de presse: L'Université de Fribourg en Suisse pratique de la censure d'une mesure sino-saoudienne
 Slug: 2017-03-14_la_universite_de_fribourg_en_suisse_pratique_de_la_censure_de_une_mesure_sino-saoudienne.md
 Lang: de
 
