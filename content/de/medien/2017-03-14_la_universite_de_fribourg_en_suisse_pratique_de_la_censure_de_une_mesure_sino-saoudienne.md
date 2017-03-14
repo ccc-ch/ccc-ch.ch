@@ -1,6 +1,6 @@
 title: Communiqué de presse: L'Université de Fribourg en Suisse pratique de la censure d'une mesure sino-saoudienne
 Slug: 2017-03-14_la_universite_de_fribourg_en_suisse_pratique_de_la_censure_de_une_mesure_sino-saoudienne.md
-Lang: de
+Lang: fr
 
 **Comme on a appris de Florian Dietschi, étudiant de l'[Université de Friboug][0] et co-coordinateur du groupe ["kritische Jurist\*innen Fribourg/Bern"][1] (alem. "juristes critiques Fribourg Bern"), l'université bilingue pratique de la censure de toute forme possible, en tout cas d'une façon seulement connue par la Chine our l'Arabie-Saudite autrement. De tests effectués par le Chaos Computer Club Suisse (CCC-CH) ont révelé une censure sans précédent.**
 
