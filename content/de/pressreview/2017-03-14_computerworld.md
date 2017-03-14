@@ -1,5 +1,5 @@
 Title: Internetzensur an der Universität Fribourg
-Slug: 2017-03-14_watson
+Slug: 2017-03-14_computerworld
 Date: 2017-03-14
 Lang: de
 Publisher: computerworld.ch
