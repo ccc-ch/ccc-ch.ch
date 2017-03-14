@@ -1,25 +1,43 @@
-title: Communiqué de presse: L'Université de Fribourg en Suisse pratique de la censure d'une mesure sino-saoudienne
+title: Communiqué de presse: L'université de Fribourg en Suisse pratique de la censure similaire aux mesures sino-saoudiennes
 Slug: 2017-03-14_la_universite_de_fribourg_en_suisse_pratique_de_la_censure_de_une_mesure_sino-saoudienne.md
 Lang: fr
 
-**Comme on a appris de Florian Dietschi, étudiant de l'[Université de Friboug][0] et co-coordinateur du groupe ["kritische Jurist\*innen Fribourg/Bern"][1] (alem. "juristes critiques Fribourg Bern"), l'université bilingue pratique de la censure de toute forme possible, en tout cas d'une façon seulement connue par la Chine our l'Arabie-Saudite autrement. De tests effectués par le Chaos Computer Club Suisse (CCC-CH) ont révelé une censure sans précédent.**
+**Comme nous a appris Florian Dietschi, étudiant de l'[université de Fribourg][0] et coordinateur du groupe ["kritische Jurist\*innen Fribourg/Bern"][1] (alem. "juristes critiques Fribourg/Berne"), l'université bilingue pratique de la censure dans toutes les formes existantes.
+À notre connaissance, seul la Chine ou l'Arabie saoudite suivent les mêmes pratiques.
+Des tests effectués par le Chaos Computer Club Suisse (CCC-CH) ont ainsi révélé une censure sans précédent.**
 
-Les categories de censure déjà couvertes incluent: (1) hacking; (2) proxy-avoids-and-anonymizers; (3) adult; (4) copyright-infringement; (5) malware et (6) extremism. Ce veut dire que l'Université de Fribourg censure même les sites qu'on peut utilisier pour déborder la censure: Les projets effectés sont par exemple I2P ([geti2p.net][2]) et Tor ([torproject.org][3]), lesquels fournissent des logiciels utilisés dans le monde entier par des journalists et par des personnes persécutées politiques dans de pays fascistes et dictatorials comme par example la Turquie.
+Jusqu'à maintenent, voici les catégories utilisées pour censurer : (1) « hacking »; (2) « proxy-avoids-and-anonymizers »; (3) « adult »; (4) « copyright-infringement »; (5) « malware » et (6) « extremism ».
+Cela signifie que l'université de Fribourg censure même les sites pouvant être utilisé pour contourner la censure: Les projets affectés sont par exemple « I2P » ([geti2p.net][2]) et Tor ([torproject.org][3]), lesquels fournissent des logiciels utilisés dans le monde entier par des journalistes et par dissidents politique dans des pays fascistes et dictatoriaux comme la Turquie.
 
-Il y a au moins une page, laquelle fournis d'infrastructure indépendant pour des activistes et journalistes, [riseup.net][4], qu'on ne peut plus charger. Il faisait mercredi (le 8 mars) que même la page [freespech.com][13] était plus accessible (maintenant libre). Le seul contenu de cette page est un video dans lequel Ted Cruz parle sur la liberté de l'Internet. No joke!
+Il y a au moins une page, laquelle fournie une infrastructure indépendante pour des activistes et journalistes, [riseup.net][4], qu'on ne peut plus charger.
+La page [freespech.com][13] n'était également plus accessible le mercredi 08 mars lorsque nous avons tenté de l'afficher.
+Le seul contenu de cette page est une vidéo dans laquelle Ted Cruz parle sur la liberté sur Internet. No joke!
+Elle est maintenant de nouveau accessible.
 
-Tous les chemis pour accéder l'Internet à l'Université de Fribourg sont affectés par la censure: incluant l'accès par [eduroam][14] et VPN de l'université. Ce veut dire que l'Université de Fribourg du point de vue de droit privé viole les règles du réseau europén eduroam (voyez le [Compliance Statement §B.8][5]).
+Tous les chemins pour accéder à Internet à l'université de Fribourg sont affectés par la censure: en incluant l'accès par [eduroam][14] et le VPN de l'université.
+Ce qui montre que l'université de Fribourg viole, du point de vue du droit privé, les règles du réseau européen eduroam (cf. [Compliance Statement §B.8][5]).
 
-De l'autre côté on peut supposer que l'Université de Fribourg est en contradiction avec la législation cantonale, fédérale et certains droits fondamenteux. En particulier, on pourrait montrer que l'Université viole la sphère privée ([art. 13 Cst.][BV13]),
-les libertés d'opinion et d'information ([art. 16 Cst.][BV16]), la liberté des médias ([art. 17 CSt.][BV17]) et la liberté de la science ([art. 20 Cst.][BV20]).
+L'université de Fribourg est donc en contradiction avec la législation cantonale, fédérale et certains droits fondamentaux.
+En particulier, on pourrait pointer du doigt que l'université viole la sphère privée ([art. 13 Cst.][BV13]), la liberté d'opinion et d'information ([art. 16 Cst.][BV16]), la liberté des médias ([art. 17 Cst.][BV17]) et la liberté de la science ([art. 20 Cst.][BV20]).
 
-Déjà en 2014 c'était l'Université de Zurique (UZH) à [censurer][6] l'Internet dans la categorie "adult". L'UZH a utilisé un produit de l'entreprise américain ["FortiGuard"][7]. De toute façon, elle n'avait jamais (à ce temps là) activé la totalité des categories (soyent [plus de 80!][8]): activistes du [CCC Zurique][9], en collaboration avec des étudiant-e-s du groupe politque ["kritische Politik"][10] (kriPo; alem. "politique critique") et le corps officiel de répresentation des étudiant-e-s [VSUZH][15] sont [réussit à abolir la censure][11] dans tous réseaux, grâce à la pression publique et médiatique. Il était vraiment génant de même voir le "Mamablog" (alem. "Blog Maman") du journal Tages-Anzeiger [censuré][12]. Le château de cartes finalement [s'écroulé][12]. Le principe de la neutralité du réseau constitue que toutes données sont traitées en égalité, circulent sans encombre et sans discrimination. On doit toujours et complètement réfuser la censure de l'Internet.
+En 2014 déjà, c'était l'université de Zurich (UZH) qui [censurait][6] Internet en se basant sur la catégorie « adult ».
+L'UZH a utilisé un produit de l'entreprise américaine ["FortiGuard"][7].
+Il est par contre à noter, qu'elle n'avait jamais (à ce temps-là) activé la totalité des catégories existantes. Soit [plus de 80!][8].
+Des activistes du [CCC Zurique][9], en collaboration avec des étudiant·e·s du groupe politique ["kritische Politik"][10] (kriPo; alem. "politique critique") et le corps officiel des représentants des étudiant·e·s [VSUZH][15] ont [réussit à abolir la censure][11] dans tous les réseaux et cela grâce à la pression publique et médiatique.
+Il était vraiment gênant de même voir le "Mamablog" (alem. "Blog Maman") du journal Tages-Anzeiger [censuré][12].
+Le château de cartes s'est finalement [écroulé][12].
+Le principe de la neutralité du réseau constitue que toutes les données soient traitées en égalité, circulent sans encombre et sans discrimination.
+On doit toujours et refuser toute forme de censure sur Internet.
 
-Pour la même raison, il n'y a pas d'exception pour l'Université de Fribourg maintenant: Comme institution du droit publique elle se doit montrer clairement reconaissant de la liberté de l'Internet et la neutralité du réseau.
+Pour la même raison, il n'y a pas d'exceptions pour l'université de Fribourg : Comme institution du droit public, elle se doit de respecter et reconnaître la liberté d'Internet et la neutralité du réseau.
 
-Envisagent la Confédération qui veut censurer l'Internet pour toutes personnes en Suisse, actuellement à cause des jeux d’argent à l'étranger, le CCC-CH et les kritischen Jurist\*innen Fribourg/Bern veulent exprimer clairement que toute forme de censure doit être réfusée. On va jamais accepter la censure de l'Internet, dans n'importe quelle forme. On va utiliser tous les moyens disponibles pour combattre toute forme de censure. La censure ne solve aucun problème, la censure *est* un problème.
+Tout comme la Confédération qui censurera pour toutes les personnes résidant en Suisse les jeux d'argent basés à l'étranger et censurera donc Internet.
+C'est ainsi que le CCC-CH et les kritischen Jurist\*innen Fribourg/Berne veulent clairement s'exprimer à l'encontre de toutes les formes de censures existantes.
+Nous n'accepterons jamais la censure d'Internet et sous n'importe quelle forme.
+Nous utiliserons tous les moyens disponibles pour combattre toute forme de censure.
+La censure ne résout aucun problème, la censure *est* un problème.
 
-Par conéquent nous exigeons de l'Université de Fribourg d'abolir toute forme de censure imméditament.
+Par conséquent nous exigeons que l'université de Fribourg abolisse immédiatement toute forme de censure.
 
 <hr>
 
@@ -38,7 +56,7 @@ Téléphone: *de communiquer par courriel*
 
 <hr>
 
-**Nouveautés concerant la censure d'Internet à l'Université de Fribourg sur Twitter:**
+**Nouveautés concernant la censure d'Internet à l'université de Fribourg sur Twitter:**
 
 * [https://twitter.com/UniFR_ZensurNon](https://twitter.com/UniFR_ZensurNon) ([@UniFR_ZensurNon](https://twitter.com/UniFR_ZensurNon))<br>
 * [https://twitter.com/vecirex](https://twitter.com/vecirex) ([@vecirex](https://twitter.com/vecirex))<br>
