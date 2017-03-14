@@ -23,7 +23,7 @@ Par conéquent nous exigeons de l'Université de Fribourg d'abolir toute forme d
 
 <hr>
 
-**Kontakt**
+**Contact**
 
 *Chaos Computer Club Suisse*<br>
 Hernâni Marques, membre de la direction et porte-parole CCC-CH<br>
