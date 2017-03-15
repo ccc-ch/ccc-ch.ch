@@ -24,7 +24,7 @@ En 2014 déjà, c'était l'université de Zurich (UZH) qui [censurait][6] Intern
 L'UZH a utilisé un produit de l'entreprise américaine ["FortiGuard"][7].
 Il est par contre à noter, qu'elle n'avait jamais (à ce temps-là) activé la totalité des catégories existantes. Soit [plus de 80!][8].
 Des activistes du [CCC Zurique][9], en collaboration avec des étudiant·e·s du groupe politique ["kritische Politik"][10] (kriPo; alem. "politique critique") et le corps officiel des représentants des étudiant·e·s [VSUZH][15] ont [réussit à abolir la censure][11] dans tous les réseaux et cela grâce à la pression publique et médiatique.
-Il était vraiment gênant de même voir le "Mamablog" (alem. "Blog Maman") du journal Tages-Anzeiger [censuré][12].
+Il était vraiment gênant de même voir le "Mamablog" (alem. "Blog Maman") du journal Tages-Anzeiger censuré.
 Le château de cartes s'est finalement [écroulé][12].
 Le principe de la neutralité du réseau constitue que toutes les données soient traitées en égalité, circulent sans encombre et sans discrimination.
 On doit toujours et refuser toute forme de censure sur Internet.
