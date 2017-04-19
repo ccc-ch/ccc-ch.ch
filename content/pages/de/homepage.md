@@ -12,7 +12,7 @@ Modified: 2016-09-03
 
 *16. März 2017*
 
-Der CCC-CH hat seine Vernehmlassungsantwort zum Ausfürhungsrecht des
+Der CCC-CH hat seine Vernehmlassungsantwort zum Ausführungsrecht des
 Geheimdienstgesetzes NDG eingereicht: es werden scharf die beiden
 Verordnungsentwürfe NDV und V-NDB-VIS kritisiert. Der CCC-CH lehnt das
 NDG, einschliesslich all seiner Verordnungen, als Ganzes ab.
