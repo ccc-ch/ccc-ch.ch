@@ -4,9 +4,20 @@ URL:
 save_as: index.html
 Lang: de
 Date: 2014-10-04
-Modified: 2016-09-03
+Modified: 2017-04-19
 
 # Chaos Computer Club Schweiz
+
+## Vernehmlassungsantwort zum Ausführungsrecht Geheimdienstgesetz NDG: NDV und V-NDB-VIS
+
+*16. April 2017*
+
+Der CCC-CH hat seine Vernehmlassungsantwort zum Ausführungsrecht des
+Geheimdienstgesetzes NDG eingereicht: es werden scharf die beiden
+Verordnungsentwürfe NDV und V-NDB-VIS kritisiert. Der CCC-CH lehnt das
+NDG, einschliesslich all seiner Verordnungen, als Ganzes ab.
+
+[Vernehmlassungsantwort (PDF)](https://ccc-ch.ch/docs/20170416--ndg-vernehmlassungen-verordnungen-ndv+visndb.pdf)
 
 ## Die Schweizer Universität Fribourg zensiert das Internet nach chinesisch-saudischen Massstäben
 
