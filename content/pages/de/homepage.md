@@ -8,13 +8,13 @@ Modified: 2017-04-19
 
 # Chaos Computer Club Schweiz
 
-## Vernehmlassungsantwort zum Ausführungsrecht Geheimdienstgesetz NDG: NDV und V-NDB-VIS
+## Vernehmlassungsantwort zum Ausführungsrecht Geheimdienstgesetz NDG: NDV und VIS-NDB
 
 *16. April 2017*
 
 Der CCC-CH hat seine Vernehmlassungsantwort zum Ausführungsrecht des
 Geheimdienstgesetzes NDG eingereicht: es werden scharf die beiden
-Verordnungsentwürfe NDV und V-NDB-VIS kritisiert. Der CCC-CH lehnt das
+Verordnungsentwürfe NDV und VIS-NDB kritisiert. Der CCC-CH lehnt das
 NDG, einschliesslich all seiner Verordnungen, als Ganzes ab.
 
 [Vernehmlassungsantwort (PDF)](https://ccc-ch.ch/docs/20170416--ndg-vernehmlassungen-verordnungen-ndv+visndb.pdf)
