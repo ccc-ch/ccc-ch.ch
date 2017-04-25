@@ -70,4 +70,8 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
     * **Wann:** Samstag, 2015-02-14 ab 13:00 Uhr
     * **Wo:** Ruum42, Andreasstrasse 5, St.Gallen 
     * **Traktanden:** [pad](https://pads.ccc.de/uL3MlRqsFb)
+ * Oktorber 2013, Beringen
+    * **Wann:** Sonntag, 2013-10-13
+    * **Wo:** [Odenwilusenz (Hackerspace Beringen)](http://www.odenwilusenz.ch/)
+    * **Traktanden:** [E-Mail von nobody_su](oktober13_gettogether.html)
 
