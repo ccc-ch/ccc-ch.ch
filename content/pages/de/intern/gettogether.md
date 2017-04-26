@@ -8,11 +8,11 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
- * Dezember 2016, Hamburg
-    * **Wann:** Donnerstag, 2016-12-29 ab 16:00 Uhr (Tag 3 des 33c3)
-    * **Wo:** [Hall C.1](https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1), 33c3, CCH Congress Center Hamburg, Deutschland
-    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/33c3-gettogether)
-    * **Link:** [Congress wiki](https://events.ccc.de/congress/2016/wiki/Session:CCC-CH_Gettogether)
+ *  April 2017, Beringen
+    * **Wann:** Samstag, 2017-04-29 ab 14:00 Uhr
+    * **Wo:** [Restuarant Bahnhof](http://www.openstreetmap.org/way/251950383), Wiesengasse 12, 8222 Beringen
+    * **Organisator:** [Odenwilusenz (Hackerspace Beringen)](http://www.odenwilusenz.ch/)
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april17_gettogether)
  * Juni 2017, Biel/Bienne (GV)
     * **Wann:** Sonntag, 2017-06-18 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
     * **Wo:** Villa Ritter in Biel/Bienne
@@ -20,6 +20,11 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Vergangene Gettogether
 
+ * Dezember 2016, Hamburg
+    * **Wann:** Donnerstag, 2016-12-29 ab 16:00 Uhr (Tag 3 des 33c3)
+    * **Wo:** [Hall C.1](https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1), 33c3, CCH Congress Center Hamburg, Deutschland
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/33c3-gettogether)
+    * **Link:** [Congress wiki](https://events.ccc.de/congress/2016/wiki/Session:CCC-CH_Gettogether)
  *  Dezember 2016, Rapperswil-Jona
     * **Wann:** Samstag, 2016-12-03 ab 14:30 Uhr
     * **Wo:** [Coredump](https://www.coredump.ch/kontakt/#kontakt_adresse), Zürcherstrasse 6 (4. Stock), 8640 Rapperswil-Jona
@@ -65,4 +70,8 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
     * **Wann:** Samstag, 2015-02-14 ab 13:00 Uhr
     * **Wo:** Ruum42, Andreasstrasse 5, St.Gallen 
     * **Traktanden:** [pad](https://pads.ccc.de/uL3MlRqsFb)
+ * Oktorber 2013, Beringen
+    * **Wann:** Sonntag, 2013-10-13
+    * **Wo:** [Odenwilusenz (Hackerspace Beringen)](http://www.odenwilusenz.ch/)
+    * **Traktanden:** [E-Mail von nobody_su](oktober13_gettogether.html)
 
