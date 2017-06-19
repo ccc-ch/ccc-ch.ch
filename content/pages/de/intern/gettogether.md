@@ -8,18 +8,27 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
+ * September 2017, Zürich (ausserordentliche GV)
+    * **Wann:** Samstag, 2017-09-16 ab 14:00 Uhr
+	* **Wo:** [CCCZH](https://www.ccczh.ch/hackerspace/), Röschibachstrasse 26, 8037 Zurich
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv1702)
+ * September 2017, Zürich
+    * **Wann:** Samstag, 2017-09-16 im Anschluss an die GV
+	* **Wo:** [CCCZH](https://www.ccczh.ch/hackerspace/), Röschibachstrasse 26, 8037 Zurich
+	* **Organisator:** [Hackerfunk](https://hackerfunk.ch/)
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/september17_gettogether)
+
+## Vergangene Gettogether
+
+ * Juni 2017, Biel/Bienne (GV)
+    * **Wann:** Sonntag, 2017-06-18 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
+    * **Wo:** Villa Ritter in Biel/Bienne
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv17)
  *  April 2017, Beringen
     * **Wann:** Samstag, 2017-04-29 ab 14:00 Uhr
     * **Wo:** [Restuarant Bahnhof](http://www.openstreetmap.org/way/251950383), Wiesengasse 12, 8222 Beringen
     * **Organisator:** [Odenwilusenz (Hackerspace Beringen)](http://www.odenwilusenz.ch/)
     * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april17_gettogether)
- * Juni 2017, Biel/Bienne (GV)
-    * **Wann:** Sonntag, 2017-06-18 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
-    * **Wo:** Villa Ritter in Biel/Bienne
-    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv17)
-
-## Vergangene Gettogether
-
  * Dezember 2016, Hamburg
     * **Wann:** Donnerstag, 2016-12-29 ab 16:00 Uhr (Tag 3 des 33c3)
     * **Wo:** [Hall C.1](https://events.ccc.de/congress/2016/wiki/Room:Hall_C.1), 33c3, CCH Congress Center Hamburg, Deutschland
