@@ -2,9 +2,13 @@ Title: Mitglieder
 Slug: members
 Lang: de
 Date: 2015-09-20
-Modified: 2015-09-20
+Modified: 2017-06-19
 
 Folgende Organisationen sind Mitglieder im CCC-CH
+
+### CCC Ticino
+
+  * [https://cccti.ch/](https://cccti.ch/)
 
 ### Chaos Computer Club Zürich
 
@@ -14,10 +18,6 @@ Folgende Organisationen sind Mitglieder im CCC-CH
 ### Chaostreff Basel
 
   * [https://wiki.chaostreff.ch/Chaostreff](https://wiki.chaostreff.ch/Chaostreff)
-
-### Hackburg (Hackerspace Freiburg)
-
-  * [http://www.hackburg.ch/](http://www.hackburg.ch/)
 
 ### Ruum42 (Hackerspace St. Gallen)
 
@@ -42,7 +42,3 @@ Folgende Organisationen sind Mitglieder im CCC-CH
 ### Chaostreff Bern
 
   * [https://www.chaostreffbern.ch/](https://www.chaostreffbern.ch/)
-
-### Eastermundigen (Hackerspace Ostermundigen)
-
-  * [http://www.eastermundigen.ch/](http://www.eastermundigen.ch/)
