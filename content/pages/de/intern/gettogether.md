@@ -8,6 +8,13 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
+ * Dezember 2017, Leipzig (ausserordentliche GV)
+    * **Wann:** Freitag, 2017-12-29 ab 15 Uhr (Tag 3 des 34c3)
+	* **Wo:** 34c3, CCL, Leipzig (genauere Angaben folgen sobald bekannt)
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv1703)
+
+## Vergangene Gettogether
+
  * September 2017, Zürich (ausserordentliche GV)
     * **Wann:** Samstag, 2017-09-16 ab 14:00 Uhr
 	* **Wo:** [CCCZH](https://www.ccczh.ch/hackerspace/), Röschibachstrasse 26, 8037 Zurich
@@ -17,9 +24,6 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 	* **Wo:** [CCCZH](https://www.ccczh.ch/hackerspace/), Röschibachstrasse 26, 8037 Zurich
 	* **Organisator:** [Hackerfunk](https://hackerfunk.ch/)
     * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/september17_gettogether)
-
-## Vergangene Gettogether
-
  * Juni 2017, Biel/Bienne (GV)
     * **Wann:** Sonntag, 2017-06-18 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
     * **Wo:** Villa Ritter in Biel/Bienne
