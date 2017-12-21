@@ -10,8 +10,9 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
  * Dezember 2017, Leipzig (ausserordentliche GV)
     * **Wann:** Freitag, 2017-12-29 ab 15 Uhr (Tag 3 des 34c3)
-    * **Wo:** 34c3, CCL, Leipzig (genauere Angaben folgen sobald bekannt)
+    * **Wo:** [Seminar room 14-15](https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15), 34c3, CCL, Leipzig (genauere Angaben folgen sobald bekannt)
     * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv1703)
+    * **Link:** [Congress wiki](https://events.ccc.de/congress/2017/wiki/index.php/Session:CCC-CH_GV)
 
 ## Vergangene Gettogether
 
