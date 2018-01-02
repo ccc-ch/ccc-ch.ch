@@ -16,6 +16,10 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
     * **Wann:** TBA
     * **Wo:** TBA
     * **Traktanden:** TBA
+ * Juni 2018, Biel/Bienne (GV)
+    * **Wann:** Sonntag, 2018-06-17 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
+    * **Wo:** Villa Ritter in Biel/Bienne
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv18)
 
 ## Vergangene Gettogether
 
