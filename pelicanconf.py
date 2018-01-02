@@ -29,6 +29,27 @@ MENUITEMS = (
               ]),
             )
 
+I18N_SUBSITES = {
+    'de': {
+        'LOCALE': "de_CH.UTF-8",
+        'STATIC_PATHS': [
+            'files'
+        ]
+    },
+    'fr': {
+        'LOCALE': "fr_CH.UTF-8",
+        'STATIC_PATHS': [
+            'files'
+        ]
+    },
+    'it': {
+        'LOCALE': "it_CH.UTF-8",
+        'STATIC_PATHS': [
+            'files'
+        ]
+    }
+}
+
 # Sole author and don't use categories ... disable these features
 #AUTHOR_SAVE_AS = ''
 #AUTHORS_SAVE_AS = ''
@@ -76,6 +97,12 @@ PLUGINS = ['i18n_subsites']
 I18N_SUBSITES = {
   'de': {
     'LOCALE': 'de_CH'
+  },
+  'fr': {
+    'LOCALE': 'fr_CH'
+  },
+  'it': {
+    'LOCALE': 'it_CH'
   },
   'en': {
     'LOCALE': 'en_US'

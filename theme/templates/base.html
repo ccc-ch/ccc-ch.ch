@@ -120,7 +120,12 @@
                             </ul>
                         </li>
                         {% endif %}
-                        {% block translation %}{% endblock translation %}
+						<li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Lang<b class="caret"></b></a>
+                            <ul class="dropdown-menu sub-menu">
+                                {% block translation %}{% endblock translation %}
+                            </ul>
+                        </li>
                         {% endblock navigation %}
                     </ul>
                 </div><!--/.nav-collapse -->
