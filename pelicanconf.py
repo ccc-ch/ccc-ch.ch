@@ -34,19 +34,32 @@ I18N_SUBSITES = {
         'LOCALE': "de_CH.UTF-8",
         'STATIC_PATHS': [
             'files'
-        ]
+        ],
+        'MENUITEMS': MENUITEMS,
     },
     'fr': {
         'LOCALE': "fr_CH.UTF-8",
         'STATIC_PATHS': [
             'files'
-        ]
+        ],
+        'MENUITEMS': [
+            ('Home', 'index.html', None),
+            ('CCC-CH', '#', [
+                ('Statuts', 'statuten.html'),
+            ]),
+        ],
     },
     'it': {
         'LOCALE': "it_CH.UTF-8",
         'STATIC_PATHS': [
             'files'
-        ]
+        ],
+        'MENUITEMS': [
+            ('Home', 'index.html', None),
+            ('CCC-CH', '#', [
+                ('Statuti', 'statuten.html'),
+            ]),
+        ],
     }
 }
 
@@ -92,22 +105,6 @@ EMAIL_ADDR = 'webmaster@ccc-ch.ch'
 # Plugins
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites']
-
-# Plugin configuration
-I18N_SUBSITES = {
-  'de': {
-    'LOCALE': 'de_CH'
-  },
-  'fr': {
-    'LOCALE': 'fr_CH'
-  },
-  'it': {
-    'LOCALE': 'it_CH'
-  },
-  'en': {
-    'LOCALE': 'en_US'
-  }
-}
 
 # Theme
 THEME = 'theme'
