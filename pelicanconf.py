@@ -43,7 +43,6 @@ I18N_SUBSITES = {
             'files'
         ],
         'MENUITEMS': [
-            ('Home', 'index.html', None),
             ('CCC-CH', '#', [
                 ('Statuts', 'statuten.html'),
             ]),
@@ -55,7 +54,6 @@ I18N_SUBSITES = {
             'files'
         ],
         'MENUITEMS': [
-            ('Home', 'index.html', None),
             ('CCC-CH', '#', [
                 ('Statuti', 'statuten.html'),
             ]),
