@@ -12,9 +12,9 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
     * **Wann:** Samstag, 2018-02-10 ab 13:00 Uhr
     * **Wo:** [Chaoten und R.A.I.F. Basis](http://wiki.chaostreff.ch/Chaostreff), Birsfelderstrasse 6, 4132 Muttenz
     * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/februar18_gettogether)
- *  April 2018, Rapperswil
+ *  April 2018, Rapperswil-Jona
     * **Wann:** TBA
-    * **Wo:** TBA
+    * **Wo:** [Coredump Hackerspace](https://www.coredump.ch/kontakt/), Vinora-Areal, Holzwiesstrasse 50, 8645 Jona
     * **Traktanden:** TBA
  * Juni 2018, Biel/Bienne (GV)
     * **Wann:** Sonntag, 2018-06-17 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
