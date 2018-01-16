@@ -50,7 +50,7 @@ correct umask is set in your `~/.profile` file:
 
 Then you can deploy the website via rsync:
 
-    $ make rsync_upload
+    $ LANG=de_CH.UTF8 make rsync_upload
 
 
 [pelican]: http://blog.getpelican.com/
