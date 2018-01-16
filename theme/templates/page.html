@@ -2,10 +2,6 @@
 
 {% block title %}{{ SITENAME }} | {{ page.title }}{%endblock%}
 
-{% block translation %}
-{% import 'translations.html' as translations with context %}
-{{ translations.translations_for(page) }}
-{% endblock %}
 
 {% block content_title %}
 {% if page.source_path.find('/medien/') != -1 %}
@@ -14,6 +10,22 @@
                 <h1 class="entry-title">{{ page.title }}</h1>
 {% endif %}
 {% endblock %}
+
+{% block trmenu %}
+{% if page.translations %}
+
+	<li class="dropdown">
+		<a href="#" class="dropdown-toggle" data-toggle="dropdown">Lang<b class="caret"></b></a>
+		<ul class="dropdown-menu sub-menu">
+			{% block translation %}
+			{% import 'translations.html' as translations with context %}
+			{{ translations.translations_for(page) }}
+			{% endblock %}
+		</ul>
+	</li>
+
+{% endif %}
+{% endblock trmenu %}
 
 {% block content %}
 {{ page.content }}
