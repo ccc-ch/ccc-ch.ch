@@ -8,6 +8,14 @@ Modified: 2017-04-19
 
 # Chaos Computer Club Schweiz
 
+## CCC-CH ruft zum Boykott vom E-Voting-Stimmkanal auf und fordert statistisch kontrolliertes E-Counting
+
+*2. März 2018*
+
+TODO
+
+[Medienmitteilung](/ccc-ch-ruft-zum-boykott-vom-e-voting-stimmkanal-auf-und-fordert-statistisch-kontrolliertes-e-counting.html)
+
 ## Vernehmlassungsantwort zum Ausführungsrecht Geheimdienstgesetz NDG: NDV und VIS-NDB
 
 *16. April 2017*
