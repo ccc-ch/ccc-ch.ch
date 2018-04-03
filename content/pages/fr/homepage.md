@@ -4,4 +4,4 @@ save_as: index.html
 Lang: fr
 Date: 2018-01-16
 
-# Caos Computer Club Svizzera
+# Chaos Computer Club Suisse
