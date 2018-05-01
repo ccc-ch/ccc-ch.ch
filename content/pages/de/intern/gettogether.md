@@ -8,10 +8,6 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
- *  April 2018, Rapperswil-Jona
-    * **Wann:** 2018-04-15 13:00 (**ACHTUNG: Verschoben, ursprüngliches Datum war der 14.04.**)
-    * **Wo:** [Coredump Hackerspace](https://www.coredump.ch/kontakt/), Vinora-Areal, Holzwiesstrasse 50, 8645 Jona
-    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april18_gettogether)
  * Juni 2018, Biel/Bienne (GV)
     * **Wann:** Sonntag, 2018-06-17 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
     * **Wo:** Villa Ritter in Biel/Bienne
@@ -19,6 +15,10 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Vergangene Gettogether
 
+ *  April 2018, Rapperswil-Jona
+    * **Wann:** 2018-04-15 13:00
+    * **Wo:** [Coredump Hackerspace](https://www.coredump.ch/kontakt/), Vinora-Areal, Holzwiesstrasse 50, 8645 Jona
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april18_gettogether)
  *  Februar 2018, Muttenz
     * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/februar18_gettogether)
     * **Wann:** Samstag, 2018-02-10 ab 13:00 Uhr
