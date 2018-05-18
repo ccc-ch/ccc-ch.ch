@@ -15,12 +15,12 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
  *  Sommer 2018, Bern
     * **Wann:** TBD 13:00
     * **Wo:** [Odenwilusenz](http://odenwilusenz.ch), Beringen
-    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/sommer18_gettogether)
+    * **Traktanden:** [Pad](https://md.coredump.ch/cccch_sommer_gettogether_2018)
 
 ## Vergangene Gettogether
 
  *  April 2018, Rapperswil-Jona
-    * **Wann:** 2018-04-15 13:00 (**ACHTUNG: Verschoben, ursprüngliches Datum war der 14.04.**)
+    * **Wann:** 2018-04-15 13:00
     * **Wo:** [Coredump Hackerspace](https://www.coredump.ch/kontakt/), Vinora-Areal, Holzwiesstrasse 50, 8645 Jona
     * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april18_gettogether)
  *  Februar 2018, Muttenz
