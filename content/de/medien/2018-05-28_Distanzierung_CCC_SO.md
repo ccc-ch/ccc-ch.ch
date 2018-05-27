@@ -1,5 +1,6 @@
 Title: MM: Der Chaos Computer Club distanziert sich von «SwissLeaks», dem «Chaos Alpen Kongress» und seinen Urhebern
 Lang: de
+Slug: MM-Distanzierung-CCC-SO-Swissleaks
 
 Liebe Medienschaffende,
 
@@ -16,10 +17,10 @@ Der CCC-CH ist auf den neu gegründeten Verein "Chaos Computer Club Südostschwe
 Kontakt
 Chaos Computer Club Schweiz
 
-Claudio Luck, Vorstand CCCZH und Pressesprecher (DE/IT/EN)
-E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)
+Claudio Luck, Vorstand CCCZH und Pressesprecher (DE/IT/EN)  
+E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)  
 Telefon: +41 76 525 28 94
 
-Hernâni Marques, Vorstand CCC-CH und Pressesprecher (DE/FR/EN)
-E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)
+Hernâni Marques, Vorstand CCC-CH und Pressesprecher (DE/FR/EN)  
+E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)  
 Telefon: +41 79 191 23 70
