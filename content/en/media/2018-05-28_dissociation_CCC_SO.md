@@ -8,15 +8,15 @@ The association also announced a congress named «Chaos Alpen Kongress», again 
 
 Therefore we call the media to remove all references to "Chaos Computer Club", with and without annex "Südostschweiz" from any announcement of «SwissLeaks» and «Chaos Alpen Kongress». We would also like to publicly assert that «Chaos Computer Club Südostschweiz» is not, and never was, part of the Chaos Computer Club or its Swiss chapter.
 
-The Chaos Computer Club Switzerland actively sought the dialogue with the «Chaos Computer Club Südostschweiz». On Friday, 25. May, we issued a call for rectification of their announcements. Unfortunately Mr. Luzi Stadler has failed to act upon this call until now.
+The Chaos Computer Club Switzerland actively sought the dialogue with the «Chaos Computer Club Südostschweiz». On Friday, 25. May, we asked for rectification of their announcements. Unfortunately Mr. Luzi Stadler has failed to act upon this call until now.
 
 **Contact**
 Chaos Computer Club Switzerland
 
-Claudio Luck, CCCZH board member und spokesperson (DE/IT/EN)
-E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)
+Claudio Luck, CCCZH board member und spokesperson (DE/IT/EN)  
+E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)  
 Phone: +41 76 525 28 94
 
-Hernâni Marques, CCC-CH board member und spokesperson (DE/FR/EN)
-E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)
+Hernâni Marques, CCC-CH board member und spokesperson (DE/FR/EN)  
+E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)  
 Phone: +41 79 191 23 70
