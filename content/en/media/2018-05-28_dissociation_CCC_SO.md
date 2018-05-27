@@ -1,10 +1,10 @@
 Title: PR: The Chaos Computer Club dissociates itself from «SwissLeaks», «Chaos Alpen Kongress» and their initiators
 Lang: en
-Slug: PR-Dissociation-CCC-SO-Swissleaks
+Slug: MM-Distanzierung-CCC-SO-Swissleaks
 
 The Chaos Computer Club (CCC) dissociates itself from the platform «SwissLeaks» and the «Chaos Computer Club Südostschweiz», the association that annouced «SwissLeaks». We also advise against trusting the «SwissLeaks» platform for its claimed association with the CCC. The supposedly secure Whistleblower drop point was announced via SDA on 23. May 2018 and was wrongly und dishonestly associated with our name «Chaos Computer Club» and «CCC». In contrast to several claims, there is no link between this platform and the CCC in Switzerland and abroad.
 
-The association also announced a congress named «Chaos Alpen Kongress», again without coordination also announced directly through the media. Luzi Stadler, the association's president, says he already contacted numerous companies – to attract them as part of the main actors of the «Chaos Alpen Kongress», which is in stark contrasts to the non-commercial nature of CCC's established events.
+The association also announced a congress named «Chaos Alpen Kongress», again without coordination also announced directly through the media. Luzi Stadler, the association's president, says he already contacted numerous companies – to attract them as part of the main actors of the «Chaos Alpen Kongress», which is in stark contrasts with our usual precautions for established CCC events.
 
 Therefore we call the media to remove all references to "Chaos Computer Club", with and without annex "Südostschweiz" from any announcement of «SwissLeaks» and «Chaos Alpen Kongress». We would also like to publicly assert that «Chaos Computer Club Südostschweiz» is not, and never was, part of the Chaos Computer Club or its Swiss chapter.
 
