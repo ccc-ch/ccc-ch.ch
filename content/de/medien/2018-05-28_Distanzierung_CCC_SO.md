@@ -4,7 +4,7 @@ Slug: MM-Distanzierung-CCC-SO-Swissleaks
 
 Liebe Medienschaffende,
 
-Der Chaos Computer Club (CCC) distanziert sich von der angekündigten Plattform «SwissLeaks» und deren Urheberverein «Chaos Computer Club Südostschweiz». Wir warnen davor, der Plattform «SwissLeaks» durch die Nutzung unseres Namens besonders zu vertrauen. Die vorgeblich sichere Anlaufstelle für Whistleblower wurde per SDA-Meldung am 23. Mai 2018 in der Presse verbreitet und fälschlicherweise sowie unlauter mit dem Namen «Chaos Computer Club» bzw. «CCC» in Verbindung gebracht. Die behauptete Nähe dieser Plattform zum CCC, in der Schweiz und im Ausland, existiert nicht.
+Der Chaos Computer Club (CCC) distanziert sich von der angekündigten Plattform «SwissLeaks» und deren Urheberverein «Chaos Computer Club Südostschweiz». Wir warnen davor, der Plattform «SwissLeaks» nur wegen unseres Namens besonders zu vertrauen. Die vorgeblich sichere Anlaufstelle für Whistleblower wurde per SDA-Meldung am 23. Mai 2018 in der Presse verbreitet und fälschlicherweise sowie unlauter mit dem Namen «Chaos Computer Club» bzw. «CCC» in Verbindung gebracht. Die behauptete Nähe dieser Plattform zum CCC, in der Schweiz und im Ausland, existiert nicht.
 
 Darüber hinaus hat der «Chaos Computer Club Südostschweiz» bereits im März einen «Chaos Alpen Kongress» angekündigt, ebenfalls ohne Absprache und ebenfalls über die Medien. Darin macht der Präsident des «Chaos Computer Club Südostschweiz» klar, dass er "[...] eine ganze Reihe von Firmen angeschrieben [hat]" – um sie als Teil der Hauptakteure für den «Chaos Alpen Kongress» zu gewinnen. Auch das entspricht nicht dem üblichen Vorgehen des Chaos Computer Clubs.
 
