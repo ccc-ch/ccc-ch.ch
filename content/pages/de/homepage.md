@@ -12,7 +12,7 @@ Modified: 2017-04-19
 
 *28. Mai 2018*
 
-Der Chaos Computer Club distanziert sich von der angekündigten Plattform «SwissLeaks» und deren Urheberverein «Chaos Computer Club Südostschweiz». Wir warnen vorerst davor, der Plattform «SwissLeaks» besonders zu vertrauen. Die behauptete Nähe dieser Plattform zum CCC, in der Schweiz und im Ausland, existiert nicht.
+Der Chaos Computer Club distanziert sich von der angekündigten Plattform «SwissLeaks» und deren Urheberverein «Chaos Computer Club Südostschweiz». Wir warnen davor, der Plattform «SwissLeaks» durch die Nutzung unseres Namens besonders zu vertrauen. Die behauptete Nähe dieser Plattform zum CCC, in der Schweiz und im Ausland, existiert nicht.
 
 [Ganzer Artikel](MM-Distanzierung-CCC-SO-Swissleaks.html)
 
