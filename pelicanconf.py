@@ -60,6 +60,19 @@ I18N_SUBSITES = {
                 ('Statuti', 'statuten.html'),
             ]),
         ],
+    },
+    'en': {
+        'LOCALE': "en_UK.UTF-8",
+        'STATIC_PATHS': [
+            'files'
+        ],
+        'MENUITEMS': [
+            ('Home', 'index.html', None),
+            ('CCC-CH', '#', [
+                ('Statuti', 'statuten.html'),
+            ]),
+            ('Press releases', 'category_media.html', None),
+        ],
     }
 }
 
