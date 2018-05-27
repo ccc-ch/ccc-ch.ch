@@ -6,7 +6,7 @@ The Chaos Computer Club (CCC) dissociates itself from the platform «SwissLeaks�
 
 «SwissLeaks», as announced, does not hold up to our standards. The secrecy around the underlying software is security-by-obscurity &endash; an insufficient measure against attacks often indicating substandard security. Additionaly, we regard the proximity of an extremely sensitive whistleblowing-platform to for-profit companies as highly problematic.  The association uses our name and our well-known abbreviation  «CCC» with the intent of taking advantage of our reputation, but without having ever built any ties to CCC in Switzerland or abroad.
 
-The association also announced a congress named «Chaos Alpen Kongress», again without coordination also announced directly through the media. Luzi Stadler says he already contacted numerous companies  &endash, to attract them as part of the main actors of the  «Chaos Alpen Kongress», which is in stark contrasts to the non-commercial nature of CCC's established events.
+The association also announced a congress named «Chaos Alpen Kongress», again without coordination also announced directly through the media. Luzi Stadler, the association's president, says he already contacted numerous companies  &endash, to attract them as part of the main actors of the  «Chaos Alpen Kongress», which is in stark contrasts to the non-commercial nature of CCC's established events.
 
 Therefore we call the media to remove all references to "Chaos Computer Club", with and without annex "Südostschweiz" from any announcement of «SwissLeaks» and «Chaos Alpen Kongress». We would also like to publicly assert that «Chaos Computer Club Südostschweiz» is not, and never was, part of the Chaos Computer Club or its swiss chapter.
 
