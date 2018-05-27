@@ -12,4 +12,4 @@ Date: 2018-05-28
 
 The Chaos Computer Club (CCC) dissociates itself from the platform «SwissLeaks» and the «Chaos Computer Club Südostschweiz», the association that annouced «SwissLeaks». We also advise against trusting the «SwissLeaks» platform for its claimed association with the CCC. In contrast to several claims, there is no link between this platform and the CCC in Switzerland and abroad.
 
-[Full article](../PR-Dissociation-CCC-SO-Swissleaks.html)
+[Full article](MM-Distanzierung-CCC-SO-Swissleaks.html)
