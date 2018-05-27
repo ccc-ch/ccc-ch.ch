@@ -68,9 +68,6 @@ I18N_SUBSITES = {
         ],
         'MENUITEMS': [
             ('Home', 'index.html', None),
-            ('CCC-CH', '#', [
-                ('Statuti', 'statuten.html'),
-            ]),
             ('Press releases', 'category_media.html', None),
         ],
     }
