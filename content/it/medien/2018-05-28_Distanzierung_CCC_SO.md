@@ -1,6 +1,6 @@
 Title: MM: Il Chaos Computer Club si distanzia dalla piattaforma «SwissLeaks», dal «Chaos Alpen Kongress» e i suoi fautori
 Lang: it
-Slug: MM-Distanzierung-CCC-SO-Swissleaks
+Slug: 2018-05-28_mm-distanzierung-ccc-so-swissleaks
 
 Il Chaos Computer Club (CCC) si distanzia dalla piattaforma «SwissLeaks» e dal congresso «Chaos Alpen Kongress» annunciati entrambi dall'associazione «Chaos Computer Club Südostschweiz». Avvertiamo inoltre di non prestare particolare fiducia alla piattaforma «SwissLeaks» solo per via del nostro nome. Questa é stata annunciata via SDA il 23 Maggio 2018 facendo uso erroneamente e slealmente del nome «Chaos Computer Club» e «CCC». La vicinanza che viene suggerita al CCC in Svizzera e all'Estero per questa piattaforma non esiste.
 

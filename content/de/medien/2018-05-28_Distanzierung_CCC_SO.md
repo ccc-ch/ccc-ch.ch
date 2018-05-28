@@ -1,6 +1,6 @@
 Title: MM: Der Chaos Computer Club distanziert sich von «SwissLeaks», dem «Chaos Alpen Kongress» und seinen Urhebern
 Lang: de
-Slug: MM-Distanzierung-CCC-SO-Swissleaks
+Slug: 2018-05-28_mm-distanzierung-ccc-so-swissleaks
 
 Liebe Medienschaffende,
 
