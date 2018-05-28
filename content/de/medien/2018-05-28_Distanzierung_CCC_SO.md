@@ -12,13 +12,16 @@ Wir rufen die Medien daher auf, alle Verweise und Variationen von «Chaos Comput
 
 Der CCC-CH ist auf den neu gegründeten Verein "Chaos Computer Club Südostschweiz" zugegangen und sucht aktiv den Dialog. Leider ist der Präsident, Herr Luzi Stadler, unserem Aufruf vom Freitag, 25. Mai nach Richtigstellung bis heute nicht gefolgt.
 
-Kontakt
-Chaos Computer Club Schweiz
+<hr>
 
-Claudio Luck, Vorstand CCCZH und Pressesprecher (DE/IT/EN)  
-E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)  
-Telefon: +41 76 525 28 94
+**Kontakt**
 
-Hernâni Marques, Vorstand CCC-CH und Pressesprecher (DE/FR/EN)  
-E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)  
-Telefon: +41 79 191 23 70
+*Chaos Computer Club Schweiz*
+
+Claudio Luck, Vorstand CCCZH und Pressesprecher (DE/IT/EN)<br>
+E-Mail: [presse@ccc-ch.ch](mailto:presse@ccc-ch.ch) (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)<br>
+Telefon: [+41 76 525 28 94](tel:+41 76 525 28 94)
+
+Hernâni Marques, Vorstand CCC-CH und Pressesprecher (DE/FR/EN)<br>
+E-Mail: [presse@ccc-ch.ch](mailto:presse@ccc-ch.ch) (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)<br>
+Telefon: [+41 79 191 23 70](tel:+41 79 191 23 70)

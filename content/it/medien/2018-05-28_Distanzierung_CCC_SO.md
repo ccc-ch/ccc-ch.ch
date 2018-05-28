@@ -10,13 +10,16 @@ Chiediamo dunque i media di rimuovere tutti i riferimenti a "Chaos Computer Club
 
 Il CCC Svizzera ha contattato l'associazione «Chaos Computer Club Südostschweiz» e sta attivamente cercando il dialogo. Purtroppo il presidente Luzi Stadler finora non ha dato segito a prendere le dovute distanze.
 
-Contatto
-Chaos Computer Club Schweiz
+<hr>
 
-Claudio Luck, Comitato CCCZH e portavoce (DE/IT/EN)  
-E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)  
-Telefon: +41 76 525 28 94
+**Contatto**
 
-Hernâni Marques, Comitato CCC-CH e portavoce (DE/FR/EN)  
-E-Mail: presse@ccc-ch.ch (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)  
-Telefon: +41 79 191 23 70
+*Chaos Computer Club Schweiz*
+
+Claudio Luck, Comitato CCCZH e portavoce (DE/IT/EN)<br>
+E-Mail: [presse@ccc-ch.ch](mailto:presse@ccc-ch.ch) (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)<br>
+Telefon: [+41 76 525 28 94](tel:+41 76 525 28 94)
+
+Hernâni Marques, Comitato CCC-CH e portavoce (DE/FR/EN)<br>
+E-Mail: [presse@ccc-ch.ch](mailto:presse@ccc-ch.ch) (PGP: FA8A 8269 A4DF 0B4B 6636 1894 82EF E630 FF68 DE3E)<br>
+Telefon: [+41 79 191 23 70](tel:+41 79 191 23 70)
