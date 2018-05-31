@@ -15,7 +15,7 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
  *  Sommer 2018, Bern
     * **Wann:** TBD 13:00
     * **Wo:** [Odenwilusenz](http://odenwilusenz.ch), Beringen
-    * **Traktanden:** [Pad](https://md.coredump.ch/cccch_sommer_gettogether_2018)
+    * **Traktanden:** [Pad](https://md.coredump.ch/cccch_sommer_gettogether_2018?both)
 
 ## Vergangene Gettogether
 
