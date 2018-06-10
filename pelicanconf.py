@@ -62,7 +62,7 @@ I18N_SUBSITES = {
         ],
     },
     'en': {
-        'LOCALE': "en_UK.UTF-8",
+        'LOCALE': "en_GB.UTF-8",
         'STATIC_PATHS': [
             'files'
         ],
