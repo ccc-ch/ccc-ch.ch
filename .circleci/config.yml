@@ -24,6 +24,7 @@ jobs:
             sudo bash -c 'echo "de_CH.UTF-8 UTF-8" >> /etc/locale.gen'
             sudo bash -c 'echo "fr_CH.UTF-8 UTF-8" >> /etc/locale.gen'
             sudo bash -c 'echo "it_CH.UTF-8 UTF-8" >> /etc/locale.gen'
+            sudo bash -c 'echo "en_GB.UTF-8 UTF-8" >> /etc/locale.gen'
             sudo locale-gen
 
       - run:
