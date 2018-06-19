@@ -8,17 +8,17 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
- * Juni 2018, Biel/Bienne (GV)
-    * **Wann:** Sonntag, 2018-06-17 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
-    * **Wo:** Villa Ritter in Biel/Bienne
-    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv18)
- *  Sommer 2018, Bern
-    * **Wann:** TBD 13:00
-    * **Wo:** [Odenwilusenz](http://odenwilusenz.ch), Beringen
+ *  Sommer 2018, Beringen
+    * **Wann:** Samstag, 2018-07-28 ab 13:00 Uhr
+    * **Wo:** [Odenwilusenz](http://odenwilusenz.ch), Hardmorgenweg 21, 8222 Beringen
     * **Traktanden:** [Pad](https://md.coredump.ch/cccch_sommer_gettogether_2018?both)
 
 ## Vergangene Gettogether
 
+ * Juni 2018, Biel/Bienne (GV)
+    * **Wann:** Sonntag, 2018-06-17 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
+    * **Wo:** Villa Ritter in Biel/Bienne
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/p/r.bf21e05011eb148e7b45d5b1947432b2)
  *  April 2018, Rapperswil-Jona
     * **Wann:** 2018-04-15 13:00
     * **Wo:** [Coredump Hackerspace](https://www.coredump.ch/kontakt/), Vinora-Areal, Holzwiesstrasse 50, 8645 Jona
