@@ -1,0 +1,67 @@
+# Python CircleCI 2.0 configuration file
+#
+# Check https://circleci.com/docs/2.0/language-python/ for more details
+
+version: 2
+jobs:
+  build:
+
+    docker:
+      - image: circleci/python:3.5
+
+    steps:
+      - checkout
+
+      - restore_cache:
+          keys:
+          - v1-dependencies-{{ checksum "requirements.txt" }}
+          # fallback to using the latest cache if no exact match is found
+          - v1-dependencies-
+
+      - run:
+          name: Install required locales
+          command: |
+            sudo bash -c 'echo "de_CH.UTF-8 UTF-8" >> /etc/locale.gen'
+            sudo bash -c 'echo "fr_CH.UTF-8 UTF-8" >> /etc/locale.gen'
+            sudo bash -c 'echo "it_CH.UTF-8 UTF-8" >> /etc/locale.gen'
+            sudo bash -c 'echo "en_GB.UTF-8 UTF-8" >> /etc/locale.gen'
+            sudo locale-gen
+
+      - run:
+          name: Show environment configuration
+          command: |
+            echo "=== Distribution ==="
+            cat /etc/os-release
+            echo -e "\n=== Kernel ==="
+            uname -a
+            echo -e "\n=== Available locales ==="
+            locale -a
+
+      - run:
+          name: Install dependencies
+          command: |
+            python3 -m venv venv
+            . venv/bin/activate
+            pip install -r requirements.txt
+
+      - save_cache:
+          paths:
+            - ./venv
+          key: v1-dependencies-{{ checksum "requirements.txt" }}
+        
+      - run:
+          name: Run pelican to generate HTML
+          command: |
+            . venv/bin/activate
+            make html 2>&1 | tee pelican_output
+            cat pelican_output
+
+      - run:
+          name: Check for warnings
+          command: |
+            ! grep -q "WARNING" pelican_output
+
+      - run:
+          name: Make sure that at at least 1 page was generated
+          command: |
+            ! grep -q "0 pages" pelican_output

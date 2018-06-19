@@ -8,14 +8,34 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
- * Dezember 2017, Leipzig (ausserordentliche GV)
-    * **Wann:** Freitag, 2017-12-29 ab 15 Uhr (Tag 3 des 34c3)
-    * **Wo:** [Seminar room 14-15](https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15), 34c3, CCL, Leipzig (genauere Angaben folgen sobald bekannt)
-    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv1703)
-    * **Link:** [Congress wiki](https://events.ccc.de/congress/2017/wiki/index.php/Session:CCC-CH_GV)
+ * Juni 2018, Biel/Bienne (GV)
+    * **Wann:** Sonntag, 2018-06-17 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
+    * **Wo:** Villa Ritter in Biel/Bienne
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv18)
+ *  Sommer 2018, Bern
+    * **Wann:** TBD 13:00
+    * **Wo:** [Odenwilusenz](http://odenwilusenz.ch), Beringen
+    * **Traktanden:** [Pad](https://md.coredump.ch/cccch_sommer_gettogether_2018?both)
 
 ## Vergangene Gettogether
 
+ *  April 2018, Rapperswil-Jona
+    * **Wann:** 2018-04-15 13:00
+    * **Wo:** [Coredump Hackerspace](https://www.coredump.ch/kontakt/), Vinora-Areal, Holzwiesstrasse 50, 8645 Jona
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/april18_gettogether)
+ *  Februar 2018, Muttenz
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/februar18_gettogether)
+    * **Wann:** Samstag, 2018-02-10 ab 13:00 Uhr
+    * **Wo:** [Chaoten und R.A.I.F. Basis](http://wiki.chaostreff.ch/Chaostreff), Birsfelderstrasse 6, 4132 Muttenz
+ * Dezember 2017, Leipzig
+    * **Wann:** Freitag, 2017-12-29 ab 15:30 Uhr (Tag 3 des 34c3, im Anschluss an die GV)
+    * **Wo:** [Seminar room 14-15](https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15), 34c3, CCL, Leipzig
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/34c3_gettogether)
+ * Dezember 2017, Leipzig (ausserordentliche GV)
+    * **Wann:** Freitag, 2017-12-29 ab 15 Uhr (Tag 3 des 34c3)
+    * **Wo:** [Seminar room 14-15](https://events.ccc.de/congress/2017/wiki/index.php/Room:Seminar_room_14-15), 34c3, CCL, Leipzig
+    * **Traktanden:** [Pad](https://pads.ccc-ch.ch/public_pad/gv1703)
+    * **Link:** [Congress wiki](https://events.ccc.de/congress/2017/wiki/index.php/Session:CCC-CH_GV)
  * September 2017, Zürich (ausserordentliche GV)
     * **Wann:** Samstag, 2017-09-16 ab 14:00 Uhr
     * **Wo:** [CCCZH](https://www.ccczh.ch/hackerspace/), Röschibachstrasse 26, 8037 Zurich

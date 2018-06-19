@@ -18,9 +18,9 @@ MENUITEMS = (
                 ('FAQ', 'faq.html'),
                 ('Statuten', 'statuten.html'),
                 ('Mitglieder', 'members.html'),
+                ('Pressereaktionen', 'category_pressreview.html'),
               ]),
               ('Medienmitteilungen', 'category_medien.html', None),
-              ('Pressereaktionen', 'category_pressreview.html', None),
               ('Intern', '#', [
                 ('Protokolle', 'protokolle.html'),
                 ('Mitgliederbeiträge', 'mitgliederbeitraege.html'),
@@ -28,6 +28,50 @@ MENUITEMS = (
                 ('Schleuder', 'schleuder.html'),
               ]),
             )
+
+I18N_SUBSITES = {
+    'de': {
+        'LOCALE': "de_CH.UTF-8",
+        'STATIC_PATHS': [
+            'files'
+        ],
+        'MENUITEMS': MENUITEMS,
+    },
+    'fr': {
+        'LOCALE': "fr_CH.UTF-8",
+        'STATIC_PATHS': [
+            'files'
+        ],
+        'MENUITEMS': [
+            ('Home', 'index.html', None),
+            ('CCC-CH', '#', [
+                ('Statuts', 'statuten.html'),
+            ]),
+        ],
+    },
+    'it': {
+        'LOCALE': "it_CH.UTF-8",
+        'STATIC_PATHS': [
+            'files'
+        ],
+        'MENUITEMS': [
+            ('Home', 'index.html', None),
+            ('CCC-CH', '#', [
+                ('Statuti', 'statuten.html'),
+            ]),
+        ],
+    },
+    'en': {
+        'LOCALE': "en_GB.UTF-8",
+        'STATIC_PATHS': [
+            'files'
+        ],
+        'MENUITEMS': [
+            ('Home', 'index.html', None),
+            ('Press releases', 'category_media.html', None),
+        ],
+    }
+}
 
 # Sole author and don't use categories ... disable these features
 #AUTHOR_SAVE_AS = ''
@@ -71,16 +115,6 @@ EMAIL_ADDR = 'webmaster@ccc-ch.ch'
 # Plugins
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['i18n_subsites']
-
-# Plugin configuration
-I18N_SUBSITES = {
-  'de': {
-    'LOCALE': 'de_CH'
-  },
-  'en': {
-    'LOCALE': 'en_US'
-  }
-}
 
 # Theme
 THEME = 'theme'
