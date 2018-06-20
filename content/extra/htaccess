@@ -15,8 +15,15 @@ RewriteRule .* https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 </IfModule>
 
-# Disable directory listing
-Options -Indexes
+<ifModule mod_headers.c>
+# Cache static static resources 1 day
+<FilesMatch "\.(css|gif|ico|js|jpeg|jpg|pdf|png|svg|ttf|woff|woff2)$">
+	Header set Cache-Control "max-age=86400"
+</FilesMatch>
 
 # Set HSTS headers to enforce TLS
 Header set Strict-Transport-Security "max-age=31536000; preload" env=HTTPS
+</ifModule>
+
+# Disable directory listing
+Options -Indexes
