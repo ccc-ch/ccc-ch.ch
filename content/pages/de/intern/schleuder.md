@@ -41,10 +41,26 @@ Wir wollen keine zentrale Datenbank der Hacker in der Schweiz anlegen. Aus diese
 
 Die Admins brauchen auch kein tatsächliches Keysigning (mit Prüfung der Personaldaten) durchführen. Sie brauchen lediglich zu kontrollieren, dass die Schlüssel die sie eintragen tatsächlichen Mitgliedern ihrer Organisation gehören. Sie sollen ausserdem den Überblick behalten darüber wen sie mit welchem Key eingetragen haben, damit sie die Person bei Austritt aus der Organisation auch von der Schleuder entfernen können.
 
+## E-Mails Senden
+
+Um den aktuellen Public Key der Liste zu erhalten, sende eine unverschlüsselte
+E-Mail an `members-sendkey@schleuder.ccc-ch.ch` (inhalt egal).
+
+Um eine Nachricht an die Schleuder-Mitglieder zu senden, sende eine
+verschlüsselte und signierte E-Mail an `members@schleuder.ccc-ch.ch`. Da die
+Schleuder verschlüsselte Header nicht mag, deaktiviere bitte das Verschlüsseln
+des Betreffs deiner Nachricht.
+
+Weitere Dokumentation zur Schleuder-Software gibt's
+[hier](https://schleuder2.nadir.org/documentation/v2.2/index.html).
+
 ## List-Admins
 Jedes CCC-CH Mitglied sollte einen (1) oder zwei (2) Listadmins haben. Die Schlüssel der List-Admins müssen 2048 (oder stärkere) RSA Keys sein. Ausserdem müssen die Listadmins mit Arian Sanusi Keysigning gemacht haben.
 
 List-Admins sind dafür verantwortlich, Mitglieder ihrer Organisation auf die Liste einzutragen wenn diese das wünschen. Ausserdem müssen die List-Admins Personen entfernen die aus der jeweiligen Organisation austreten. Dies gilt insbesondere für Personen die ohne Klarnamen eingetragen wurden, da in diesem Falle keine anderen Admins einen Plausibilitätstest durchführen können.
+
+Die Dokumentation zu den Administrations-Commands gibt's
+[hier](https://schleuder2.nadir.org/documentation/v2.2/special_commands.html).
 
 ## Betrieb/Server
 Aus Gründen der Transparenz sei hier folgendes vermerkt: Die CCC-CH Schleuder läuft auf den Servern des CCCZH. Aus diesem Grund verfügen alle CCCZH AGServer-Admins über administrativen Zugriff auf die Liste.
