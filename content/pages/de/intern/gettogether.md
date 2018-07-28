@@ -14,7 +14,7 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
  *  Juli 2018, Beringen
     * **Wann:** Samstag, 2018-07-28 ab 13:00 Uhr
     * **Wo:** [Odenwilusenz](http://odenwilusenz.ch), Hardmorgenweg 21, 8222 Beringen
-    * **Traktanden:** [2018-07-28-gettogether](2018-07-28-gettogether.md)
+    * **Traktanden:** [2018-07-28-gettogether](2018-07-28-gettogether.html)
  * Juni 2018, Biel/Bienne (GV)
     * **Wann:** Sonntag, 2018-06-17 ab 13:00 Uhr im Rahmen der [Cosin](https://www.cosin.ch/)
     * **Wo:** Villa Ritter in Biel/Bienne

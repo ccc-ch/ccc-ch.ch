@@ -1,15 +1,8 @@
-# Sommer 2018 Gettogether
+Title: Sommer 2018 Gettogether
+Slug: 2018-07-28-gettogether
+Lang: de
+Date: 2018-07-28
 
-Datum:
-Samstag 28.7.2018 
-13:30
-
-Wo: 
-odenwilusenz Hackerspace
-HdardmorgeHnweg 21 
-8222 Beringen
-
-NDB hört mit!
 
 Vorstellungsrunde
 ================
