@@ -8,6 +8,10 @@ Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller 
 
 ## Kommende Gettogether
 
+ *  September 2018, St. Gallen
+    * **Wann:** Samstag, 2018-09-29 ab 14:00 Uhr
+    * **Wo:** [Ruum42](https://ruum42.ch/unser-hackerspace), Andreasstrasse 5, St. Gallen
+    * **Traktanden:** [HackMD](https://md.coredump.ch/CYNgjATCBmULTAIYHZhwCwgEYAY4A58BWMORATiPwhwFMtEswQg=)
 
 ## Vergangene Gettogether
 
