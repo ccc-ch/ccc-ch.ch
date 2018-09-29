@@ -1,27 +1,24 @@
-Title: Herbst 2018 Gettogether
+Title: September 2018 Gettogether
 Slug: 2018-09-29-gettogether
 Lang: de
 Date: 2018-09-29
 
-
-# CCC-CH Gettogether September 2018 (Ruum42)
-
 Ort:
-Ruum42
-Andreasstrasse 5
+Ruum42,
+Andreasstrasse 5,
 St. Gallen
 
 Datum: 2018-09-29
 
 Zeiten:
-Eintreffen / Z'morgen: ab 11:00
+Eintreffen / Z'morgen: ab 11:00,
 Versammlung: 14:00
 
 
 ## Vorstellungsrunde
 Wer ist hier?
 
-* **CCC Basel**: Obri, (seto kommt später)
+* **CCC Basel**: Obri
 * **CCC Ticino**: -
 * **Chaos Computer Club Zürich**: R____, Leandra, Venty, F.Murmel, F.Ussel
 * **Chaostreff Bern**: vimja, rexxnor, lo, koma5, Christine, Lukas, Toast
@@ -30,7 +27,6 @@ Wer ist hier?
 * **Hackerfunk**: Venty
 * **Odenwilusenz**: Bluetonyum
 * **Ruum42**: Wene, HPO, Pandi, Leandra
-* Andere / Externe / Gäste: Der Typ in der Ecke
 
 ## Gestaltung [35C3](https://events.ccc.de/category/congress/35c3/) CCC-CH Assembly
 
@@ -67,7 +63,7 @@ Wer ist hier?
     * [Arcade LED Box](https://www.coredump.ch/wp-content/uploads/2018/09/snake.jpg)
     * Diebstahlschutzanlage
     * [Fillygons](https://fillygons.ch/)
-    * COC (Crepes Operation Center) https://c3coc.de/
+    * COC (Crepes Operation Center) [https://c3coc.de/](https://c3coc.de/)
     * Selfies mit Venty (Pub-Kamerad)
     * Fahrendes Sofa (25km/h)
 
@@ -93,7 +89,7 @@ Wer ist hier?
 
 ## Bericht vom Besuch beim Chaostreff Zentralschweiz
 * Venty hat die Zentralschweizer besucht
-* Er hat mit ihnen Pizza gegessen :pizza: *Mahlzeit!*
+* Er hat mit ihnen Pizza gegessen
 
 ## Varia
 
@@ -109,11 +105,11 @@ Das Wiki funktioniert wieder! → [Chaos Computer Club Basel](https://wiki.chaos
 
 Ist allerdings eher das Clubwiki vom CCC Basel.....[Loading 90%]
 
-Vorschlag von Toasty: https://git.wegmueller.it/Toasterson/chaostreff.ch  -> Static site aufbauend auf Hugo (Yay!). Analog zu Zentralschweiz. Vorschläge und ideen für inhalte gerne wilkommen.
+Vorschlag von Toasty: [https://git.wegmueller.it/Toasterson/chaostreff.ch](https://git.wegmueller.it/Toasterson/chaostreff.ch)  -> Static site aufbauend auf Hugo (Yay!). Analog zu Zentralschweiz. Vorschläge und ideen für inhalte gerne wilkommen.
 
 ### Südostschweiz
 
-Hat eine neue Website: https://www.computer-club.ch
+Hat eine neue Website: [https://www.computer-club.ch](https://www.computer-club.ch)
 
 ### Hackerspace URI
 
@@ -123,7 +119,7 @@ Hat eine neue Website: https://www.computer-club.ch
     * Die haben auch öffentliche Treffen am Samstag
 
 ### Termine
-Terminliste des CCC: http://pads.ccc.de/termine
+Terminliste des CCC: [http://pads.ccc.de/termine](http://pads.ccc.de/termine)
 
 * [Chaostreffbern](https://chaostreffbern.ch/): [Eröffnungsfest Samstag 2019-03-16](https://chaostreffbern.ch/einweihung_kyburgstrasse_13_einladung.html)
 
@@ -137,8 +133,8 @@ Terminliste des CCC: http://pads.ccc.de/termine
 * [DiverDays 2018 2.0](https://diverdays.ch/) 26. bis 28. Oktober 2018 Hartlisberg
 * [LinuxDay](https://www.linuxday.at/) Dornbirn 13.10.2018
 * [VCFE-CH](https://www.vcfe.ch/doku.php) 24.-25.11.2018 in der roten Fabrik
-* Mechanical 🛠 Keyboard 🖮 Meetup am 08.12.2018 im Röschtibach 🥔 @ [CCCZH](https://www.ccczh.ch)
-* Chaosfondue 🧀 am 15.12.2018 im Röschtibach 🥔 @ [CCCZH](https://www.ccczh.ch)
+* Mechanical Keyboard Meetup am 08.12.2018 im Röschtibach @ [CCCZH](https://www.ccczh.ch)
+* Chaosfondue am 15.12.2018 im Röschtibach @ [CCCZH](https://www.ccczh.ch)
 
 
 ## Nächstes Treffen / nächstes Gettogether
