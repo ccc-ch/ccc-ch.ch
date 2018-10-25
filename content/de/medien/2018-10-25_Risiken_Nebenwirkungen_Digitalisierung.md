@@ -24,9 +24,9 @@ Das Vertrauen der Kunden in die Digitalisierung, speziell in die künstliche Int
 Kontakt
 --
 
-Sara Stalder, Geschäftsleiterin Konsumentenschutz: 078 710 27 13<br/>
-Erik Schönenberger, Geschäftsleiter Digitale Gesellschaft: 079 254 29 93<br/>
-Hernâni Marques, Vorstand und Pressesprecher CCC-CH: 079 191 23 70
+- Sara Stalder, Geschäftsleiterin Konsumentenschutz: 078 710 27 13<br/>
+- Erik Schönenberger, Geschäftsleiter Digitale Gesellschaft: 079 254 29 93<br/>
+- Hernâni Marques, Vorstand und Pressesprecher CCC-CH: 079 191 23 70
 
 Quotes
 --
@@ -40,7 +40,6 @@ Quotes
 Infomaterial
 --
 
-[Auswahl an Datennews, -pleiten und –pannen 2018](https://www.konsumentenschutz.ch/sks/content/uploads/2018/10/18_10_Datennews-und-Pannen-2018.pdf)<br/>
-[Appell an die Unternehmen](https://www.konsumentenschutz.ch/sks/content/uploads/2017/11/17_11_15_Appell_Digitaltag.pdf)<br/>
-[Ratgeber «Digitale Selbstverteidigung»](https://www.konsumentenschutz.ch/sks/content/uploads/2018/10/digi-ratgeber_okt18.pdf)<br/>
-
+- [Auswahl an Datennews, –pleiten und –pannen 2018](https://www.konsumentenschutz.ch/sks/content/uploads/2018/10/18_10_Datennews-und-Pannen-2018.pdf)<br/>
+- [Appell an die Unternehmen](https://www.konsumentenschutz.ch/sks/content/uploads/2017/11/17_11_15_Appell_Digitaltag.pdf)<br/>
+- [Ratgeber «Digitale Selbstverteidigung»](https://www.konsumentenschutz.ch/sks/content/uploads/2018/10/digi-ratgeber_okt18.pdf)<br/>
