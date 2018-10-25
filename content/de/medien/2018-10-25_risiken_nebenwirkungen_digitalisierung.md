@@ -1,6 +1,6 @@
 Title: MM Digitaltag: Risiken und Nebenwirkungen der Digitalisierung
 Lang: de
-Slug: 2018-10-25_Risiken_Nebenwirkungen_Digitalisierung
+Slug: 2018-10-25_risiken_nebenwirkungen_digitalisierung
 
 **Der Konsumentenschutz, die Digitale Gesellschaft und der Chaos Computer Club Schweiz (CCC-CH) demonstrieren am heutigen Digitaltag vereint an ihrem Stand an der Bahnhofstrasse in Zürich, wie, wo und in welchem Umfang den Besucherinnen und Besuchern im Internet heimlich oder offensichtlich persönliche Daten entlockt und verwertet werden. Zudem informieren Experten darüber, wie man seine Privatsphäre ganz konkret schützen kann. Die drei Organisationen rufen die Konsumentinnen und Konsumenten dazu auf, heute die Gelegenheit beim Schopf zu packen und ihre kritischen Fragen, Bedenken und Beschwerden bezüglich Daten- und Privatsphärenschutz direkt bei den Unternehmen vor Ort zu deponieren. Denn: Die Digitalisierung eröffnet Wirtschaft und Gesellschaft unbestritten viele Chancen, sie hat aber auch gewaltige Risiken und Nebenwirkungen.**
 
