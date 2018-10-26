@@ -25,8 +25,8 @@ Kontakt
 --
 
 - Sara Stalder, Geschäftsleiterin Konsumentenschutz: 078 710 27 13<br/>
-- Erik Schönenberger, Geschäftsleiter Digitale Gesellschaft: 079 254 29 93<br/>
 - Hernâni Marques, Vorstand und Pressesprecher CCC-CH: 079 191 23 70
+- Erik Schönenberger, Geschäftsleiter Digitale Gesellschaft<br/>
 
 Quotes
 --
