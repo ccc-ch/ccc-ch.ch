@@ -2,19 +2,23 @@ Title: Gettogether
 Slug: gettogether
 Lang: de
 Date: 2015-09-20
-Modified: 2015-09-21
+Modified: 2018-09-29
 
 Ca. alle zwei Monate führt der CCC-CH ein Gettogether durch. Ein Treffen aller vertretenen Chaostreffs und Hackerspaces. Dabei werden Themen diskutiert die den CCC-CH zur Zeit beschäftigen. Die Mitglieder können Projekte vorstellen, Events und Ausflüge werden geplant. Die Gettogether werden jedes Mal von einem anderen Mitglied des CCC-CH organisiert und finden deshalb auch jedes Mal an einem anderen Ort statt.
 
 ## Kommende Gettogether
 
- *  September 2018, St. Gallen
-    * **Wann:** Samstag, 2018-09-29 ab 14:00 Uhr
-    * **Wo:** [Ruum42](https://ruum42.ch/unser-hackerspace), Andreasstrasse 5, St. Gallen
-    * **Traktanden:** [HackMD](https://md.coredump.ch/CYNgjATCBmULTAIYHZhwCwgEYAY4A58BWMORATiPwhwFMtEswQg=)
+ * Dezember 2018, Leipzig
+    * **Wann:** TBD
+    * **Wo:** 35c3, CCL, Leipzig
+    * **Traktanden:** TBD
 
 ## Vergangene Gettogether
 
+ *  September 2018, St. Gallen
+    * **Wann:** Samstag, 2018-09-29 ab 14:00 Uhr
+    * **Wo:** [Ruum42](https://ruum42.ch/unser-hackerspace), Andreasstrasse 5, St. Gallen
+    * **Traktanden:** [2018-09-29-gettogether](2018-09-29-gettogether.html)
  *  Juli 2018, Beringen
     * **Wann:** Samstag, 2018-07-28 ab 13:00 Uhr
     * **Wo:** [Odenwilusenz](http://odenwilusenz.ch), Hardmorgenweg 21, 8222 Beringen
